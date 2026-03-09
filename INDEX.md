@@ -29,18 +29,21 @@
 *
   - Tags: `detention-immigration-interface`, `reflection-period-temporary-stay`, `assistance-entitlements`, `referral-pathway`
   - Entry: [`victim-identification/legislation/au-migration-act-bridging-visa-f.md`](victim-identification/legislation/au-migration-act-bridging-visa-f.md)
+  - Source file: [`docs/victim-identification/legislation/au-migration-act-bridging-visa-f.html`](docs/victim-identification/legislation/au-migration-act-bridging-visa-f.html)
 
 - 🔓 **[Criminal Code Act 1995 (Cth) — Division 270 (Slavery) & Division 271 (Trafficking in Persons)](https://www.legislation.gov.au/C2004A04868/latest/text)** (act-statute, 1995-03-15)
   - *Core federal criminal provisions criminalising slavery, servitude, forced labour, deceptive recruiting, and trafficking in persons. Division 270 defines slavery and slavery-like offences including servitude and forced labour, while Division 271 addresses trafficking in persons, debt bondage, and organ trafficking. These provisions, significantly amended by the Crimes Legislation Amendment (Slavery, Slavery-like Conditions and People Trafficking) Act 2013, establish the offence framework against which victim identification occurs in Australia.
 *
   - Tags: `definition-scope`, `labour-exploitation-indicators`, `sex-trafficking-indicators`, `first-responder-duties`
   - Entry: [`victim-identification/legislation/au-criminal-code-div-270-271.md`](victim-identification/legislation/au-criminal-code-div-270-271.md)
+  - Source file: [`docs/victim-identification/legislation/au-criminal-code-div-270-271.html`](docs/victim-identification/legislation/au-criminal-code-div-270-271.html)
 
 - 🔓 **[Modern Slavery Act 2018 (Cth)](https://www.legislation.gov.au/Details/C2018A00153)** (act-statute, 2018-12-10)
   - *Establishes mandatory modern slavery reporting obligations for entities with annual consolidated revenue exceeding AUD 100 million, requiring them to report on risks of modern slavery in their operations and supply chains and actions to address those risks. The Act defines modern slavery by reference to the Criminal Code divisions on slavery, trafficking, and slavery-like practices, providing a statutory identification framework. It also establishes the role of the Australian Anti-Slavery Commissioner and the Modern Slavery Statements Register as a public repository.
 *
   - Tags: `definition-scope`, `labour-exploitation-indicators`
   - Entry: [`victim-identification/legislation/au-modern-slavery-act-2018.md`](victim-identification/legislation/au-modern-slavery-act-2018.md)
+  - Source file: [`docs/victim-identification/legislation/au-modern-slavery-act-2018.html`](docs/victim-identification/legislation/au-modern-slavery-act-2018.html)
 
 **EU**
 
@@ -49,24 +52,28 @@
 *
   - Tags: `definition-scope`, `assistance-entitlements`
   - Entry: [`victim-identification/legislation/eu-framework-decision-2002-629.md`](victim-identification/legislation/eu-framework-decision-2002-629.md)
+  - Source file: [`docs/victim-identification/legislation/eu-framework-decision-2002-629.html`](docs/victim-identification/legislation/eu-framework-decision-2002-629.html)
 
 - 🔓 **[Council Directive 2004/81/EC on the Residence Permit Issued to Third-Country Nationals Who Are Victims of Trafficking in Human Beings or Who Have Been the Subject of an Action to Facilitate Illegal Immigration, Who Cooperate with the Competent Authorities](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32004L0081)** (directive, 2004-04-29)
   - *Establishes the conditions under which third-country national trafficking victims may be granted a reflection period and a residence permit of limited duration. The reflection period allows victims to recover and decide whether to cooperate with competent authorities. Central to victim identification as it links immigration status to the identification and protection process.
 *
   - Tags: `reflection-period-temporary-stay`, `referral-pathway`, `assistance-entitlements`, `detention-immigration-interface`
   - Entry: [`victim-identification/legislation/eu-directive-2004-81.md`](victim-identification/legislation/eu-directive-2004-81.md)
+  - Source file: [`docs/victim-identification/legislation/eu-directive-2004-81.html`](docs/victim-identification/legislation/eu-directive-2004-81.html)
 
 - 🔓 **[Directive 2011/36/EU of the European Parliament and of the Council on Preventing and Combating Trafficking in Human Beings and Protecting Its Victims](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011L0036)** (directive, 2011-04-05)
   - *Core EU anti-trafficking directive establishing minimum rules on the definition of offences and sanctions related to trafficking in human beings. Articles 11–12 specifically address victim identification and assistance, requiring Member States to establish appropriate mechanisms for early identification and support, and to train officials likely to come into contact with victims.
 *
   - Tags: `definition-scope`, `indicators-screening`, `first-responder-duties`, `non-punishment-link`, `child-victim-identification`
   - Entry: [`victim-identification/legislation/eu-directive-2011-36.md`](victim-identification/legislation/eu-directive-2011-36.md)
+  - Source file: [`docs/victim-identification/legislation/eu-directive-2011-36.html`](docs/victim-identification/legislation/eu-directive-2011-36.html)
 
 - 🔓 **[Directive 2012/29/EU of the European Parliament and of the Council Establishing Minimum Standards on the Rights, Support and Protection of Victims of Crime (Victims' Rights Directive)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32012L0029)** (directive, 2012-10-25)
   - *Establishes minimum standards on the rights, support, and protection of victims of crime, including trafficking victims. Requires an individual assessment of victims to identify specific protection needs, and provides for the right to information, interpretation, support services, and participation in criminal proceedings. Particularly relevant for trafficking victims given their heightened vulnerability.
 *
   - Tags: `referral-pathway`, `interviewing-trauma-informed`, `assistance-entitlements`, `child-victim-identification`
   - Entry: [`victim-identification/legislation/eu-directive-2012-29.md`](victim-identification/legislation/eu-directive-2012-29.md)
+  - Source file: [`docs/victim-identification/legislation/eu-directive-2012-29.html`](docs/victim-identification/legislation/eu-directive-2012-29.html)
 
 **UK**
 
@@ -75,24 +82,28 @@
 *
   - Tags: `definition-scope`, `competent-authority-nrm`, `first-responder-duties`, `non-punishment-link`
   - Entry: [`victim-identification/legislation/uk-modern-slavery-act-2015.md`](victim-identification/legislation/uk-modern-slavery-act-2015.md)
+  - Source file: [`docs/victim-identification/legislation/uk-modern-slavery-act-2015.html`](docs/victim-identification/legislation/uk-modern-slavery-act-2015.html)
 
 - 🔓 **[Human Trafficking and Exploitation (Scotland) Act 2015](https://www.legislation.gov.uk/asp/2015/12/contents)** (act-statute, 2015-11-04)
   - *Scotland-specific trafficking and exploitation legislation establishing offences of human trafficking and slavery, servitude, and forced labour. Creates a duty to provide support to victims (including a minimum 90-day recovery and reflection period), introduces independent child trafficking guardians, and sets out victim identification duties for Scottish authorities.
 *
   - Tags: `definition-scope`, `child-victim-identification`, `reflection-period-temporary-stay`, `first-responder-duties`
   - Entry: [`victim-identification/legislation/uk-human-trafficking-exploitation-scotland-2015.md`](victim-identification/legislation/uk-human-trafficking-exploitation-scotland-2015.md)
+  - Source file: [`docs/victim-identification/legislation/uk-human-trafficking-exploitation-scotland-2015.html`](docs/victim-identification/legislation/uk-human-trafficking-exploitation-scotland-2015.html)
 
 - 🔓 **[Nationality and Borders Act 2022 (Part 5 — Modern Slavery)](https://www.legislation.gov.uk/ukpga/2022/36/part/5)** (act-statute, 2022-04-28)
   - *Reforms the National Referral Mechanism process by introducing trafficking and slavery information notices, statutory time limits for conclusive grounds decisions, and a revised definition of victim status. Part 5 reshapes victim identification procedures, including the reasonable grounds threshold and disqualification criteria for certain individuals.
 *
   - Tags: `competent-authority-nrm`, `definition-scope`, `referral-pathway`, `reflection-period-temporary-stay`
   - Entry: [`victim-identification/legislation/uk-nationality-borders-act-2022-pt5.md`](victim-identification/legislation/uk-nationality-borders-act-2022-pt5.md)
+  - Source file: [`docs/victim-identification/legislation/uk-nationality-borders-act-2022-pt5.html`](docs/victim-identification/legislation/uk-nationality-borders-act-2022-pt5.html)
 
 - 🔓 **[Illegal Migration Act 2023 (Modern Slavery Provisions)](https://www.legislation.gov.uk/ukpga/2023/37)** (act-statute, 2023-07-20)
   - *Restricts NRM access for persons who entered the UK irregularly, limiting modern slavery protections for certain cohorts by permitting removal before victim identification is complete. Amends the Modern Slavery Act 2015 and narrows support entitlements, creating a significant interface between immigration enforcement and victim identification.
 *
   - Tags: `competent-authority-nrm`, `detention-immigration-interface`, `referral-pathway`, `assistance-entitlements`
   - Entry: [`victim-identification/legislation/uk-illegal-migration-act-2023.md`](victim-identification/legislation/uk-illegal-migration-act-2023.md)
+  - Source file: [`docs/victim-identification/legislation/uk-illegal-migration-act-2023.html`](docs/victim-identification/legislation/uk-illegal-migration-act-2023.html)
 
 **US**
 
@@ -107,42 +118,49 @@
 *
   - Tags: `definition-scope`, `labour-exploitation-indicators`, `sex-trafficking-indicators`
   - Entry: [`victim-identification/legislation/us-18-usc-1589-1592.md`](victim-identification/legislation/us-18-usc-1589-1592.md)
+  - Source file: [`docs/victim-identification/legislation/us-18-usc-1589-1592.html`](docs/victim-identification/legislation/us-18-usc-1589-1592.html)
 
 - 🔓 **[8 CFR § 214.11 — T Visa Regulation (Nonimmigrant Victims of Severe Forms of Trafficking)](https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-214/subpart-A/section-214.11)** (regulation-rule, 2002-01-31)
   - *Regulation governing T nonimmigrant status for victims of severe forms of trafficking. Establishes evidentiary standards for victim identification in T visa adjudication, including what constitutes a "severe form of trafficking in persons" and how applicants demonstrate physical presence due to trafficking. Current T visa rules are in Subpart C of 8 CFR Part 214.
 *
   - Tags: `definition-scope`, `detention-immigration-interface`, `reflection-period-temporary-stay`
   - Entry: [`victim-identification/legislation/us-8-cfr-214-11.md`](victim-identification/legislation/us-8-cfr-214-11.md)
+  - Source file: [`docs/victim-identification/legislation/us-8-cfr-214-11.html`](docs/victim-identification/legislation/us-8-cfr-214-11.html)
 
 - 🔓 **[28 CFR Part 1100 — Trafficking in Persons (DOJ Regulation)](https://www.ecfr.gov/current/title-28/chapter-XI/part-1100)** (regulation-rule, 2002-04-12)
   - *DOJ coordination regulation implementing the TVPA's victim protection mandate. Defines roles and responsibilities of federal law enforcement for victim identification, requires training of personnel in recognising trafficking indicators, and sets procedures for protecting and providing services to victims in federal custody, including continued presence authorisation.
 *
   - Tags: `first-responder-duties`, `indicators-screening`, `referral-pathway`, `assistance-entitlements`
   - Entry: [`victim-identification/legislation/us-28-cfr-1100.md`](victim-identification/legislation/us-28-cfr-1100.md)
+  - Source file: [`docs/victim-identification/legislation/us-28-cfr-1100.html`](docs/victim-identification/legislation/us-28-cfr-1100.html)
 
 - 🔓 **[Trafficking Victims Protection Reauthorization Act of 2003](https://www.congress.gov/bill/108th-congress/house-bill/2620)** (act-statute, 2003-12-19)
   - *First reauthorization of the TVPA. Enhanced victim protections by expanding T visa eligibility, added a civil cause of action allowing trafficking victims to sue their traffickers in federal court, and designated human trafficking as a RICO predicate offence, strengthening identification-to-prosecution pathways.
 *
   - Tags: `definition-scope`, `assistance-entitlements`, `referral-pathway`
   - Entry: [`victim-identification/legislation/us-tvpra-2003.md`](victim-identification/legislation/us-tvpra-2003.md)
+  - Source file: [`docs/victim-identification/legislation/us-tvpra-2003.html`](docs/victim-identification/legislation/us-tvpra-2003.html)
 
 - 🔓 **[Trafficking Victims Protection Reauthorization Act of 2005](https://www.congress.gov/bill/109th-congress/house-bill/972)** (act-statute, 2006-01-10)
   - *Added grant programs for state and local law enforcement training on victim identification and expanded extraterritorial jurisdiction over trafficking offences committed abroad by federal employees or contractors. Established pilot programme for services to juvenile trafficking victims.
 *
   - Tags: `first-responder-duties`, `indicators-screening`, `child-victim-identification`
   - Entry: [`victim-identification/legislation/us-tvpra-2005.md`](victim-identification/legislation/us-tvpra-2005.md)
+  - Source file: [`docs/victim-identification/legislation/us-tvpra-2005.html`](docs/victim-identification/legislation/us-tvpra-2005.html)
 
 - 🔓 **[William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008](https://www.congress.gov/bill/110th-congress/house-bill/7311)** (act-statute, 2008-12-23)
   - *Strengthened protections for child trafficking victims, including mandatory screening of unaccompanied children at the border for trafficking indicators. Required HHS custody and care for unaccompanied alien children and expanded protections against retaliation for domestic workers reporting trafficking.
 *
   - Tags: `child-victim-identification`, `indicators-screening`, `detention-immigration-interface`, `first-responder-duties`
   - Entry: [`victim-identification/legislation/us-tvpra-2008.md`](victim-identification/legislation/us-tvpra-2008.md)
+  - Source file: [`docs/victim-identification/legislation/us-tvpra-2008.html`](docs/victim-identification/legislation/us-tvpra-2008.html)
 
 - 🔓 **[Violence Against Women Reauthorization Act of 2013 (Title XII — Trafficking)](https://www.congress.gov/bill/113th-congress/senate-bill/47)** (act-statute, 2013-03-07)
   - *Title XII of VAWA 2013 reauthorized the TVPA with expanded trafficking definitions, added an emergency victim assistance fund, and strengthened grant purpose areas to include sex trafficking. Clarified that victim services extend to trafficking victims who also experience domestic violence, sexual assault, or stalking.
 *
   - Tags: `definition-scope`, `assistance-entitlements`, `sex-trafficking-indicators`
   - Entry: [`victim-identification/legislation/us-tvpra-2013.md`](victim-identification/legislation/us-tvpra-2013.md)
+  - Source file: [`docs/victim-identification/legislation/us-tvpra-2013.html`](docs/victim-identification/legislation/us-tvpra-2013.html)
 
 ### Case Law
 
@@ -179,36 +197,42 @@
 *
   - Tags: `definition-scope`, `indicators-screening`, `child-victim-identification`, `labour-exploitation-indicators`
   - Entry: [`victim-identification/case-law/echr-siliadin-v-france-2005.md`](victim-identification/case-law/echr-siliadin-v-france-2005.md)
+  - Source file: [`docs/victim-identification/case-law/echr-siliadin-v-france-2005.html`](docs/victim-identification/case-law/echr-siliadin-v-france-2005.html)
 
 - 🔓 **[Rantsev v. Cyprus and Russia [2010] ECHR 25965/04](https://hudoc.echr.coe.int/eng?i=001-96549)** (judgment-opinion, 2010-01-07)
   - *Landmark ECHR judgment establishing that Article 4 (prohibition of slavery/forced labour) imposes positive obligations on states to identify potential trafficking victims. The Court held that states must have an adequate legal and administrative framework for victim identification and must take operational measures to protect individuals where authorities are aware or ought to be aware of credible trafficking indicators.
 *
   - Tags: `definition-scope`, `indicators-screening`, `first-responder-duties`, `competent-authority-nrm`
   - Entry: [`victim-identification/case-law/echr-rantsev-v-cyprus-russia-2010.md`](victim-identification/case-law/echr-rantsev-v-cyprus-russia-2010.md)
+  - Source file: [`docs/victim-identification/case-law/echr-rantsev-v-cyprus-russia-2010.html`](docs/victim-identification/case-law/echr-rantsev-v-cyprus-russia-2010.html)
 
 - 🔓 **[C.N. v. United Kingdom [2012] ECHR 4239/08](https://hudoc.echr.coe.int/eng?i=001-114518)** (judgment-opinion, 2012-11-13)
   - *The Court held that the United Kingdom violated Article 4 by lacking a specific legislative provision criminalising domestic servitude at the relevant time. The judgment underscored the procedural limb of Art. 4, requiring states to maintain an adequate legal framework enabling effective investigation of credible claims of servitude and to identify potential victims through that process.
 *
   - Tags: `definition-scope`, `first-responder-duties`, `labour-exploitation-indicators`
   - Entry: [`victim-identification/case-law/echr-cn-v-uk-2012.md`](victim-identification/case-law/echr-cn-v-uk-2012.md)
+  - Source file: [`docs/victim-identification/case-law/echr-cn-v-uk-2012.html`](docs/victim-identification/case-law/echr-cn-v-uk-2012.html)
 
 - 🔓 **[L.E. v. Greece [2016] ECHR 71545/12](https://hudoc.echr.coe.int/eng?i=001-160218)** (judgment-opinion, 2016-01-21)
   - *The Court found that Greece violated Article 4 due to an unjustified delay in formally identifying the applicant, a Nigerian woman, as a trafficking victim despite her repeated reports to police. The judgment established that states must act promptly upon receiving credible indicators of trafficking and that delays in formal identification can themselves constitute a breach of the positive obligation under Art. 4.
 *
   - Tags: `competent-authority-nrm`, `first-responder-duties`, `referral-pathway`, `sex-trafficking-indicators`
   - Entry: [`victim-identification/case-law/echr-le-v-greece-2016.md`](victim-identification/case-law/echr-le-v-greece-2016.md)
+  - Source file: [`docs/victim-identification/case-law/echr-le-v-greece-2016.html`](docs/victim-identification/case-law/echr-le-v-greece-2016.html)
 
 - 🔓 **[Chowdury and Others v. Greece [2017] ECHR 21884/15](https://hudoc.echr.coe.int/eng?i=001-172701)** (judgment-opinion, 2017-03-30)
   - *The Court found Greece in violation of Article 4 for failing to prevent forced labour and human trafficking of Bangladeshi strawberry pickers in Manolada. The judgment confirmed that states bear a positive obligation to identify victims of trafficking and forced labour, including operational duties to protect persons in situations of known exploitation, even where the victims had not formally complained.
 *
   - Tags: `definition-scope`, `indicators-screening`, `first-responder-duties`, `labour-exploitation-indicators`
   - Entry: [`victim-identification/case-law/echr-chowdury-v-greece-2017.md`](victim-identification/case-law/echr-chowdury-v-greece-2017.md)
+  - Source file: [`docs/victim-identification/case-law/echr-chowdury-v-greece-2017.html`](docs/victim-identification/case-law/echr-chowdury-v-greece-2017.html)
 
 - 🔓 **[S.M. v. Croatia [2020] ECHR (Grand Chamber) 60561/14](https://hudoc.echr.coe.int/eng?i=001-203503)** (judgment-opinion, 2020-06-25)
   - *Grand Chamber judgment clarifying that forced prostitution and sexual exploitation fall within the scope of Article 4's prohibition on trafficking. The Court confirmed that Art. 4 encompasses trafficking in human beings and that states have procedural obligations to investigate credible allegations of trafficking for sexual exploitation, reinforcing the duty of authorities to identify potential victims at the investigative stage.
 *
   - Tags: `definition-scope`, `sex-trafficking-indicators`, `first-responder-duties`, `indicators-screening`
   - Entry: [`victim-identification/case-law/echr-sm-v-croatia-2020.md`](victim-identification/case-law/echr-sm-v-croatia-2020.md)
+  - Source file: [`docs/victim-identification/case-law/echr-sm-v-croatia-2020.html`](docs/victim-identification/case-law/echr-sm-v-croatia-2020.html)
 
 **EU**
 
@@ -217,12 +241,14 @@
 *
   - Tags: `competent-authority-nrm`, `data-protection-confidentiality`
   - Entry: [`victim-identification/case-law/eu-cjeu-c-268-21-2023.md`](victim-identification/case-law/eu-cjeu-c-268-21-2023.md)
+  - Source file: [`docs/victim-identification/case-law/eu-cjeu-c-268-21-2023.html`](docs/victim-identification/case-law/eu-cjeu-c-268-21-2023.html)
 
 - 🔓 **[CJEU Case C-66/22 — Residence Permits and Reflection Period under Directive 2004/81/EC](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:62021CJ0066)** (judgment-opinion, 2024)
   - *CJEU judgment interpreting Article 6 of Directive 2004/81/EC on the reflection period granted to third-country national trafficking victims. Clarified that the reflection period must be afforded to suspected trafficking victims to allow recovery and informed decision-making on cooperation, and that expulsion measures — including Dublin transfers — are prohibited during this period.
 *
   - Tags: `reflection-period-temporary-stay`, `detention-immigration-interface`, `referral-pathway`
   - Entry: [`victim-identification/case-law/eu-cjeu-c-66-22-2024.md`](victim-identification/case-law/eu-cjeu-c-66-22-2024.md)
+  - Source file: [`docs/victim-identification/case-law/eu-cjeu-c-66-22-2024.html`](docs/victim-identification/case-law/eu-cjeu-c-66-22-2024.html)
 
 **UK**
 
@@ -231,18 +257,21 @@
 *
   - Tags: `non-punishment-link`, `indicators-screening`, `first-responder-duties`
   - Entry: [`victim-identification/case-law/uk-r-v-n-r-v-l-2012.md`](victim-identification/case-law/uk-r-v-n-r-v-l-2012.md)
+  - Source file: [`docs/victim-identification/case-law/uk-r-v-n-r-v-l-2012.html`](docs/victim-identification/case-law/uk-r-v-n-r-v-l-2012.html)
 
 - 🔓 **[R v. DS [2020] EWCA Crim 285](https://www.bailii.org/ew/cases/EWCA/Crim/2020/285.html)** (judgment-opinion, 2020-03-13)
   - *Court of Appeal examined the application of the s. 45 Modern Slavery Act defence and the relationship between victim identification and non-punishment. Held that early identification of trafficking status is of paramount importance, and that a credible suspicion of trafficking must trigger a qualified assessment before any prosecution decision. The jury, not the judge on abuse of process, determines trafficking facts.
 *
   - Tags: `non-punishment-link`, `indicators-screening`, `competent-authority-nrm`
   - Entry: [`victim-identification/case-law/uk-r-v-ds-2020.md`](victim-identification/case-law/uk-r-v-ds-2020.md)
+  - Source file: [`docs/victim-identification/case-law/uk-r-v-ds-2020.html`](docs/victim-identification/case-law/uk-r-v-ds-2020.html)
 
 - 🔓 **[MS (Pakistan) v. SSHD [2020] UKSC 9](https://www.supremecourt.uk/cases/uksc-2018-0159)** (judgment-opinion, 2020-03-18)
   - *Supreme Court clarified that immigration tribunals are not bound by NRM reasonable grounds or conclusive grounds decisions and may independently determine whether an individual is a victim of trafficking. Establishes that the NRM is an essentially factual determination, and tribunals are better placed to assess victim status on available evidence.
 *
   - Tags: `competent-authority-nrm`, `definition-scope`, `detention-immigration-interface`
   - Entry: [`victim-identification/case-law/uk-ms-pakistan-v-sshd-2020.md`](victim-identification/case-law/uk-ms-pakistan-v-sshd-2020.md)
+  - Source file: [`docs/victim-identification/case-law/uk-ms-pakistan-v-sshd-2020.html`](docs/victim-identification/case-law/uk-ms-pakistan-v-sshd-2020.html)
 
 - 🔒 **MN and Others v. SSHD [2020] EWCA Civ 1746 (NRM Decisions)** (judgment-opinion, 2020-12-21)
   - *Court of Appeal challenge to the NRM decision-making process and the Competent Authority's standard of proof for victim identification. Held that the Competent Authority must properly engage with expert evidence and give adequate reasons when rejecting claims of trafficking, reinforcing procedural fairness standards in conclusive grounds decisions.
@@ -255,6 +284,7 @@
 *
   - Tags: `child-victim-identification`, `non-punishment-link`, `indicators-screening`, `competent-authority-nrm`
   - Entry: [`victim-identification/case-law/uk-vcl-an-v-uk-2021.md`](victim-identification/case-law/uk-vcl-an-v-uk-2021.md)
+  - Source file: [`docs/victim-identification/case-law/uk-vcl-an-v-uk-2021.html`](docs/victim-identification/case-law/uk-vcl-an-v-uk-2021.html)
 
 **US**
 
@@ -323,12 +353,14 @@
 *
   - Tags: `labour-exploitation-indicators`, `cross-border-referral-return`, `indicators-screening`
   - Entry: [`victim-identification/prosecution-procedure/eu-eurojust-prosecution-guidance.md`](victim-identification/prosecution-procedure/eu-eurojust-prosecution-guidance.md)
+  - Source file: [`docs/victim-identification/prosecution-procedure/eu-eurojust-prosecution-guidance.html`](docs/victim-identification/prosecution-procedure/eu-eurojust-prosecution-guidance.html)
 
 - 🔓 **[Eurojust Report on Trafficking in Human Beings](https://www.eurojust.europa.eu/publication/eurojust-report-trafficking-human-beings)** (report, 2021)
   - *Comprehensive analysis of Eurojust's casework on trafficking in human beings between 2017 and 2020, examining 91 THB cases and providing 18 targeted recommendations for prosecutors, judges, and law enforcement. Addresses judicial coordination challenges, victim identification across borders, and the importance of early identification in cross-border investigations.
 *
   - Tags: `cross-border-referral-return`, `indicators-screening`, `referral-pathway`
   - Entry: [`victim-identification/prosecution-procedure/eu-eurojust-thb-casework-report.md`](victim-identification/prosecution-procedure/eu-eurojust-thb-casework-report.md)
+  - Source file: [`docs/victim-identification/prosecution-procedure/eu-eurojust-thb-casework-report.html`](docs/victim-identification/prosecution-procedure/eu-eurojust-thb-casework-report.html)
 
 **UK**
 
@@ -337,12 +369,14 @@
 *
   - Tags: `non-punishment-link`, `indicators-screening`, `first-responder-duties`, `referral-pathway`
   - Entry: [`victim-identification/prosecution-procedure/uk-cps-modern-slavery-guidance.md`](victim-identification/prosecution-procedure/uk-cps-modern-slavery-guidance.md)
+  - Source file: [`docs/victim-identification/prosecution-procedure/uk-cps-modern-slavery-guidance.html`](docs/victim-identification/prosecution-procedure/uk-cps-modern-slavery-guidance.html)
 
 - 🔓 **[CPS Legal Guidance: Non-Prosecution of Victims of Trafficking](https://www.cps.gov.uk/legal-guidance/modern-slavery-and-human-trafficking-offences-and-defences-including-section-45)** (practice-direction, 2024-01-01)
   - *CPS practice guidance implementing the non-punishment principle for trafficking victims. Directs prosecutors to identify potential trafficking victims before making prosecution decisions, applying public interest considerations and the s. 45 defence. Requires that where a credible defence of trafficking-compelled offending exists, the case should not be charged or should be discontinued.
 *
   - Tags: `non-punishment-link`, `indicators-screening`, `interviewing-trauma-informed`
   - Entry: [`victim-identification/prosecution-procedure/uk-cps-non-prosecution-victims.md`](victim-identification/prosecution-procedure/uk-cps-non-prosecution-victims.md)
+  - Source file: [`docs/victim-identification/prosecution-procedure/uk-cps-non-prosecution-victims.html`](docs/victim-identification/prosecution-procedure/uk-cps-non-prosecution-victims.html)
 
 **US**
 
@@ -351,12 +385,14 @@
 *
   - Tags: `indicators-screening`, `first-responder-duties`, `referral-pathway`
   - Entry: [`victim-identification/prosecution-procedure/us-doj-trafficking-prosecution-guide.md`](victim-identification/prosecution-procedure/us-doj-trafficking-prosecution-guide.md)
+  - Source file: [`docs/victim-identification/prosecution-procedure/us-doj-trafficking-prosecution-guide.pdf`](docs/victim-identification/prosecution-procedure/us-doj-trafficking-prosecution-guide.pdf)
 
 - 🔓 **[Attorney General Guidelines for Victim and Witness Assistance (Chapter 10 — Trafficking)](https://www.justice.gov/d9/pages/attachments/2022/10/21/new_ag_guidlines_for_vwa.pdf)** (guideline-sop, 2022)
   - *The AG Guidelines (2022 edition, effective March 2023) establish mandatory obligations for DOJ personnel in the treatment of crime victims and witnesses. The trafficking chapter addresses identification of trafficking victims encountered during federal investigations, referral to services, and coordination between law enforcement and victim assistance specialists.
 *
   - Tags: `first-responder-duties`, `referral-pathway`, `assistance-entitlements`
   - Entry: [`victim-identification/prosecution-procedure/us-ag-guidelines-victim-witness-ch10.md`](victim-identification/prosecution-procedure/us-ag-guidelines-victim-witness-ch10.md)
+  - Source file: [`docs/victim-identification/prosecution-procedure/us-ag-guidelines-victim-witness-ch10.pdf`](docs/victim-identification/prosecution-procedure/us-ag-guidelines-victim-witness-ch10.pdf)
 
 ### Operational Guidance
 
@@ -367,12 +403,14 @@
 *
   - Tags: `indicators-screening`, `referral-pathway`, `first-responder-duties`, `cross-border-referral-return`
   - Entry: [`victim-identification/operational-guidance/asean-bali-process-victim-id-guide.md`](victim-identification/operational-guidance/asean-bali-process-victim-id-guide.md)
+  - Source file: [`docs/victim-identification/operational-guidance/asean-bali-process-victim-id-guide.pdf`](docs/victim-identification/operational-guidance/asean-bali-process-victim-id-guide.pdf)
 
 - 🔓 **[Trafficking Victim Identification: A Practitioner Guide](https://s3.ap-southeast-2.amazonaws.com/assets.rso.baliprocess.net/app/uploads/2023/09/22165510/PG-1-Trafficking-Victim-Identification-1.pdf)** (guideline-sop, 2021-05-01)
   - *Practitioner-level guide offering detailed, actionable guidance on the identification of adult and child trafficking victims. Covers reactive and proactive identification approaches, common barriers, and good practices drawn from Bali Process member states. Designed for police, prosecutors, immigration officers, labour inspectors, healthcare workers, and social workers engaged in frontline victim identification and referral.
 *
   - Tags: `indicators-screening`, `first-responder-duties`, `interviewing-trauma-informed`, `child-victim-identification`, `labour-exploitation-indicators`
   - Entry: [`victim-identification/operational-guidance/asean-practitioner-guidelines-victim-id.md`](victim-identification/operational-guidance/asean-practitioner-guidelines-victim-id.md)
+  - Source file: [`docs/victim-identification/operational-guidance/asean-practitioner-guidelines-victim-id.pdf`](docs/victim-identification/operational-guidance/asean-practitioner-guidelines-victim-id.pdf)
 
 **AU**
 
@@ -387,12 +425,14 @@
 *
   - Tags: `indicators-screening`, `first-responder-duties`, `labour-exploitation-indicators`, `sex-trafficking-indicators`
   - Entry: [`victim-identification/operational-guidance/au-afp-trafficking-indicators.md`](victim-identification/operational-guidance/au-afp-trafficking-indicators.md)
+  - Source file: [`docs/victim-identification/operational-guidance/au-afp-trafficking-indicators.html`](docs/victim-identification/operational-guidance/au-afp-trafficking-indicators.html)
 
 - 🔓 **[Australian Red Cross: Support for Trafficked People Program — Casework and Service Delivery Guidelines](https://www.redcross.org.au/migration/support-for-trafficked-people/)** (guideline-sop, 2020-01-01)
   - *Operational guidelines for the Australian Red Cross's delivery of the Support for Trafficked People Program (STPP), funded by the Department of Social Services. The Red Cross provides person-centred, individual case management through a dedicated caseworker, including assistance with accommodation, medical treatment, counselling, legal and migration advice referrals, skills development, and social support. Dependent children of trafficked persons may receive assistance with childcare, schooling, and medical support. The guidelines reflect a trauma-informed approach to post-identification victim support delivery.
 *
   - Tags: `assistance-entitlements`, `referral-pathway`, `child-victim-identification`
   - Entry: [`victim-identification/operational-guidance/au-red-cross-support-guidelines.md`](victim-identification/operational-guidance/au-red-cross-support-guidelines.md)
+  - Source file: [`docs/victim-identification/operational-guidance/au-red-cross-support-guidelines.html`](docs/victim-identification/operational-guidance/au-red-cross-support-guidelines.html)
 
 **EU**
 
@@ -415,18 +455,21 @@
 *
   - Tags: `indicators-screening`, `labour-exploitation-indicators`, `first-responder-duties`
   - Entry: [`victim-identification/operational-guidance/ilo-indicators-forced-labour-2012.md`](victim-identification/operational-guidance/ilo-indicators-forced-labour-2012.md)
+  - Source file: [`docs/victim-identification/operational-guidance/ilo-indicators-forced-labour-2012.html`](docs/victim-identification/operational-guidance/ilo-indicators-forced-labour-2012.html)
 
 - 🔓 **[ILO: Hard to See, Harder to Count — Survey Guidelines to Estimate Forced Labour of Adults and Children (2012)](https://www.ilo.org/publications/hard-see-harder-count-survey-guidelines-estimate-forced-labour-adults-and-0)** (toolkit-manual, 2012)
   - *Provides the first comprehensive operational methodology for forced-labour prevalence surveys, including sampling techniques, an operational definition of forced labour for survey purposes, and a minimum question set for assessing forced-labour situations. Directly relevant to victim identification as it establishes the survey-based methods that underpin global estimates and guide proactive identification of hidden forced-labour populations.
 *
   - Tags: `indicators-screening`, `labour-exploitation-indicators`
   - Entry: [`victim-identification/operational-guidance/ilo-hard-to-see-harder-to-count-2012.md`](victim-identification/operational-guidance/ilo-hard-to-see-harder-to-count-2012.md)
+  - Source file: [`docs/victim-identification/operational-guidance/ilo-hard-to-see-harder-to-count-2012.html`](docs/victim-identification/operational-guidance/ilo-hard-to-see-harder-to-count-2012.html)
 
 - 🔓 **[ILO General Principles and Operational Guidelines for Fair Recruitment and Definition of Recruitment Fees and Related Costs](https://www.ilo.org/topics-and-sectors/fair-recruitment/fair-recruitment-initiative)** (guideline-sop, 2019)
   - *Establishes principles and operational indicators for fair recruitment practices, defining prohibited recruitment fees and related costs that serve as red flags for trafficking and forced labour. Provides a framework for identifying exploitation at the recruitment stage, enabling earlier victim identification before exploitation is fully entrenched.
 *
   - Tags: `indicators-screening`, `labour-exploitation-indicators`
   - Entry: [`victim-identification/operational-guidance/ilo-fair-recruitment-indicators.md`](victim-identification/operational-guidance/ilo-fair-recruitment-indicators.md)
+  - Source file: [`docs/victim-identification/operational-guidance/ilo-fair-recruitment-indicators.html`](docs/victim-identification/operational-guidance/ilo-fair-recruitment-indicators.html)
 
 **OSCE**
 
@@ -449,12 +492,14 @@
 *
   - Tags: `labour-exploitation-indicators`, `indicators-screening`, `first-responder-duties`
   - Entry: [`victim-identification/operational-guidance/uk-glaa-labour-exploitation-indicators.md`](victim-identification/operational-guidance/uk-glaa-labour-exploitation-indicators.md)
+  - Source file: [`docs/victim-identification/operational-guidance/uk-glaa-labour-exploitation-indicators.html`](docs/victim-identification/operational-guidance/uk-glaa-labour-exploitation-indicators.html)
 
 - 🔓 **[NRM: Guidance for First Responders (Duty to Notify)](https://www.gov.uk/guidance/report-modern-slavery-as-a-first-responder)** (guideline-sop, 2024-01-01)
   - *Home Office guidance on the statutory duty to notify under s. 52 of the Modern Slavery Act 2015. Sets out how designated first responder organisations (police, local authorities, NCA, GLAA and others) should identify potential victims and make NRM referrals, including the reasonable grounds indicators to look for and the online referral process.
 *
   - Tags: `first-responder-duties`, `referral-pathway`, `indicators-screening`, `competent-authority-nrm`
   - Entry: [`victim-identification/operational-guidance/uk-nrm-first-responder-guidance.md`](victim-identification/operational-guidance/uk-nrm-first-responder-guidance.md)
+  - Source file: [`docs/victim-identification/operational-guidance/uk-nrm-first-responder-guidance.html`](docs/victim-identification/operational-guidance/uk-nrm-first-responder-guidance.html)
 
 - 🔓 **[Modern Slavery: Statutory Guidance for England and Wales](https://www.gov.uk/government/publications/modern-slavery-how-to-identify-and-support-victims/modern-slavery-statutory-guidance-for-england-and-wales-accessible-version)** (guideline-sop, 2024-11-01)
   - *Comprehensive statutory guidance under s. 49 Modern Slavery Act 2015, covering the National Referral Mechanism (NRM) in detail. Sets out the duties of first responders, the reasonable-grounds and conclusive-grounds decision stages, victim identification indicators, referral pathways, and the reflection/recovery period. The primary operational document for anyone involved in identifying and referring potential victims in England/Wales.
@@ -477,12 +522,14 @@
 *
   - Tags: `indicators-screening`, `first-responder-duties`, `referral-pathway`
   - Entry: [`victim-identification/operational-guidance/unodc-toolkit-combating-tip-2008.md`](victim-identification/operational-guidance/unodc-toolkit-combating-tip-2008.md)
+  - Source file: [`docs/victim-identification/operational-guidance/unodc-toolkit-combating-tip-2008.pdf`](docs/victim-identification/operational-guidance/unodc-toolkit-combating-tip-2008.pdf)
 
 - 🔓 **[UNODC Anti-Human Trafficking Manual for Criminal Justice Practitioners](https://www.unodc.org/unodc/en/human-trafficking/2009/anti-human-trafficking-manual.html)** (toolkit-manual, 2009)
   - *Modular training manual for criminal justice practitioners covering victim identification, interviewing of trafficking victims and child witnesses, and evidence collection. Includes dedicated modules on identification indicators, trauma-informed interviewing, and special considerations for child victims.
 *
   - Tags: `indicators-screening`, `first-responder-duties`, `interviewing-trauma-informed`, `child-victim-identification`
   - Entry: [`victim-identification/operational-guidance/unodc-manual-investigators-2009.md`](victim-identification/operational-guidance/unodc-manual-investigators-2009.md)
+  - Source file: [`docs/victim-identification/operational-guidance/unodc-manual-investigators-2009.html`](docs/victim-identification/operational-guidance/unodc-manual-investigators-2009.html)
 
 **US**
 
@@ -491,6 +538,7 @@
 *
   - Tags: `labour-exploitation-indicators`, `indicators-screening`, `first-responder-duties`, `referral-pathway`
   - Entry: [`victim-identification/operational-guidance/us-dol-forced-labour-indicators.md`](victim-identification/operational-guidance/us-dol-forced-labour-indicators.md)
+  - Source file: [`docs/victim-identification/operational-guidance/us-dol-forced-labour-indicators.html`](docs/victim-identification/operational-guidance/us-dol-forced-labour-indicators.html)
 
 - 🔓 **[HHS OTIP Adult Human Trafficking Screening Tool and Guide / Look-Beneath-the-Surface](https://www.acf.hhs.gov/otip/toolkit/adult-human-trafficking-screening-tool-and-guide)** (toolkit-manual, 2018)
   - *Survivor-centred, trauma-informed screening tool developed by HHS OTIP for use by healthcare, behavioural health, and social services professionals to assess patients or clients for trafficking victimisation or risk of trafficking. Part of the broader Look-Beneath-the-Surface public awareness campaign providing multilingual outreach materials and hotline information.
@@ -503,6 +551,7 @@
 *
   - Tags: `indicators-screening`, `first-responder-duties`, `sex-trafficking-indicators`, `labour-exploitation-indicators`
   - Entry: [`victim-identification/operational-guidance/us-dhs-blue-campaign-indicators.md`](victim-identification/operational-guidance/us-dhs-blue-campaign-indicators.md)
+  - Source file: [`docs/victim-identification/operational-guidance/us-dhs-blue-campaign-indicators.html`](docs/victim-identification/operational-guidance/us-dhs-blue-campaign-indicators.html)
 
 ### Policy Papers & Commentary
 
@@ -521,12 +570,14 @@
 *
   - Tags: `competent-authority-nrm`, `referral-pathway`, `assistance-entitlements`, `definition-scope`
   - Entry: [`victim-identification/policy-commentary/au-jcle-trafficking-report.md`](victim-identification/policy-commentary/au-jcle-trafficking-report.md)
+  - Source file: [`docs/victim-identification/policy-commentary/au-jcle-trafficking-report.html`](docs/victim-identification/policy-commentary/au-jcle-trafficking-report.html)
 
 - 🔓 **[Anti-Slavery Australia: Research on Victim Identification and Support](https://antislavery.org.au/research-advocacy/)** (report, 2022-01-01)
   - *Anti-Slavery Australia (ASA) at UTS is the only specialist Australian organisation combining direct legal representation for victims of modern slavery with research, advocacy, and training. ASA's research portfolio addresses victim identification, remediation, and reparations, with a particular focus on increasing the identification of children subject to trafficking, slavery, and slavery-like practices. As the primary non-government source of specialist legal representation for victims, ASA's research output informs policy and practice across victim identification, referral pathways, and support entitlements.
 *
   - Tags: `child-victim-identification`, `indicators-screening`, `assistance-entitlements`, `referral-pathway`
   - Entry: [`victim-identification/policy-commentary/au-anti-slavery-australia-research.md`](victim-identification/policy-commentary/au-anti-slavery-australia-research.md)
+  - Source file: [`docs/victim-identification/policy-commentary/au-anti-slavery-australia-research.html`](docs/victim-identification/policy-commentary/au-anti-slavery-australia-research.html)
 
 - 🔓 **[AIC Research Reports on Human Trafficking and Modern Slavery in Australia](https://www.aic.gov.au/subject/human-trafficking-and-slavery)** (report, 2023-01-01)
   - *The Australian Institute of Criminology publishes a series of research reports on human trafficking and modern slavery, including the Human Trafficking and Modern Slavery National Minimum Dataset (HTMS NMDS) and attrition studies. Key findings include a 73 percent prosecution attrition rate (with attrition greatest at the charging stage), that forced marriage accounts for 31 percent of reports, and that 94 percent of victim-survivors referred to the STPP were female with 44 percent aged under 18. These empirical findings are critical for understanding victim identification gaps and patterns in Australia.
@@ -541,12 +592,14 @@
 *
   - Tags: `definition-scope`, `indicators-screening`, `first-responder-duties`
   - Entry: [`victim-identification/policy-commentary/echr-guide-article-4-slavery.md`](victim-identification/policy-commentary/echr-guide-article-4-slavery.md)
+  - Source file: [`docs/victim-identification/policy-commentary/echr-guide-article-4-slavery.html`](docs/victim-identification/policy-commentary/echr-guide-article-4-slavery.html)
 
 - 🔓 **[ECtHR Factsheet: Trafficking in Human Beings](https://www.echr.coe.int/documents/d/echr/fs_trafficking_eng)** (factsheet, 2024-10-01)
   - *Official ECtHR press-unit factsheet summarising key trafficking judgments under Article 4, including rulings on victim identification obligations, the scope of trafficking and forced labour, and state responsibility for failing to detect and protect victims. Provides a concise entry point to the Court's principal THB case law.
 *
   - Tags: `definition-scope`, `indicators-screening`, `first-responder-duties`
   - Entry: [`victim-identification/policy-commentary/echr-factsheet-trafficking-2024.md`](victim-identification/policy-commentary/echr-factsheet-trafficking-2024.md)
+  - Source file: [`docs/victim-identification/policy-commentary/echr-factsheet-trafficking-2024.pdf`](docs/victim-identification/policy-commentary/echr-factsheet-trafficking-2024.pdf)
 
 **EU**
 
@@ -555,24 +608,28 @@
 *
   - Tags: `child-victim-identification`, `referral-pathway`, `assistance-entitlements`
   - Entry: [`victim-identification/policy-commentary/eu-fra-rights-suspected-trafficked-2014.md`](victim-identification/policy-commentary/eu-fra-rights-suspected-trafficked-2014.md)
+  - Source file: [`docs/victim-identification/policy-commentary/eu-fra-rights-suspected-trafficked-2014.html`](docs/victim-identification/policy-commentary/eu-fra-rights-suspected-trafficked-2014.html)
 
 - 🔓 **[GRETA Guidance Note on the Entitlement of Victims of Trafficking, and Persons at Risk of Being Trafficked, to International Protection](https://rm.coe.int/guidance-note-on-the-entitlement-of-victims-of-trafficking-and-persons/16809ebf44)** (guideline-sop, 2020)
   - *Guidance from the Group of Experts on Action against Trafficking in Human Beings on the intersection of trafficking victim identification and international protection. Addresses the entitlement of trafficking victims and at-risk persons to asylum, emphasising the need for fair and efficient identification procedures, the non-punishment principle, and specialised support within national referral mechanisms.
 *
   - Tags: `competent-authority-nrm`, `referral-pathway`, `non-punishment-link`, `cross-border-referral-return`
   - Entry: [`victim-identification/policy-commentary/eu-greta-guidance-note-nrm.md`](victim-identification/policy-commentary/eu-greta-guidance-note-nrm.md)
+  - Source file: [`docs/victim-identification/policy-commentary/eu-greta-guidance-note-nrm.pdf`](docs/victim-identification/policy-commentary/eu-greta-guidance-note-nrm.pdf)
 
 - 🔓 **[Third Report on the Progress Made in the Fight Against Trafficking in Human Beings (2020) as Required Under Article 20 of Directive 2011/36/EU](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52020DC0661)** (report, 2020-10-20)
   - *Third progress report under Article 20 of Directive 2011/36/EU covering 2017–2018 data across the EU-27. Reports that 72% of identified victims are women and girls, nearly one in four victims is a child, and half are EU citizens. Notes that prosecutions and convictions remain low relative to reported victim numbers, underscoring gaps in identification and referral mechanisms.
 *
   - Tags: `indicators-screening`, `competent-authority-nrm`, `child-victim-identification`, `sex-trafficking-indicators`
   - Entry: [`victim-identification/policy-commentary/eu-ec-progress-report-thb-2020.md`](victim-identification/policy-commentary/eu-ec-progress-report-thb-2020.md)
+  - Source file: [`docs/victim-identification/policy-commentary/eu-ec-progress-report-thb-2020.html`](docs/victim-identification/policy-commentary/eu-ec-progress-report-thb-2020.html)
 
 - 🔓 **[EU Strategy on Combating Trafficking in Human Beings (2021–2025)](https://home-affairs.ec.europa.eu/policies/internal-security/organised-crime/together-against-trafficking-human-beings/eu-strategy-combatting-trafficking-human-beings-2021-2025_en)** (report, 2021-04-14)
   - *Comprehensive EU policy framework setting out priorities for 2021–2025 on preventing trafficking, protecting and empowering victims, and bringing traffickers to justice. Focuses on breaking the criminal business model of traffickers, addressing online exploitation, and strengthening early identification and referral of victims across Member States.
 *
   - Tags: `indicators-screening`, `referral-pathway`, `first-responder-duties`, `assistance-entitlements`
   - Entry: [`victim-identification/policy-commentary/eu-ec-strategy-thb-2021-2025.md`](victim-identification/policy-commentary/eu-ec-strategy-thb-2021-2025.md)
+  - Source file: [`docs/victim-identification/policy-commentary/eu-ec-strategy-thb-2021-2025.html`](docs/victim-identification/policy-commentary/eu-ec-strategy-thb-2021-2025.html)
 
 **ILO**
 
@@ -581,6 +638,7 @@
 *
   - Tags: `indicators-screening`, `labour-exploitation-indicators`, `sex-trafficking-indicators`
   - Entry: [`victim-identification/policy-commentary/ilo-global-estimates-modern-slavery-2022.md`](victim-identification/policy-commentary/ilo-global-estimates-modern-slavery-2022.md)
+  - Source file: [`docs/victim-identification/policy-commentary/ilo-global-estimates-modern-slavery-2022.html`](docs/victim-identification/policy-commentary/ilo-global-estimates-modern-slavery-2022.html)
 
 **OSCE**
 
@@ -603,12 +661,14 @@
 *
   - Tags: `competent-authority-nrm`, `child-victim-identification`, `reflection-period-temporary-stay`, `assistance-entitlements`, `cross-border-referral-return`
   - Entry: [`victim-identification/policy-commentary/uk-greta-evaluation-uk-2021.md`](victim-identification/policy-commentary/uk-greta-evaluation-uk-2021.md)
+  - Source file: [`docs/victim-identification/policy-commentary/uk-greta-evaluation-uk-2021.pdf`](docs/victim-identification/policy-commentary/uk-greta-evaluation-uk-2021.pdf)
 
 - 🔓 **[Independent Anti-Slavery Commissioner Annual Report 2021–2022](https://www.gov.uk/government/publications/independent-anti-slavery-commissioners-annual-report-2021-to-2022)** (report, 2022-07-22)
   - *Annual report from the Independent Anti-Slavery Commissioner assessing the UK's progress on modern slavery enforcement, victim identification, and NRM performance. Highlights systemic delays in conclusive grounds decisions, gaps in first responder training, and the impact of legislative reforms on victim access to identification and support services.
 *
   - Tags: `competent-authority-nrm`, `first-responder-duties`, `assistance-entitlements`
   - Entry: [`victim-identification/policy-commentary/uk-iasc-annual-report-2023.md`](victim-identification/policy-commentary/uk-iasc-annual-report-2023.md)
+  - Source file: [`docs/victim-identification/policy-commentary/uk-iasc-annual-report-2023.html`](docs/victim-identification/policy-commentary/uk-iasc-annual-report-2023.html)
 
 - 🔓 **[ATLEU Legal Analysis of NRM Reforms](https://atleu.org.uk/news/2022/10/17/it-has-destroyed-me-new-report)** (commentary-analysis, 2022-10-17)
   - *Legal analysis by ATLEU examining the impact of Nationality and Borders Act 2022 reforms on NRM victim identification, including the narrowed definition of victim (requiring objective factors rather than the previous "suspects but cannot prove" threshold), systemic decision-making delays averaging 543 days, and the legal aid crisis leaving survivors without representation during the identification process.
@@ -621,6 +681,7 @@
 *
   - Tags: `competent-authority-nrm`, `detention-immigration-interface`, `definition-scope`, `referral-pathway`
   - Entry: [`victim-identification/policy-commentary/uk-anti-slavery-intl-policy-paper.md`](victim-identification/policy-commentary/uk-anti-slavery-intl-policy-paper.md)
+  - Source file: [`docs/victim-identification/policy-commentary/uk-anti-slavery-intl-policy-paper.html`](docs/victim-identification/policy-commentary/uk-anti-slavery-intl-policy-paper.html)
 
 **UN**
 
@@ -629,6 +690,7 @@
 *
   - Tags: `child-victim-identification`, `first-responder-duties`, `cross-border-referral-return`, `detention-immigration-interface`
   - Entry: [`victim-identification/policy-commentary/un-crc-general-comment-6-trafficking.md`](victim-identification/policy-commentary/un-crc-general-comment-6-trafficking.md)
+  - Source file: [`docs/victim-identification/policy-commentary/un-crc-general-comment-6-trafficking.pdf`](docs/victim-identification/policy-commentary/un-crc-general-comment-6-trafficking.pdf)
 
 - 🔓 **[OHCHR Commentary on the Recommended Principles and Guidelines on Human Rights and Human Trafficking (2010)](https://www.ohchr.org/en/publications/reference-publications/recommended-principles-and-guidelines-human-rights-and-human-0)** (commentary-analysis, 2010)
   - *Detailed commentary elaborating on each of the 2002 OHCHR Recommended Principles and Guidelines, providing concrete implementation guidance for human-rights-based victim identification. Explains how identification procedures should be operationalized to avoid re-traumatization and to ensure that victims are not penalized for acts committed as a consequence of their trafficking situation.
@@ -643,12 +705,14 @@
 *
   - Tags: `definition-scope`, `indicators-screening`
   - Entry: [`victim-identification/policy-commentary/unodc-issue-paper-vulnerability-2013.md`](victim-identification/policy-commentary/unodc-issue-paper-vulnerability-2013.md)
+  - Source file: [`docs/victim-identification/policy-commentary/unodc-issue-paper-vulnerability-2013.pdf`](docs/victim-identification/policy-commentary/unodc-issue-paper-vulnerability-2013.pdf)
 
 - 🔓 **[UNODC Global Report on Trafficking in Persons 2024](https://www.unodc.org/unodc/en/human-trafficking/global-report-on-trafficking-in-persons.html)** (report, 2024)
   - *Eighth edition of the mandated global report covering data from 156 countries on over 200,000 detected victims between 2020 and 2023. Highlights that children now account for 38 per cent of detected victims, forced labour has become the predominant form of exploitation globally, and provides trend analysis critical for updating victim-identification priorities.
 *
   - Tags: `indicators-screening`, `child-victim-identification`, `labour-exploitation-indicators`, `sex-trafficking-indicators`
   - Entry: [`victim-identification/policy-commentary/unodc-global-report-tip-2024.md`](victim-identification/policy-commentary/unodc-global-report-tip-2024.md)
+  - Source file: [`docs/victim-identification/policy-commentary/unodc-global-report-tip-2024.html`](docs/victim-identification/policy-commentary/unodc-global-report-tip-2024.html)
 
 **US**
 
@@ -657,12 +721,14 @@
 *
   - Tags: `indicators-screening`, `sex-trafficking-indicators`, `labour-exploitation-indicators`
   - Entry: [`victim-identification/policy-commentary/us-polaris-typology-2017.md`](victim-identification/policy-commentary/us-polaris-typology-2017.md)
+  - Source file: [`docs/victim-identification/policy-commentary/us-polaris-typology-2017.html`](docs/victim-identification/policy-commentary/us-polaris-typology-2017.html)
 
 - 🔓 **[US State Department TIP Report — Victim Identification Methodology](https://www.state.gov/reports/2025-trafficking-in-persons-report/)** (report, 2025)
   - *The annual Trafficking in Persons Report assesses each country's efforts to combat trafficking, with a dedicated methodology section evaluating national victim identification systems. The report's tier-ranking framework measures whether governments employ proactive screening procedures, train front-line responders, and maintain systematic identification and referral mechanisms.
 *
   - Tags: `indicators-screening`, `competent-authority-nrm`, `referral-pathway`
   - Entry: [`victim-identification/policy-commentary/us-state-dept-tip-report-methodology.md`](victim-identification/policy-commentary/us-state-dept-tip-report-methodology.md)
+  - Source file: [`docs/victim-identification/policy-commentary/us-state-dept-tip-report-methodology.html`](docs/victim-identification/policy-commentary/us-state-dept-tip-report-methodology.html)
 
 ### Journal Articles
 
@@ -693,6 +759,7 @@
 *
   - Tags: `competent-authority-nrm`, `first-responder-duties`, `indicators-screening`
   - Entry: [`victim-identification/journal-articles/uk-haughey-nrm-review-2016.md`](victim-identification/journal-articles/uk-haughey-nrm-review-2016.md)
+  - Source file: [`docs/victim-identification/journal-articles/uk-haughey-nrm-review-2016.pdf`](docs/victim-identification/journal-articles/uk-haughey-nrm-review-2016.pdf)
 
 ### Global & Regional Instruments
 
@@ -703,6 +770,7 @@
 *
   - Tags: `indicators-screening`, `referral-pathway`, `first-responder-duties`, `cross-border-referral-return`
   - Entry: [`victim-identification/global-regional/asean-plan-of-action-2015.md`](victim-identification/global-regional/asean-plan-of-action-2015.md)
+  - Source file: [`docs/victim-identification/global-regional/asean-plan-of-action-2015.pdf`](docs/victim-identification/global-regional/asean-plan-of-action-2015.pdf)
 
 - 🔓 **[ASEAN Convention Against Trafficking in Persons, Especially Women and Children (ACTIP)](https://asean.org/asean-convention-against-trafficking-in-persons-especially-women-and-children/)** (convention-treaty, 2015-11-21)
   - *The first legally binding regional instrument on trafficking in the ASEAN region. Article 14 requires state parties to establish measures for the identification of victims, including through cooperation with NGOs. Articles 14–16 set out victim identification triggers, protection obligations, and assistance entitlements that apply once a person is identified as a victim or presumed victim of trafficking.
@@ -729,6 +797,7 @@
 *
   - Tags: `competent-authority-nrm`, `referral-pathway`, `reflection-period-temporary-stay`, `assistance-entitlements`, `non-punishment-link`
   - Entry: [`victim-identification/global-regional/echr-coe-convention-trafficking-2005.md`](victim-identification/global-regional/echr-coe-convention-trafficking-2005.md)
+  - Source file: [`docs/victim-identification/global-regional/echr-coe-convention-trafficking-2005.html`](docs/victim-identification/global-regional/echr-coe-convention-trafficking-2005.html)
 
 **Global**
 
@@ -737,12 +806,14 @@
 *
   - Tags: `first-responder-duties`, `referral-pathway`
   - Entry: [`victim-identification/global-regional/global-santa-marta-group-2014.md`](victim-identification/global-regional/global-santa-marta-group-2014.md)
+  - Source file: [`docs/victim-identification/global-regional/global-santa-marta-group-2014.html`](docs/victim-identification/global-regional/global-santa-marta-group-2014.html)
 
 - 🔓 **[Bali Process Policy Guide on Protecting Victims of Trafficking (2nd ed., 2015)](https://www.baliprocess.net/regional-support-office/policy-guides-on-identification-and-protection-of-victims-of-trafficking/)** (guideline-sop, 2015)
   - *Asia-Pacific regional policy guide providing an overview of international standards for victim identification and protection, with extensive good-practice examples from Bali Process member countries. Covers identification procedures in mixed migration flows, protection and assistance standards, and return and reintegration considerations specific to the region.
 *
   - Tags: `indicators-screening`, `referral-pathway`, `cross-border-referral-return`, `assistance-entitlements`
   - Entry: [`victim-identification/global-regional/global-bali-process-victim-protection-2015.md`](victim-identification/global-regional/global-bali-process-victim-protection-2015.md)
+  - Source file: [`docs/victim-identification/global-regional/global-bali-process-victim-protection-2015.html`](docs/victim-identification/global-regional/global-bali-process-victim-protection-2015.html)
 
 **ILO**
 
@@ -779,6 +850,7 @@
 *
   - Tags: `cross-border-referral-return`, `assistance-entitlements`
   - Entry: [`victim-identification/global-regional/un-untoc-2000.md`](victim-identification/global-regional/un-untoc-2000.md)
+  - Source file: [`docs/victim-identification/global-regional/un-untoc-2000.html`](docs/victim-identification/global-regional/un-untoc-2000.html)
 
 - 🔓 **[Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children](https://www.ohchr.org/en/instruments-mechanisms/instruments/protocol-prevent-suppress-and-punish-trafficking-persons)** (protocol, 2000-11-15)
   - *Foundational international instrument defining trafficking in persons (Art. 3) through the elements of act, means, and purpose. Article 6 establishes obligations for victim assistance and protection, while the broader framework shapes global victim-identification standards and referral mechanisms.
@@ -799,3 +871,4 @@
 *
   - Tags: `definition-scope`, `competent-authority-nrm`, `referral-pathway`, `assistance-entitlements`, `non-punishment-link`
   - Entry: [`victim-identification/global-regional/unodc-model-law-thb-2009.md`](victim-identification/global-regional/unodc-model-law-thb-2009.md)
+  - Source file: [`docs/victim-identification/global-regional/unodc-model-law-thb-2009.pdf`](docs/victim-identification/global-regional/unodc-model-law-thb-2009.pdf)
