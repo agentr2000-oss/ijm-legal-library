@@ -8,6 +8,7 @@ date_issued: 2015-03-26
 status: current
 source_url: "https://www.legislation.gov.uk/ukpga/2015/30/contents/enacted"
 access: public
+local_file: "docs/victim-identification/legislation/uk-modern-slavery-act-2015.html"
 
 summary: >
   Primary UK anti-trafficking and modern slavery statute. Consolidates offences of slavery,

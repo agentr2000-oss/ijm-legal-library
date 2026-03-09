@@ -8,6 +8,7 @@ date_issued: 2010-01-07
 status: current
 source_url: "https://hudoc.echr.coe.int/eng?i=001-96549"
 access: public
+local_file: "docs/victim-identification/case-law/echr-rantsev-v-cyprus-russia-2010.html"
 
 summary: >
   Landmark ECHR judgment establishing that Article 4 (prohibition of slavery/forced labour)
