@@ -1,0 +1,33 @@
+name: Validate Library
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Validate all entries against schema
+        run: python scripts/validate.py
+
+      - name: Rebuild index
+        run: python scripts/build-index.py
+
+      - name: Check for uncommitted index changes
+        run: |
+          git diff --exit-code INDEX.md index.json || {
+            echo "::error::INDEX.md or index.json is out of date. Run 'python scripts/build-index.py' and commit."
+            exit 1
+          }

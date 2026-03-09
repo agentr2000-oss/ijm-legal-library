@@ -1,0 +1,41 @@
+---
+# IJM Resource Library — Document Entry Template
+# Copy this file into the correct folder and rename it.
+# Filename convention: [jurisdiction]-[short-slug].md
+#   e.g., us-tvpa-2000.md, uk-rantsev-v-cyprus-2010.md
+
+title: ""                       # Full official title
+jurisdiction: ""                # US | EU | UK | AU | ECHR | ASEAN | UN | ILO | UNODC | OSCE | Global
+bucket: ""                      # legislation | case-law | prosecution-procedure | operational-guidance | policy-commentary | journal-articles | global-regional
+document_type: ""               # See schema.yml for allowed values
+issuing_body: ""                # Court, legislature, agency, publisher
+date_issued: ""                 # YYYY-MM-DD or YYYY
+status: ""                      # current | superseded | draft | archived | unknown
+source_url: ""                  # Official/public URL (leave blank if backend-needed)
+access: ""                      # public | backend-needed
+
+# --- Document storage ---
+# local_file is auto-populated by scripts/download.py
+# docs_url is for external storage (S3, Google Drive, etc.) — fill manually if used
+local_file: ""                  # Auto: path in docs/ (e.g., docs/victim-identification/legislation/us-tvpa-2000.pdf)
+docs_url: ""                    # Optional: external storage URL
+
+# --- Only if access = backend-needed ---
+backend_source: ""              # PACER | Westlaw | LexisNexis | HeinOnline | etc.
+backend_confidence: ""          # confirmed-paywalled | likely-exists-needs-verification | known-docket-only
+retrieval_notes: ""             # Citation, docket number, what to export
+
+# --- Content ---
+summary: >
+  1–3 sentence summary focused on victim-identification relevance.
+
+key_pinpoint: ""                # Specific section/article/paragraph reference
+
+victim_id_tags:                 # 1–5 tags from schema.yml
+  - ""
+
+added_by: ""
+date_added: ""                  # YYYY-MM-DD
+---
+
+<!-- Optional: additional notes, context, or excerpts below this line -->

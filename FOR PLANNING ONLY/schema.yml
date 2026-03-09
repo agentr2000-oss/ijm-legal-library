@@ -1,0 +1,96 @@
+# IJM Legal & Policy Resource Library — Controlled Vocabularies
+# All frontmatter values in document entries MUST match values defined here.
+# The validate.py script enforces this.
+
+jurisdictions:
+  - US
+  - EU
+  - UK
+  - AU
+  - ECHR
+  - ASEAN
+  - UN
+  - ILO
+  - UNODC
+  - OSCE
+  - Global
+
+thematic_folders:
+  - victim-identification
+  - elements-defences
+  - international-cooperation
+
+buckets:
+  - legislation
+  - case-law
+  - prosecution-procedure
+  - operational-guidance
+  - policy-commentary
+  - journal-articles
+  - global-regional
+
+document_types:
+  - act-statute
+  - regulation-rule
+  - directive
+  - framework-decision
+  - convention-treaty
+  - protocol
+  - guideline-sop
+  - practice-direction
+  - judgment-opinion
+  - decision
+  - advisory-opinion
+  - issue-paper
+  - report
+  - model-law-template
+  - journal-article
+  - working-paper
+  - commentary-analysis
+  - toolkit-manual
+  - factsheet
+  - declaration
+
+statuses:
+  - current
+  - superseded
+  - draft
+  - archived
+  - unknown
+
+access_levels:
+  - public
+  - backend-needed
+
+backend_sources:
+  - PACER
+  - Westlaw
+  - LexisNexis
+  - HeinOnline
+  - BAILII
+  - AustLII
+  - national-court-db
+  - subscription-journal
+  - other
+
+backend_confidence:
+  - confirmed-paywalled
+  - likely-exists-needs-verification
+  - known-docket-only
+
+victim_id_tags:
+  - definition-scope
+  - competent-authority-nrm
+  - indicators-screening
+  - first-responder-duties
+  - referral-pathway
+  - interviewing-trauma-informed
+  - child-victim-identification
+  - labour-exploitation-indicators
+  - sex-trafficking-indicators
+  - detention-immigration-interface
+  - reflection-period-temporary-stay
+  - assistance-entitlements
+  - data-protection-confidentiality
+  - non-punishment-link
+  - cross-border-referral-return
