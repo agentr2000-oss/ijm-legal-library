@@ -24,3 +24,34 @@ victim_id_tags:
 added_by: "Claude Code (initial build)"
 date_added: 2026-03-09
 ---
+
+# ILO, Walk Free, IOM: Global Estimates of Modern Slavery — Forced Labour and Forced Marriage (2022)
+
+| Field | Value |
+|---|---|
+| **Jurisdiction** | ILO |
+| **Bucket** | Policy & Commentary |
+| **Document Type** | Report |
+| **Issuing Body** | International Labour Organization |
+| **Date Issued** | 2022 |
+| **Status** | current |
+| **Access** | public |
+
+## Summary
+
+Joint ILO, Walk Free, and IOM report estimating 50 million people in modern slavery globally on any given day, comprising 27.6 million in forced labour and 22 million in forced marriage. Provides disaggregated prevalence data by region, age, gender, and exploitation type that informs victim-identification priorities and resource allocation for detection efforts.
+
+## Key Provisions
+
+Key findings (global prevalence); Regional estimates; Methodology (survey-based identification)
+
+## Victim Identification Tags
+
+`indicators-screening` · `labour-exploitation-indicators` · `sex-trafficking-indicators`
+
+## Source
+
+[View source document](https://www.ilo.org/publications/major-publications/global-estimates-modern-slavery-forced-labour-and-forced-marriage)
+
+**Local copy:** `docs/victim-identification/policy-commentary/ilo-global-estimates-modern-slavery-2022.html`
+

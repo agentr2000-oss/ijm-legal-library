@@ -26,3 +26,34 @@ victim_id_tags:
 added_by: "Claude Code (initial build)"
 date_added: 2026-03-09
 ---
+
+# Trafficking Victims Protection Reauthorization Act of 2005
+
+| Field | Value |
+|---|---|
+| **Jurisdiction** | US |
+| **Bucket** | Legislation |
+| **Document Type** | Act / Statute |
+| **Issuing Body** | US Congress |
+| **Date Issued** | 2006-01-10 |
+| **Status** | current |
+| **Access** | public |
+
+## Summary
+
+Added grant programs for state and local law enforcement training on victim identification and expanded extraterritorial jurisdiction over trafficking offences committed abroad by federal employees or contractors. Established pilot programme for services to juvenile trafficking victims.
+
+## Key Provisions
+
+Pub. L. 109-164, §§ 102–204 (grant programs, extraterritorial jurisdiction, juvenile victims)
+
+## Victim Identification Tags
+
+`first-responder-duties` · `indicators-screening` · `child-victim-identification`
+
+## Source
+
+[View source document](https://www.congress.gov/bill/109th-congress/house-bill/972)
+
+**Local copy:** `docs/victim-identification/legislation/us-tvpra-2005.html`
+

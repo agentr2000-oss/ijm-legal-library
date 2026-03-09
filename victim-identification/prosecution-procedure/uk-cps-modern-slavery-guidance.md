@@ -27,3 +27,34 @@ victim_id_tags:
 added_by: "Claude Code (initial build)"
 date_added: 2026-03-09
 ---
+
+# CPS Guidance on Modern Slavery, Human Trafficking and Smuggling
+
+| Field | Value |
+|---|---|
+| **Jurisdiction** | UK |
+| **Bucket** | Prosecution & Procedure |
+| **Document Type** | Guideline / SOP |
+| **Issuing Body** | Crown Prosecution Service |
+| **Date Issued** | 2024-01-01 |
+| **Status** | current |
+| **Access** | public |
+
+## Summary
+
+Comprehensive CPS prosecution guidance covering modern slavery and trafficking offences, the s. 45 statutory defence for victims, and prosecutorial obligations to identify potential trafficking victims before charging. Requires early investigative advice in all modern slavery cases and sets out the framework for distinguishing smuggling from trafficking.
+
+## Key Provisions
+
+Sections on s. 45 defence, duty to obtain early investigative advice, victim identification indicators, and NRM referral obligations
+
+## Victim Identification Tags
+
+`non-punishment-link` · `indicators-screening` · `first-responder-duties` · `referral-pathway`
+
+## Source
+
+[View source document](https://www.cps.gov.uk/legal-guidance/modern-slavery-and-human-trafficking-offences-and-defences-including-section-45)
+
+**Local copy:** `docs/victim-identification/prosecution-procedure/uk-cps-modern-slavery-guidance.html`
+

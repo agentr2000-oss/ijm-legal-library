@@ -28,3 +28,34 @@ victim_id_tags:
 added_by: "Claude Code (initial build)"
 date_added: 2026-03-09
 ---
+
+# DHS Blue Campaign: Human Trafficking Indicators
+
+| Field | Value |
+|---|---|
+| **Jurisdiction** | US |
+| **Bucket** | Operational Guidance |
+| **Document Type** | Factsheet |
+| **Issuing Body** | US Department of Homeland Security |
+| **Date Issued** | 2020 |
+| **Status** | current |
+| **Access** | public |
+
+## Summary
+
+DHS Blue Campaign indicator resource listing common signs of human trafficking for use by law enforcement, first responders, and the general public. Covers behavioural, physical, and situational indicators for both sex and labour trafficking, along with guidance on appropriate response and reporting pathways (federal law enforcement and the National Human Trafficking Hotline).
+
+## Key Provisions
+
+Indicator lists for sex trafficking and labour trafficking; reporting guidance
+
+## Victim Identification Tags
+
+`indicators-screening` · `first-responder-duties` · `sex-trafficking-indicators` · `labour-exploitation-indicators`
+
+## Source
+
+[View source document](https://www.dhs.gov/blue-campaign/indicators-human-trafficking)
+
+**Local copy:** `docs/victim-identification/operational-guidance/us-dhs-blue-campaign-indicators.html`
+

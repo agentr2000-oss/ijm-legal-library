@@ -27,3 +27,41 @@ victim_id_tags:
 added_by: "Claude Code (initial build)"
 date_added: 2026-03-09
 ---
+
+# DPP (Cth) v Bai [2017] VSCA 100
+
+| Field | Value |
+|---|---|
+| **Jurisdiction** | AU |
+| **Bucket** | Case Law |
+| **Document Type** | Judgment / Opinion |
+| **Issuing Body** | Supreme Court of Victoria — Court of Appeal |
+| **Date Issued** | 2017-05-01 |
+| **Status** | current |
+| **Access** | backend-needed |
+
+## Summary
+
+Victorian Court of Appeal decision concerning forced labour and servitude offences under Division 270 of the Criminal Code. The case addresses the identification of victims in domestic servitude settings, where exploitation occurs within private households and may be less visible to authorities. Relevant to understanding how courts assess indicators of forced labour and coercion outside commercial or sex-industry contexts.
+
+## Key Provisions
+
+Court of Appeal reasoning on elements of servitude and forced labour
+
+## Victim Identification Tags
+
+`labour-exploitation-indicators` · `indicators-screening` · `definition-scope`
+
+## Access
+
+This document requires backend retrieval.
+
+| Field | Value |
+|---|---|
+| **Backend Source** | AustLII |
+| **Confidence** | likely-exists-needs-verification |
+
+### Retrieval Notes
+
+Citation DPP (Cth) v Bai [2017] VSCA 100. Search AustLII Victorian Court of Appeal database and Victorian Reports. The case may also appear on the Supreme Court of Victoria judgment summaries page. If not located under this citation, check alternative party name spellings and the County Court trial decision.
+

@@ -27,3 +27,34 @@ victim_id_tags:
 added_by: "Claude Code (initial build)"
 date_added: 2026-03-09
 ---
+
+# ECtHR Guide on Article 4 of the Convention — Prohibition of Slavery and Forced Labour
+
+| Field | Value |
+|---|---|
+| **Jurisdiction** | ECHR |
+| **Bucket** | Policy & Commentary |
+| **Document Type** | Toolkit / Manual |
+| **Issuing Body** | European Court of Human Rights |
+| **Date Issued** | 2024-08-31 |
+| **Status** | current |
+| **Access** | public |
+
+## Summary
+
+The Court's own comprehensive guide synthesising its Art. 4 case law, covering the definitions of slavery, servitude, forced labour, and human trafficking, as well as the positive and procedural obligations on states to identify, protect, and assist victims. Essential reference for understanding the evolving identification duty standard across all ECHR Art. 4 judgments.
+
+## Key Provisions
+
+Sections on positive obligations; identification of victims; investigative duty
+
+## Victim Identification Tags
+
+`definition-scope` · `indicators-screening` · `first-responder-duties`
+
+## Source
+
+[View source document](https://www.echr.coe.int/documents/d/echr/guide_art_4_eng)
+
+**Local copy:** `docs/victim-identification/policy-commentary/echr-guide-article-4-slavery.html`
+

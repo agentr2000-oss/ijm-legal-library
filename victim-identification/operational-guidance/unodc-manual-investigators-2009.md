@@ -25,3 +25,34 @@ victim_id_tags:
 added_by: "Claude Code (initial build)"
 date_added: 2026-03-09
 ---
+
+# UNODC Anti-Human Trafficking Manual for Criminal Justice Practitioners
+
+| Field | Value |
+|---|---|
+| **Jurisdiction** | UNODC |
+| **Bucket** | Operational Guidance |
+| **Document Type** | Toolkit / Manual |
+| **Issuing Body** | UNODC |
+| **Date Issued** | 2009 |
+| **Status** | current |
+| **Access** | public |
+
+## Summary
+
+Modular training manual for criminal justice practitioners covering victim identification, interviewing of trafficking victims and child witnesses, and evidence collection. Includes dedicated modules on identification indicators, trauma-informed interviewing, and special considerations for child victims.
+
+## Key Provisions
+
+Module 1 (definitions); Module 4 (control methods); Modules 8–9 (interviewing victims and child victims)
+
+## Victim Identification Tags
+
+`indicators-screening` · `first-responder-duties` · `interviewing-trauma-informed` · `child-victim-identification`
+
+## Source
+
+[View source document](https://www.unodc.org/unodc/en/human-trafficking/2009/anti-human-trafficking-manual.html)
+
+**Local copy:** `docs/victim-identification/operational-guidance/unodc-manual-investigators-2009.html`
+

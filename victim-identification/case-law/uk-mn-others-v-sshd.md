@@ -32,3 +32,41 @@ victim_id_tags:
 added_by: "Claude Code (initial build)"
 date_added: 2026-03-09
 ---
+
+# MN and Others v. SSHD [2020] EWCA Civ 1746 (NRM Decisions)
+
+| Field | Value |
+|---|---|
+| **Jurisdiction** | UK |
+| **Bucket** | Case Law |
+| **Document Type** | Judgment / Opinion |
+| **Issuing Body** | Court of Appeal (Civil Division) |
+| **Date Issued** | 2020-12-21 |
+| **Status** | current |
+| **Access** | backend-needed |
+
+## Summary
+
+Court of Appeal challenge to the NRM decision-making process and the Competent Authority's standard of proof for victim identification. Held that the Competent Authority must properly engage with expert evidence and give adequate reasons when rejecting claims of trafficking, reinforcing procedural fairness standards in conclusive grounds decisions.
+
+## Key Provisions
+
+Paras. on Competent Authority's duty to assess expert evidence, credibility assessment standards, and balance of probabilities threshold
+
+## Victim Identification Tags
+
+`competent-authority-nrm` · `indicators-screening` · `referral-pathway`
+
+## Access
+
+This document requires backend retrieval.
+
+| Field | Value |
+|---|---|
+| **Backend Source** | BAILII |
+| **Confidence** | likely-exists-needs-verification |
+
+### Retrieval Notes
+
+MN and Others v Secretary of State for the Home Department [2020] EWCA Civ 1746. Available on BAILII at https://www.bailii.org/ew/cases/EWCA/Civ/2020/1746.html. Verify whether full text is freely accessible or requires institutional login.
+

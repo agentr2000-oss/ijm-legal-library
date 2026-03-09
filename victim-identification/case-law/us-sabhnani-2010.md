@@ -32,3 +32,41 @@ victim_id_tags:
 added_by: "Claude Code (initial build)"
 date_added: 2026-03-09
 ---
+
+# United States v. Sabhnani, 599 F.3d 215 (2d Cir. 2010)
+
+| Field | Value |
+|---|---|
+| **Jurisdiction** | US |
+| **Bucket** | Case Law |
+| **Document Type** | Judgment / Opinion |
+| **Issuing Body** | US Court of Appeals for the Second Circuit |
+| **Date Issued** | 2010-03-18 |
+| **Status** | current |
+| **Access** | backend-needed |
+
+## Summary
+
+Landmark domestic servitude case involving two Indonesian domestic workers. The Second Circuit upheld convictions for forced labour and involuntary servitude, analysing labour exploitation indicators including document confiscation, isolation, physical abuse, and debt bondage in a household setting — key screening markers for identifying victims of domestic servitude.
+
+## Key Provisions
+
+599 F.3d at 228–243 (labour exploitation indicators, forced labour analysis)
+
+## Victim Identification Tags
+
+`labour-exploitation-indicators` · `definition-scope` · `indicators-screening`
+
+## Access
+
+This document requires backend retrieval.
+
+| Field | Value |
+|---|---|
+| **Backend Source** | Westlaw |
+| **Confidence** | confirmed-paywalled |
+
+### Retrieval Notes
+
+599 F.3d 215 (2d Cir. 2010). Available on Westlaw and LexisNexis. Check CourtListener for possible free access. High-profile domestic servitude prosecution. Export full opinion.
+

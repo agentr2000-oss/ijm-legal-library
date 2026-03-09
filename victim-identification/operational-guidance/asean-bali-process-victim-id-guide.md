@@ -29,3 +29,34 @@ victim_id_tags:
 added_by: "Claude Code (initial build)"
 date_added: 2026-03-09
 ---
+
+# Bali Process Policy Guide on Identifying Victims of Trafficking
+
+| Field | Value |
+|---|---|
+| **Jurisdiction** | ASEAN |
+| **Bucket** | Operational Guidance |
+| **Document Type** | Guideline / SOP |
+| **Issuing Body** | Bali Process |
+| **Date Issued** | 2015-05-06 |
+| **Status** | current |
+| **Access** | public |
+
+## Summary
+
+Multi-country policy guide endorsed by the Bali Process providing an overview of international and regional standards for the identification of trafficking victims. Draws on good practices from Bali Process member countries and is designed as a practical, non-binding reference tool for government agencies, law enforcement, and frontline responders. Available in fifteen languages including Thai, Khmer, Burmese, and Tagalog.
+
+## Key Provisions
+
+Sections on indicators of trafficking, screening procedures, and referral to services
+
+## Victim Identification Tags
+
+`indicators-screening` · `referral-pathway` · `first-responder-duties` · `cross-border-referral-return`
+
+## Source
+
+[View source document](https://s3.ap-southeast-2.amazonaws.com/assets.rso.baliprocess.net/app/uploads/2023/09/19143615/Policy-Guide-on-Identifying-VIctims-of-Trafficking.pdf)
+
+**Local copy:** `docs/victim-identification/operational-guidance/asean-bali-process-victim-id-guide.pdf`
+

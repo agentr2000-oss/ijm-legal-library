@@ -32,3 +32,37 @@ victim_id_tags:
 added_by: "Claude Code (initial build)"
 date_added: 2026-03-09
 ---
+
+# A New Approach to the Identification of Victims of Trafficking in the EU
+
+| Field | Value |
+|---|---|
+| **Jurisdiction** | EU |
+| **Bucket** | Journal Article |
+| **Document Type** | Journal Article |
+| **Issuing Body** | Academic journal (EU trafficking scholarship) |
+| **Date Issued** | 2016 |
+| **Status** | current |
+| **Access** | backend-needed |
+
+## Summary
+
+Proposes a revised framework for identifying trafficking victims within the EU, critiquing existing indicator-based approaches and advocating for improved screening methods that better account for the diverse forms of exploitation and the practical barriers victims face in self-identification.
+
+## Victim Identification Tags
+
+`indicators-screening` · `definition-scope` · `competent-authority-nrm`
+
+## Access
+
+This document requires backend retrieval.
+
+| Field | Value |
+|---|---|
+| **Backend Source** | subscription-journal |
+| **Confidence** | confirmed-paywalled |
+
+### Retrieval Notes
+
+Van der Linden, M.N.J. (2016). A New Approach to the Identification of Victims of Trafficking in the EU. Exact journal citation to be confirmed; likely available via institutional subscription databases (Westlaw, HeinOnline, or publisher platform).
+

@@ -26,3 +26,34 @@ victim_id_tags:
 added_by: "Claude Code (initial build)"
 date_added: 2026-03-09
 ---
+
+# ECtHR Factsheet: Trafficking in Human Beings
+
+| Field | Value |
+|---|---|
+| **Jurisdiction** | ECHR |
+| **Bucket** | Policy & Commentary |
+| **Document Type** | Factsheet |
+| **Issuing Body** | European Court of Human Rights |
+| **Date Issued** | 2024-10-01 |
+| **Status** | current |
+| **Access** | public |
+
+## Summary
+
+Official ECtHR press-unit factsheet summarising key trafficking judgments under Article 4, including rulings on victim identification obligations, the scope of trafficking and forced labour, and state responsibility for failing to detect and protect victims. Provides a concise entry point to the Court's principal THB case law.
+
+## Key Provisions
+
+Summaries of Rantsev, Siliadin, Chowdury, L.E., S.M. and other leading cases
+
+## Victim Identification Tags
+
+`definition-scope` · `indicators-screening` · `first-responder-duties`
+
+## Source
+
+[View source document](https://www.echr.coe.int/documents/d/echr/fs_trafficking_eng)
+
+**Local copy:** `docs/victim-identification/policy-commentary/echr-factsheet-trafficking-2024.pdf`
+

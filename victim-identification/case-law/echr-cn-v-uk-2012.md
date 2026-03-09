@@ -27,3 +27,34 @@ victim_id_tags:
 added_by: "Claude Code (initial build)"
 date_added: 2026-03-09
 ---
+
+# C.N. v. United Kingdom [2012] ECHR 4239/08
+
+| Field | Value |
+|---|---|
+| **Jurisdiction** | ECHR |
+| **Bucket** | Case Law |
+| **Document Type** | Judgment / Opinion |
+| **Issuing Body** | European Court of Human Rights |
+| **Date Issued** | 2012-11-13 |
+| **Status** | current |
+| **Access** | public |
+
+## Summary
+
+The Court held that the United Kingdom violated Article 4 by lacking a specific legislative provision criminalising domestic servitude at the relevant time. The judgment underscored the procedural limb of Art. 4, requiring states to maintain an adequate legal framework enabling effective investigation of credible claims of servitude and to identify potential victims through that process.
+
+## Key Provisions
+
+Paras. 65–82 (procedural obligation under Art. 4; inadequacy of criminal law framework for domestic servitude)
+
+## Victim Identification Tags
+
+`definition-scope` · `first-responder-duties` · `labour-exploitation-indicators`
+
+## Source
+
+[View source document](https://hudoc.echr.coe.int/eng?i=001-114518)
+
+**Local copy:** `docs/victim-identification/case-law/echr-cn-v-uk-2012.html`
+
