@@ -1,6 +1,6 @@
 # IJM Legal & Policy Resource Library — Index
 
-*Auto-generated on 2026-03-09 by `scripts/build-index.py`. Do not edit manually.*
+*Auto-generated on 2026-03-10 by `scripts/build-index.py`. Do not edit manually.*
 
 **Total entries: 114**
 

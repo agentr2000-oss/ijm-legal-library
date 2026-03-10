@@ -32,7 +32,7 @@ FIELD_TO_SCHEMA_KEY = {
 def parse_frontmatter(filepath):
     with open(filepath, "r") as f:
         content = f.read()
-    match = re.match(r"^---\n(.+?)\n---", content, re.DOTALL)
+    match = re.search(r'```yaml\n(.+?)\n```\s*$', content, re.DOTALL)
     if not match:
         return None
     return yaml.safe_load(match.group(1))

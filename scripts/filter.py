@@ -19,10 +19,12 @@ ENTRY_DIRS = ["victim-identification", "elements-defences", "international-coope
 def parse_frontmatter(filepath):
     with open(filepath, "r") as f:
         content = f.read()
-    m = re.match(r"^---\n(.+?)\n---(.*)$", content, re.DOTALL)
+    m = re.search(r'```yaml\n(.+?)\n```\s*$', content, re.DOTALL)
     if not m:
         return None, ""
-    return yaml.safe_load(m.group(1)), m.group(2)
+    yaml_data = yaml.safe_load(m.group(1))
+    body = content[:m.start()]
+    return yaml_data, body
 
 
 def collect():

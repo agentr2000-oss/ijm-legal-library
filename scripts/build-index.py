@@ -37,7 +37,7 @@ BUCKET_LABELS = {
 def parse_frontmatter(filepath):
     with open(filepath, "r") as f:
         content = f.read()
-    m = re.match(r"^---\n(.+?)\n---", content, re.DOTALL)
+    m = re.search(r'```yaml\n(.+?)\n```\s*$', content, re.DOTALL)
     if not m:
         return None
     return yaml.safe_load(m.group(1))

@@ -30,15 +30,15 @@ def find_doc_file(entry_path):
 
 
 def update_local_file(entry_path, doc_path, dry_run=False):
-    """Insert or update local_file in frontmatter."""
+    """Insert or update local_file in the YAML code block at end of file."""
     with open(entry_path, "r") as f:
         content = f.read()
 
-    m = re.match(r"^(---\n)(.+?)(\n---)", content, re.DOTALL)
+    m = re.search(r'```yaml\n(.+?)\n```\s*$', content, re.DOTALL)
     if not m:
-        return False, "No frontmatter"
+        return False, "No YAML block"
 
-    fm_text = m.group(2)
+    fm_text = m.group(1)
 
     # Check if local_file already set correctly
     if f'local_file: "{doc_path}"' in fm_text:
@@ -59,7 +59,7 @@ def update_local_file(entry_path, doc_path, dry_run=False):
     if dry_run:
         return True, f"Would set local_file: {doc_path}"
 
-    new_content = m.group(1) + new_fm + m.group(3) + content[m.end():]
+    new_content = content[:m.start(1)] + new_fm + content[m.end(1):]
     with open(entry_path, "w") as f:
         f.write(new_content)
 

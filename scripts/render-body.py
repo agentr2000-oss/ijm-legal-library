@@ -49,16 +49,15 @@ DOC_TYPE_LABELS = {
 
 
 def parse_frontmatter(filepath):
-    """Return (yaml_block_with_delimiters, parsed_dict) or (None, None)."""
+    """Return (raw_yaml_text, parsed_dict) or (None, None)."""
     with open(filepath, "r", encoding="utf-8") as f:
         content = f.read()
-    match = re.match(r"^(---\n.+?\n---)", content, re.DOTALL)
+    match = re.search(r'```yaml\n(.+?)\n```\s*$', content, re.DOTALL)
     if not match:
         return None, None
-    raw_block = match.group(1)
-    fm_text = re.match(r"^---\n(.+?)\n---", content, re.DOTALL).group(1)
-    fm = yaml.safe_load(fm_text)
-    return raw_block, fm
+    yaml_text = match.group(1)
+    fm = yaml.safe_load(yaml_text)
+    return yaml_text, fm
 
 
 def render_body(fm):
@@ -161,12 +160,12 @@ def render_body(fm):
 
 def process_file(filepath, dry_run=False):
     """Render the body for a single entry file. Returns True if file was changed."""
-    raw_block, fm = parse_frontmatter(filepath)
+    yaml_text, fm = parse_frontmatter(filepath)
     if fm is None:
         return False
 
     body = render_body(fm)
-    new_content = raw_block + "\n\n" + body + "\n"
+    new_content = body + "\n---\n\n<!-- entry metadata (parsed by scripts — do not remove) -->\n```yaml\n" + yaml_text + "\n```\n"
 
     with open(filepath, "r", encoding="utf-8") as f:
         old_content = f.read()
