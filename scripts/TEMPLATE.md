@@ -41,7 +41,7 @@ Specific section/article/paragraph reference.
 title: ""                       # Full official title
 jurisdiction: ""                # US | EU | UK | AU | ECHR | ASEAN | UN | ILO | UNODC | OSCE | Global
 bucket: ""                      # legislation | case-law | prosecution-procedure | operational-guidance | policy-commentary | journal-articles | global-regional
-document_type: ""               # See schema.yml for allowed values
+document_type: ""               # See scripts/schema.yml for allowed values
 issuing_body: ""                # Court, legislature, agency, publisher
 date_issued: ""                 # YYYY-MM-DD or YYYY
 status: ""                      # current | superseded | draft | archived | unknown
@@ -65,7 +65,7 @@ summary: >
 
 key_pinpoint: ""                # Specific section/article/paragraph reference
 
-victim_id_tags:                 # 1–5 tags from schema.yml
+victim_id_tags:                 # 1–5 tags from scripts/schema.yml
   - ""
 
 added_by: ""

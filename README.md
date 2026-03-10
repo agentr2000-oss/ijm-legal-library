@@ -45,9 +45,6 @@ Requires Python 3.8+ and `pyyaml` (`pip install pyyaml`).
 ```
 ijm-legal-library/
 ├── README.md                  ← you are here
-├── CONTRIBUTING.md            ← how to add/edit entries
-├── TEMPLATE.md                ← blank entry template (copy this)
-├── schema.yml                 ← controlled vocabularies (single source of truth)
 ├── INDEX.md                   ← auto-generated browsable index
 ├── index.json                 ← auto-generated machine-readable index
 ├── scripts/
@@ -55,8 +52,11 @@ ijm-legal-library/
 │   ├── build-index.py         ← generates INDEX.md + index.json
 │   ├── filter.py              ← CLI query tool
 │   ├── download.py            ← fetches source PDFs/HTML from public URLs
-│   └── link-docs.py           ← writes local_file paths back into entries
+│   ├── link-docs.py           ← writes local_file paths back into entries
+│   ├── schema.yml             ← controlled vocabularies (single source of truth)
+│   └── TEMPLATE.md            ← blank entry template (copy this)
 ├── .github/
+│   ├── CONTRIBUTING.md        ← how to add/edit entries
 │   └── workflows/
 │       └── validate.yml       ← CI: validates on every push/PR
 ├── docs/                      ← downloaded source documents (PDFs, HTML)
@@ -81,8 +81,21 @@ The frontmatter contains all structured metadata (jurisdiction, bucket, tags, ac
 
 Example entry (`victim-identification/legislation/uk-modern-slavery-act-2015.md`):
 
-```yaml
+Each file has a **readable Markdown body** (title, summary table, tags) at the top, followed by a **YAML metadata block** at the bottom (parsed by scripts):
+
+~~~markdown
+# Modern Slavery Act 2015
+
+| Field | Value |
+|---|---|
+| **Jurisdiction** | UK |
+| **Bucket** | Legislation |
+...
+
 ---
+
+<!-- entry metadata (parsed by scripts — do not remove) -->
+```yaml
 title: "Modern Slavery Act 2015"
 jurisdiction: UK
 bucket: legislation
@@ -98,12 +111,12 @@ victim_id_tags:
   - definition-scope
   - competent-authority-nrm
   - non-punishment-link
----
 ```
+~~~
 
 ## Controlled vocabularies
 
-All allowed values are defined in `schema.yml`. The `validate.py` script enforces them. To add a new jurisdiction, tag, or document type, edit `schema.yml` first — then entries can use the new value.
+All allowed values are defined in `scripts/schema.yml`. The `validate.py` script enforces them. To add a new jurisdiction, tag, or document type, edit `scripts/schema.yml` first — then entries can use the new value.
 
 ## Backend-needed entries
 

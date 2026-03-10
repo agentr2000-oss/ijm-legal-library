@@ -4,7 +4,7 @@
 import sys, os, glob, yaml, re
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-SCHEMA_PATH = os.path.join(REPO_ROOT, "schema.yml")
+SCHEMA_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "schema.yml")
 ENTRY_DIRS = [
     "victim-identification",
     "elements-defences",

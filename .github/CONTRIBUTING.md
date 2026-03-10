@@ -4,7 +4,7 @@
 
 1. **Copy the template:**
    ```bash
-   cp TEMPLATE.md victim-identification/legislation/au-my-new-entry.md
+   cp scripts/TEMPLATE.md victim-identification/legislation/au-my-new-entry.md
    ```
 
 2. **Choose the right folder:**
@@ -22,7 +22,7 @@
    - `asean-actip-2015.md`
    - `un-palermo-protocol-2000.md`
 
-4. **Fill in the frontmatter.** All values must match `schema.yml`. Required fields:
+4. **Fill in the frontmatter.** All values must match `scripts/schema.yml`. Required fields:
    - `title`, `jurisdiction`, `bucket`, `document_type`
    - `issuing_body`, `date_issued`, `status`, `access`
    - `summary`, `victim_id_tags`
@@ -46,7 +46,7 @@
 
 ## Editing controlled vocabularies
 
-Need a new jurisdiction, tag, or document type? Edit `schema.yml`, then all entries can use the new value. Run `validate.py` to make sure nothing broke.
+Need a new jurisdiction, tag, or document type? Edit `scripts/schema.yml`, then all entries can use the new value. Run `validate.py` to make sure nothing broke.
 
 ## Commit message convention
 
