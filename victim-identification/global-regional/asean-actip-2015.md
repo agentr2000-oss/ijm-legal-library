@@ -18,7 +18,7 @@ The first legally binding regional instrument on trafficking in the ASEAN region
 
 Arts. 2 (definitions), 14 (identification of victims), 15–16 (protection and assistance)
 
-## Victim Identification Tags
+## Tags
 
 `definition-scope` · `indicators-screening` · `assistance-entitlements` · `cross-border-referral-return`
 
@@ -49,7 +49,7 @@ summary: >
 
 key_pinpoint: "Arts. 2 (definitions), 14 (identification of victims), 15–16 (protection and assistance)"
 
-victim_id_tags:
+tags:
   - definition-scope
   - indicators-screening
   - assistance-entitlements

@@ -18,7 +18,7 @@ Framework of structural, process, and outcome indicators for assessing the quali
 
 Indicator framework: structural, process, and outcome indicators applied to trafficking prevention, protection, and prosecution
 
-## Victim Identification Tags
+## Tags
 
 `competent-authority-nrm` · `indicators-screening` · `assistance-entitlements`
 
@@ -46,7 +46,7 @@ summary: >
 
 key_pinpoint: "Indicator framework: structural, process, and outcome indicators applied to trafficking prevention, protection, and prosecution"
 
-victim_id_tags:
+tags:
   - competent-authority-nrm
   - indicators-screening
   - assistance-entitlements

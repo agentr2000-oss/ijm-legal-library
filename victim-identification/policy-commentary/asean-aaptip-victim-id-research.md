@@ -18,7 +18,7 @@ Research study commissioned by ASEAN-ACT (successor to AAPTIP) examining victim 
 
 Sections on victim identification, gaps between law/policy and practice, country-specific findings
 
-## Victim Identification Tags
+## Tags
 
 `indicators-screening` · `competent-authority-nrm` · `referral-pathway` · `detention-immigration-interface`
 
@@ -51,7 +51,7 @@ summary: >
 
 key_pinpoint: "Sections on victim identification, gaps between law/policy and practice, country-specific findings"
 
-victim_id_tags:
+tags:
   - indicators-screening
   - competent-authority-nrm
   - referral-pathway

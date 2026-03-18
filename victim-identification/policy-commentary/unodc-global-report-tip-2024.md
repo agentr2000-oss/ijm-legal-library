@@ -18,7 +18,7 @@ Eighth edition of the mandated global report covering data from 156 countries on
 
 Chapter 1 (global overview and trends); Chapter 2 (detection and identification data)
 
-## Victim Identification Tags
+## Tags
 
 `indicators-screening` · `child-victim-identification` · `labour-exploitation-indicators` · `sex-trafficking-indicators`
 
@@ -49,7 +49,7 @@ summary: >
 
 key_pinpoint: "Chapter 1 (global overview and trends); Chapter 2 (detection and identification data)"
 
-victim_id_tags:
+tags:
   - indicators-screening
   - child-victim-identification
   - labour-exploitation-indicators

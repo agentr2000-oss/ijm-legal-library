@@ -7,6 +7,9 @@ REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SCHEMA_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "schema.yml")
 ENTRY_DIRS = [
     "victim-identification",
+    "prosecution",
+    "investigations",
+    "victim-compensation",
     "elements-defences",
     "international-cooperation",
 ]
@@ -14,7 +17,7 @@ ENTRY_DIRS = [
 REQUIRED_FIELDS = [
     "title", "jurisdiction", "bucket", "document_type",
     "issuing_body", "date_issued", "status", "access",
-    "victim_id_tags", "summary",
+    "tags", "summary",
 ]
 
 FIELD_TO_SCHEMA_KEY = {
@@ -25,7 +28,7 @@ FIELD_TO_SCHEMA_KEY = {
     "access": "access_levels",
     "backend_source": "backend_sources",
     "backend_confidence": "backend_confidence",
-    "victim_id_tags": "victim_id_tags",
+    "tags": "tags",
 }
 
 

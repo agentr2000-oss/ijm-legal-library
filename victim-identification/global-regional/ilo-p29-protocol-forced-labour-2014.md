@@ -18,7 +18,7 @@ Updates Convention No. 29 with modern obligations for prevention, protection, an
 
 Arts. 1–4 (prevention, protection, victim identification and access to remedies)
 
-## Victim Identification Tags
+## Tags
 
 `definition-scope` · `labour-exploitation-indicators` · `indicators-screening` · `assistance-entitlements`
 
@@ -46,7 +46,7 @@ summary: >
 
 key_pinpoint: "Arts. 1–4 (prevention, protection, victim identification and access to remedies)"
 
-victim_id_tags:
+tags:
   - definition-scope
   - labour-exploitation-indicators
   - indicators-screening

@@ -18,7 +18,7 @@ The foundational Council of Europe treaty on combating human trafficking, establ
 
 Arts. 10–16 (identification, NRM, reflection period, assistance); Art. 26 (non-punishment)
 
-## Victim Identification Tags
+## Tags
 
 `competent-authority-nrm` · `referral-pathway` · `reflection-period-temporary-stay` · `assistance-entitlements` · `non-punishment-link`
 
@@ -52,7 +52,7 @@ summary: >
 
 key_pinpoint: "Arts. 10–16 (identification, NRM, reflection period, assistance); Art. 26 (non-punishment)"
 
-victim_id_tags:
+tags:
   - competent-authority-nrm
   - referral-pathway
   - reflection-period-temporary-stay

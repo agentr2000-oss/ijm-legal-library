@@ -15,13 +15,13 @@
 
 ## Summary
 
-1–3 sentence summary focused on victim-identification relevance.
+1–3 sentence summary focused on thematic relevance.
 
 ## Key Provisions
 
 Specific section/article/paragraph reference.
 
-## Victim Identification Tags
+## Tags
 
 `tag-1` · `tag-2`
 
@@ -39,7 +39,7 @@ Specific section/article/paragraph reference.
 #   e.g., us-tvpa-2000.md, uk-rantsev-v-cyprus-2010.md
 
 title: ""                       # Full official title
-jurisdiction: ""                # US | EU | UK | AU | ECHR | ASEAN | UN | ILO | UNODC | OSCE | Global
+jurisdiction: ""                # US | EU | UK | AU | IN | ECHR | ASEAN | UN | ILO | UNODC | OSCE | Global
 bucket: ""                      # legislation | case-law | prosecution-procedure | operational-guidance | policy-commentary | journal-articles | global-regional
 document_type: ""               # See scripts/schema.yml for allowed values
 issuing_body: ""                # Court, legislature, agency, publisher
@@ -61,11 +61,11 @@ retrieval_notes: ""             # Citation, docket number, what to export
 
 # --- Content ---
 summary: >
-  1–3 sentence summary focused on victim-identification relevance.
+  1–3 sentence summary focused on thematic relevance.
 
 key_pinpoint: ""                # Specific section/article/paragraph reference
 
-victim_id_tags:                 # 1–5 tags from scripts/schema.yml
+tags:                           # 1–5 tags from scripts/schema.yml
   - ""
 
 added_by: ""

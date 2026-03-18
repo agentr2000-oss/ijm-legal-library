@@ -18,9 +18,9 @@ The ECtHR held that the UK violated Article 4 ECHR by failing to identify two Vi
 
 Paras. 153–162 (positive obligation to identify victims), paras. 192–200 (Article 6 fair trial implications of non-identification)
 
-## Victim Identification Tags
+## Tags
 
-`child-victim-identification` · `non-punishment-link` · `indicators-screening` · `competent-authority-nrm`
+`child-victim-identification` · `non-punishment-link` · `indicators-screening` · `competent-authority-nrm` · `abuse-of-process`
 
 ## Source
 
@@ -51,11 +51,12 @@ summary: >
 
 key_pinpoint: "Paras. 153–162 (positive obligation to identify victims), paras. 192–200 (Article 6 fair trial implications of non-identification)"
 
-victim_id_tags:
+tags:
   - child-victim-identification
   - non-punishment-link
   - indicators-screening
   - competent-authority-nrm
+  - abuse-of-process
 
 added_by: "Claude Code (initial build)"
 date_added: 2026-03-09

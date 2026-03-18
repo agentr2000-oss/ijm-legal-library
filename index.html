@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Legal Resource Library — Forced Labour & Trafficking in Persons</title>
+<script src="lib/react.production.min.js"></script>
+<script src="lib/react-dom.production.min.js"></script>
+<script src="lib/babel.min.js"></script>
+<style>
+  *, *::before, *::after { box-sizing: border-box; }
+  body { margin: 0; background: #fdfcf9; font-family: Georgia, 'Times New Roman', serif; }
+  input, select, button { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+  code { background: #f0f0f0; padding: 1px 4px; border-radius: 2px; font-size: 12px; }
+  ::selection { background: #1a1a2e; color: #fff; }
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script type="text/babel">
+const { useState, useMemo, useEffect, useCallback } = React;
+
+// ══════════════════════════════════════════════════════════════
+// Loads index.json from the same directory as index.html.
+// Works locally (file://) and on GitHub Pages.
+// ══════════════════════════════════════════════════════════════
+function getBaseUrl() {
+  const loc = window.location;
+  if (loc.protocol === 'file:') {
+    // For local file:// access, construct path relative to index.html
+    const dir = loc.pathname.substring(0, loc.pathname.lastIndexOf('/'));
+    return 'index.json';
+  }
+  const path = loc.pathname.replace(/\/index\.html$/i, '/').replace(/\/$/, '');
+  return loc.origin + path + '/index.json';
+}
+
+const FALLBACK = [
+  { title: "Could not load index.json", jurisdiction: "—", file: "unknown",
+    bucket: "operational-guidance", document_type: "guideline-sop",
+    summary: "Make sure index.json is in the same directory as index.html. Run: python scripts/build-index.py",
+    key_pinpoint: "Check browser console for errors.", source_url: "", tags: [], access: "public" }
+];
+
+// Theme config — derived from folder path
+const THEMES = [
+  { key: "victim-identification", label: "Victim Identification", icon: "◉", color: "#5c3d2e" },
+  { key: "prosecution", label: "Prosecution", icon: "⚖", color: "#4a1942" },
+  { key: "investigations", label: "Investigations", icon: "⛨", color: "#2d4a3e" },
+  { key: "victim-compensation", label: "Victim Compensation", icon: "₿", color: "#614a19" },
+  { key: "elements-defences", label: "Elements & Defences", icon: "§", color: "#1e3a5f" },
+  { key: "international-cooperation", label: "International Cooperation", icon: "⊕", color: "#1a3a4a" },
+];
+const THEME_MAP = THEMES.reduce((a, t) => { a[t.key] = t; return a; }, {});
+
+const BUCKET_LABELS = {
+  "legislation": "Legislation & Regulations",
+  "case-law": "Case Law",
+  "prosecution-procedure": "Prosecution & Procedure",
+  "operational-guidance": "Operational Guidance",
+  "policy-commentary": "Policy Papers & Commentary",
+  "journal-articles": "Journal Articles",
+  "global-regional": "Global & Regional Instruments",
+};
+
+const DOC_TYPE_LABELS = {
+  "act-statute": "Legislation", "regulation-rule": "Legislation", "directive": "Legislation",
+  "framework-decision": "Legislation", "convention-treaty": "Treaty", "protocol": "Treaty",
+  "guideline-sop": "Guidance", "practice-direction": "Guidance",
+  "judgment-opinion": "Case Law", "decision": "Case Law", "advisory-opinion": "Case Law",
+  "issue-paper": "Report", "report": "Report", "working-paper": "Report",
+  "model-law-template": "Guidance", "journal-article": "Report",
+  "commentary-analysis": "Report", "toolkit-manual": "Toolkit",
+  "factsheet": "Guidance", "declaration": "Treaty",
+  "database-portal": "Database", "resource-collection": "Resource",
+};
+
+const JURIS_LABELS = {
+  US: "United States", UK: "United Kingdom", AU: "Australia", IN: "India",
+  EU: "European Union", ECHR: "ECHR", ASEAN: "ASEAN",
+  UN: "United Nations", ILO: "ILO", UNODC: "UNODC", OSCE: "OSCE", Global: "Global",
+};
+const JURISDICTION_ORDER = ["US", "UK", "AU", "IN", "EU", "ECHR", "UN", "ILO", "UNODC", "OSCE", "ASEAN", "Global"];
+
+const TYPE_COLORS = {
+  Legislation: { bg: "#e8eef6", fg: "#1e3a5f" }, Treaty: { bg: "#e8eef6", fg: "#1e3a5f" },
+  Guidance: { bg: "#eef5e8", fg: "#2d4a3e" }, "Case Law": { bg: "#f5e8f3", fg: "#4a1942" },
+  Toolkit: { bg: "#f5f0e1", fg: "#614a19" }, Report: { bg: "#f0e8e4", fg: "#5c3d2e" },
+  Database: { bg: "#e4f0ed", fg: "#1a4a3a" }, Resource: { bg: "#f0ece4", fg: "#4a3a1a" },
+};
+const JURIS_COLORS = { US: "#1a3669", UK: "#69211a", AU: "#1a5c3d", IN: "#8b5c00", EU: "#003399", ECHR: "#003366", UN: "#4b92db", ILO: "#1a4a6e", UNODC: "#1a4a3a", OSCE: "#005b96", ASEAN: "#003f87", Global: "#444" };
+
+/* ── helpers ── */
+
+function deriveTheme(filePath) {
+  if (!filePath) return "unknown";
+  return filePath.split("/")[0];
+}
+
+function deriveDisplayType(docType) {
+  return DOC_TYPE_LABELS[docType] || docType || "Unknown";
+}
+
+/* ── tiny components ── */
+
+function Tag({ type }) {
+  const c = TYPE_COLORS[type] || { bg: "#eee", fg: "#333" };
+  return <span style={{ display: "inline-block", fontSize: 11, fontWeight: 600, padding: "2px 8px", borderRadius: 3, backgroundColor: c.bg, color: c.fg, letterSpacing: "0.02em", textTransform: "uppercase", marginRight: 6, whiteSpace: "nowrap" }}>{type}</span>;
+}
+
+function Badge({ j }) {
+  return <span style={{ display: "inline-block", fontSize: 10, fontWeight: 700, padding: "2px 7px", borderRadius: 3, backgroundColor: JURIS_COLORS[j] || "#666", color: "#fff", letterSpacing: "0.04em", textTransform: "uppercase", marginRight: 6 }}>{j}</span>;
+}
+
+function AccessBadge({ access }) {
+  if (access !== "backend-needed") return null;
+  return <span title="Requires backend retrieval" style={{ display: "inline-block", fontSize: 10, fontWeight: 700, padding: "2px 7px", borderRadius: 3, backgroundColor: "#d4a017", color: "#fff", marginRight: 6 }}>🔒 BACKEND</span>;
+}
+
+/* ── resource card ── */
+
+function Card({ r, open, toggle }) {
+  const displayType = deriveDisplayType(r.document_type);
+  const bucketLabel = BUCKET_LABELS[r.bucket] || r.bucket;
+  return (
+    <div style={{ borderBottom: "1px solid #e2e2e2", padding: "12px 0" }}>
+      <div onClick={toggle} style={{ cursor: "pointer", display: "flex", alignItems: "flex-start", gap: 10 }}>
+        <span style={{ fontFamily: "monospace", fontSize: 13, color: "#888", width: 18, flexShrink: 0, paddingTop: 2, userSelect: "none" }}>{open ? "▾" : "▸"}</span>
+        <div style={{ flex: 1, minWidth: 0 }}>
+          <div style={{ display: "flex", flexWrap: "wrap", alignItems: "center", gap: 4, marginBottom: 4 }}>
+            <Badge j={r.jurisdiction} /><Tag type={displayType} /><AccessBadge access={r.access} />
+          </div>
+          <div style={{ fontSize: 14, fontWeight: 600, color: "#1a1a2e", lineHeight: 1.35 }}>{r.title}</div>
+        </div>
+      </div>
+      {open && (
+        <div style={{ marginLeft: 28, marginTop: 10, fontSize: 13, lineHeight: 1.6, color: "#333" }}>
+          <p style={{ margin: "0 0 6px", fontSize: 11, color: "#888" }}>{bucketLabel} · {r.issuing_body} · {r.date_issued}</p>
+          <p style={{ margin: "0 0 10px" }}>{r.summary}</p>
+          {r.key_pinpoint && (
+            <div style={{ background: "#f8f6f0", border: "1px solid #e8e4da", borderRadius: 4, padding: "8px 12px", marginBottom: 10, fontSize: 12.5, color: "#555" }}>
+              <strong style={{ color: "#4a3a1a", fontSize: 11, textTransform: "uppercase", letterSpacing: "0.04em" }}>Key Sections / Paragraphs:</strong>
+              <div style={{ marginTop: 4 }}>{r.key_pinpoint}</div>
+            </div>
+          )}
+          {r.tags && r.tags.length > 0 && (
+            <div style={{ marginBottom: 10, display: "flex", flexWrap: "wrap", gap: 4 }}>
+              {r.tags.map(t => <code key={t} style={{ fontSize: 11, padding: "1px 6px", borderRadius: 3, backgroundColor: "#f0ede8", color: "#666" }}>{t}</code>)}
+            </div>
+          )}
+          <div style={{ display: "flex", gap: 12, flexWrap: "wrap", alignItems: "center" }}>
+            {r.source_url && <a href={r.source_url} target="_blank" rel="noopener noreferrer" style={{ display: "inline-flex", alignItems: "center", gap: 4, fontSize: 12.5, color: "#1a5c8a", textDecoration: "none", fontWeight: 500, borderBottom: "1px dashed #1a5c8a" }}>Open source ↗</a>}
+            {r.file && <a href={r.file} style={{ fontSize: 12, color: "#999", textDecoration: "none" }}>📄 {r.file}</a>}
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
+
+/* ── collapsible section ── */
+
+function Section({ label, icon, color, items, openIds, toggle }) {
+  const [show, setShow] = useState(false);
+  return (
+    <div style={{ marginBottom: 2 }}>
+      <div onClick={() => setShow(!show)} style={{ cursor: "pointer", display: "flex", alignItems: "center", gap: 10, padding: "12px 16px", backgroundColor: show ? color : "#fafaf8", borderLeft: "4px solid " + color, transition: "all 0.15s", borderRadius: "0 4px 4px 0", marginBottom: 1 }}>
+        <span style={{ fontSize: 18, opacity: 0.7, color: show ? "#fff" : color, width: 22, textAlign: "center" }}>{icon}</span>
+        <span style={{ fontSize: 14, fontWeight: 700, color: show ? "#fff" : "#1a1a2e", flex: 1 }}>{label}</span>
+        <span style={{ fontSize: 11, color: show ? "rgba(255,255,255,0.7)" : "#999", fontWeight: 500 }}>{items.length} item{items.length !== 1 ? "s" : ""}</span>
+        <span style={{ fontFamily: "monospace", fontSize: 13, color: show ? "#fff" : "#aaa", userSelect: "none" }}>{show ? "▾" : "▸"}</span>
+      </div>
+      {show && (
+        <div style={{ padding: "4px 16px 8px 42px", backgroundColor: "#fff", borderLeft: "4px solid " + color + "20", borderRadius: "0 0 4px 0" }}>
+          {items.map(r => <Card key={r.file} r={r} open={openIds.has(r.file)} toggle={() => toggle(r.file)} />)}
+        </div>
+      )}
+    </div>
+  );
+}
+
+/* ── main app ── */
+
+function App() {
+  const [data, setData] = useState([]);
+  const [status, setStatus] = useState("loading");
+  const [lastLoad, setLastLoad] = useState(null);
+  const [view, setView] = useState("theme");
+  const [q, setQ] = useState("");
+  const [fJuris, setFJuris] = useState("All");
+  const [fTheme, setFTheme] = useState("All");
+  const [openIds, setOpenIds] = useState(new Set());
+  const [expandAll, setExpandAll] = useState(false);
+
+  const load = useCallback(async () => {
+    setStatus("loading");
+    try {
+      const url = getBaseUrl();
+      const r = await fetch(url, { cache: "no-store" });
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      const d = await r.json();
+      if (Array.isArray(d) && d.length) { setData(d); setStatus("ok"); }
+      else throw new Error("Empty");
+    } catch (e) { console.error(e); setData(FALLBACK); setStatus("err"); }
+    setLastLoad(new Date().toLocaleString());
+  }, []);
+
+  useEffect(() => { load(); }, [load]);
+
+  const toggle = (id) => setOpenIds(p => { const n = new Set(p); n.has(id) ? n.delete(id) : n.add(id); return n; });
+
+  const jurisdictions = useMemo(() => {
+    const s = [...new Set(data.map(r => r.jurisdiction))];
+    return JURISDICTION_ORDER.filter(j => s.includes(j)).concat(s.filter(j => !JURISDICTION_ORDER.includes(j)));
+  }, [data]);
+
+  const themeKeys = useMemo(() => {
+    const s = [...new Set(data.map(r => deriveTheme(r.file)))];
+    return THEMES.map(t => t.key).filter(k => s.includes(k)).concat(s.filter(t => !THEME_MAP[t]));
+  }, [data]);
+
+  const filtered = useMemo(() => {
+    let a = data;
+    if (fJuris !== "All") a = a.filter(r => r.jurisdiction === fJuris);
+    if (fTheme !== "All") a = a.filter(r => deriveTheme(r.file) === fTheme);
+    if (q.trim()) {
+      const lc = q.toLowerCase();
+      a = a.filter(r => [r.title, r.summary, r.key_pinpoint || "", r.jurisdiction, r.issuing_body || "", ...(r.tags || [])].some(s => (s || "").toLowerCase().includes(lc)));
+    }
+    return a;
+  }, [data, fJuris, fTheme, q]);
+
+  const active = expandAll ? new Set(filtered.map(r => r.file)) : openIds;
+
+  const groups = useMemo(() => {
+    if (view === "theme") {
+      return themeKeys.map(t => {
+        const info = THEME_MAP[t] || { label: t, icon: "•", color: "#555" };
+        return { label: info.label, icon: info.icon, color: info.color, items: filtered.filter(r => deriveTheme(r.file) === t) };
+      }).filter(g => g.items.length);
+    }
+    return jurisdictions.map(j => ({
+      label: JURIS_LABELS[j] || j,
+      icon: "",
+      color: JURIS_COLORS[j] || "#555",
+      items: filtered.filter(r => r.jurisdiction === j)
+    })).filter(g => g.items.length);
+  }, [view, filtered, themeKeys, jurisdictions]);
+
+  const sans = "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif";
+  const btn = (active) => ({ padding: "7px 14px", fontSize: 12, fontWeight: 600, border: "none", cursor: "pointer", fontFamily: sans, backgroundColor: active ? "#1a1a2e" : "#fff", color: active ? "#fff" : "#555", transition: "all 0.15s" });
+  const sel = { padding: "7px 10px", fontSize: 12, border: "1px solid #ccc", borderRadius: 4, fontFamily: sans, backgroundColor: "#fff", cursor: "pointer" };
+
+  // Stats
+  const nLeg = filtered.filter(r => { const dt = deriveDisplayType(r.document_type); return dt === "Legislation" || dt === "Treaty"; }).length;
+  const nCase = filtered.filter(r => deriveDisplayType(r.document_type) === "Case Law").length;
+  const nGuidance = filtered.filter(r => { const dt = deriveDisplayType(r.document_type); return ["Guidance","Toolkit","Database","Resource"].includes(dt); }).length;
+  const nJuris = new Set(filtered.map(r => r.jurisdiction)).size;
+
+  return (
+    <div style={{ fontFamily: "Georgia, 'Times New Roman', serif", maxWidth: 900, margin: "0 auto", padding: "24px 16px", minHeight: "100vh" }}>
+
+      {/* header */}
+      <div style={{ textAlign: "center", marginBottom: 28, borderBottom: "2px solid #1a1a2e", paddingBottom: 20 }}>
+        <div style={{ fontSize: 11, fontFamily: sans, fontWeight: 600, textTransform: "uppercase", letterSpacing: "0.15em", color: "#888", marginBottom: 6 }}>Legal Resource Library</div>
+        <h1 style={{ fontSize: 26, fontWeight: 700, color: "#1a1a2e", margin: "0 0 6px", lineHeight: 1.2 }}>Forced Labour &amp; Trafficking in Persons</h1>
+        <p style={{ fontSize: 13, fontFamily: sans, color: "#777", margin: 0, maxWidth: 600, marginInline: "auto" }}>Legislation, case law, prosecution guidance, investigation resources, and compensation mechanisms across jurisdictions. Click sections to expand, then entries for details.</p>
+        {lastLoad && (
+          <div style={{ fontSize: 10, fontFamily: sans, color: "#aaa", marginTop: 6 }}>
+            {status === "ok" ? "✓" : "⚠"} Loaded: {lastLoad} · {data.length} entries
+            {" · "}<button onClick={load} style={{ background: "none", border: "none", color: "#1a5c8a", cursor: "pointer", fontSize: 10, textDecoration: "underline", padding: 0, fontFamily: sans }}>Refresh</button>
+          </div>
+        )}
+      </div>
+
+      {status === "loading" ? (
+        <div style={{ textAlign: "center", padding: 40, fontFamily: sans, fontSize: 14, color: "#888" }}>Loading resources…</div>
+      ) : (
+        <>
+          {/* controls */}
+          <div style={{ fontFamily: sans, display: "flex", flexWrap: "wrap", gap: 10, marginBottom: 20, alignItems: "center" }}>
+            <div style={{ display: "flex", borderRadius: 4, overflow: "hidden", border: "1px solid #ccc", flexShrink: 0 }}>
+              <button onClick={() => setView("theme")} style={btn(view === "theme")}>By Theme</button>
+              <button onClick={() => setView("jurisdiction")} style={btn(view === "jurisdiction")}>By Jurisdiction</button>
+            </div>
+            <input value={q} onChange={e => setQ(e.target.value)} placeholder="Search titles, summaries, tags…" style={{ flex: 1, minWidth: 180, padding: "7px 12px", fontSize: 12.5, border: "1px solid #ccc", borderRadius: 4, fontFamily: sans, outline: "none", backgroundColor: "#fff" }} />
+            <select value={fJuris} onChange={e => setFJuris(e.target.value)} style={sel}>
+              <option value="All">All Jurisdictions</option>
+              {jurisdictions.map(j => <option key={j} value={j}>{JURIS_LABELS[j] || j}</option>)}
+            </select>
+            <select value={fTheme} onChange={e => setFTheme(e.target.value)} style={sel}>
+              <option value="All">All Themes</option>
+              {themeKeys.map(t => <option key={t} value={t}>{(THEME_MAP[t] || {}).label || t}</option>)}
+            </select>
+            <button onClick={() => setExpandAll(!expandAll)} style={{ ...btn(expandAll), border: "1px solid #ccc", borderRadius: 4, fontSize: 11 }}>{expandAll ? "Collapse All" : "Expand All"}</button>
+          </div>
+
+          {/* stats */}
+          <div style={{ fontFamily: sans, fontSize: 11.5, color: "#888", marginBottom: 16, display: "flex", gap: 16, flexWrap: "wrap" }}>
+            <span><strong style={{ color: "#333" }}>{filtered.length}</strong> resources</span><span>·</span>
+            <span>{nLeg} legislative instruments</span><span>·</span>
+            <span>{nCase} cases</span><span>·</span>
+            <span>{nGuidance} guidance & tools</span><span>·</span>
+            <span>{nJuris} jurisdictions</span>
+          </div>
+
+          {/* content */}
+          {groups.length === 0 ? (
+            <div style={{ textAlign: "center", padding: 40, color: "#999", fontFamily: sans, fontSize: 14 }}>No resources match your search and filters.</div>
+          ) : groups.map(g => <Section key={g.label} label={g.label} icon={g.icon} color={g.color} items={g.items} openIds={active} toggle={toggle} />)}
+        </>
+      )}
+
+      {/* footer */}
+      <div style={{ marginTop: 32, padding: "16px 0", borderTop: "1px solid #ddd", fontFamily: sans, fontSize: 11, color: "#aaa", textAlign: "center" }}>
+        <p style={{ margin: "0 0 4px" }}>Index of external resources — not legal advice. Verify all sources before reliance.</p>
+        <p style={{ margin: 0 }}>Data source: <code>index.json</code> (generated by <code>scripts/build-index.py</code>)</p>
+      </div>
+    </div>
+  );
+}
+
+ReactDOM.createRoot(document.getElementById("root")).render(<App />);
+</script>
+</body>
+</html>

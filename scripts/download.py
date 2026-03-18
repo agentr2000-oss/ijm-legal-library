@@ -16,7 +16,10 @@ from urllib.error import HTTPError, URLError
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DOCS_DIR = REPO_ROOT / "docs"
-ENTRY_DIRS = ["victim-identification", "elements-defences", "international-cooperation"]
+ENTRY_DIRS = [
+    "victim-identification", "prosecution", "investigations",
+    "victim-compensation", "elements-defences", "international-cooperation",
+]
 USER_AGENT = "IJM-Legal-Library/1.0 (research; non-commercial)"
 
 # Map of URL patterns to expected content types / download strategies

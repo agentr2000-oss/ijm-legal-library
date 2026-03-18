@@ -18,7 +18,7 @@ The Australian Institute of Criminology publishes a series of research reports o
 
 AIC Statistical Reports (SR-48); Trends & Issues in Crime and Criminal Justice (TANDI-640, TANDI-464, TANDI-441, TANDI-338)
 
-## Victim Identification Tags
+## Tags
 
 `indicators-screening` · `child-victim-identification` · `definition-scope`
 
@@ -45,7 +45,7 @@ summary: >
 
 key_pinpoint: "AIC Statistical Reports (SR-48); Trends & Issues in Crime and Criminal Justice (TANDI-640, TANDI-464, TANDI-441, TANDI-338)"
 
-victim_id_tags:
+tags:
   - indicators-screening
   - child-victim-identification
   - definition-scope

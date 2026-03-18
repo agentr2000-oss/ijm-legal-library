@@ -18,7 +18,7 @@ Title XII of VAWA 2013 reauthorized the TVPA with expanded trafficking definitio
 
 Pub. L. 113-4, Title XII, §§ 1201–1252 (trafficking definitions, emergency assistance, grant programs)
 
-## Victim Identification Tags
+## Tags
 
 `definition-scope` · `assistance-entitlements` · `sex-trafficking-indicators`
 
@@ -51,7 +51,7 @@ summary: >
 
 key_pinpoint: "Pub. L. 113-4, Title XII, §§ 1201–1252 (trafficking definitions, emergency assistance, grant programs)"
 
-victim_id_tags:
+tags:
   - definition-scope
   - assistance-entitlements
   - sex-trafficking-indicators

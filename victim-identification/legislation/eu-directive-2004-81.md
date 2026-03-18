@@ -18,7 +18,7 @@ Establishes the conditions under which third-country national trafficking victim
 
 Art. 5 (informing the victim), Art. 6 (reflection period), Arts. 7–8 (residence permit conditions), Art. 9 (treatment pending issuance), Arts. 10–12 (access to assistance, medical treatment, education, employment)
 
-## Victim Identification Tags
+## Tags
 
 `reflection-period-temporary-stay` · `referral-pathway` · `assistance-entitlements` · `detention-immigration-interface`
 
@@ -52,7 +52,7 @@ summary: >
 
 key_pinpoint: "Art. 5 (informing the victim), Art. 6 (reflection period), Arts. 7–8 (residence permit conditions), Art. 9 (treatment pending issuance), Arts. 10–12 (access to assistance, medical treatment, education, employment)"
 
-victim_id_tags:
+tags:
   - reflection-period-temporary-stay
   - referral-pathway
   - assistance-entitlements

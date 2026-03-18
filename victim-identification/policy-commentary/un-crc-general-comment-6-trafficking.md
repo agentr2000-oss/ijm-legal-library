@@ -18,7 +18,7 @@ Authoritative interpretive guidance on the Convention on the Rights of the Child
 
 Paras. 50–63 (trafficking-specific provisions); Paras. 31–38 (initial assessment and identification); Paras. 21–23 (guardianship and legal representation)
 
-## Victim Identification Tags
+## Tags
 
 `child-victim-identification` · `first-responder-duties` · `cross-border-referral-return` · `detention-immigration-interface`
 
@@ -49,7 +49,7 @@ summary: >
 
 key_pinpoint: "Paras. 50–63 (trafficking-specific provisions); Paras. 31–38 (initial assessment and identification); Paras. 21–23 (guardianship and legal representation)"
 
-victim_id_tags:
+tags:
   - child-victim-identification
   - first-responder-duties
   - cross-border-referral-return

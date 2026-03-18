@@ -18,7 +18,7 @@ DOJ prosecution guidance for federal human trafficking cases, issued by the Huma
 
 Sections on victim identification during investigation, evidentiary standards for trafficking elements
 
-## Victim Identification Tags
+## Tags
 
 `indicators-screening` · `first-responder-duties` · `referral-pathway`
 
@@ -52,7 +52,7 @@ summary: >
 
 key_pinpoint: "Sections on victim identification during investigation, evidentiary standards for trafficking elements"
 
-victim_id_tags:
+tags:
   - indicators-screening
   - first-responder-duties
   - referral-pathway

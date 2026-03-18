@@ -14,7 +14,7 @@
 
 Guidance from the Group of Experts on Action against Trafficking in Human Beings on the intersection of trafficking victim identification and international protection. Addresses the entitlement of trafficking victims and at-risk persons to asylum, emphasising the need for fair and efficient identification procedures, the non-punishment principle, and specialised support within national referral mechanisms.
 
-## Victim Identification Tags
+## Tags
 
 `competent-authority-nrm` · `referral-pathway` · `non-punishment-link` · `cross-border-referral-return`
 
@@ -48,7 +48,7 @@ summary: >
 
 key_pinpoint: ""
 
-victim_id_tags:
+tags:
   - competent-authority-nrm
   - referral-pathway
   - non-punishment-link

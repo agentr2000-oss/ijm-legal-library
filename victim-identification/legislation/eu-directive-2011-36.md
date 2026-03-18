@@ -18,7 +18,7 @@ Core EU anti-trafficking directive establishing minimum rules on the definition 
 
 Arts. 2–4 (offences and penalties), Art. 8 (non-prosecution/non-punishment), Arts. 11–12 (victim identification and assistance), Art. 13 (general provisions on assistance), Art. 14 (child victims), Art. 16 (child victims — unaccompanied), Art. 20 (reporting)
 
-## Victim Identification Tags
+## Tags
 
 `definition-scope` · `indicators-screening` · `first-responder-duties` · `non-punishment-link` · `child-victim-identification`
 
@@ -52,7 +52,7 @@ summary: >
 
 key_pinpoint: "Arts. 2–4 (offences and penalties), Art. 8 (non-prosecution/non-punishment), Arts. 11–12 (victim identification and assistance), Art. 13 (general provisions on assistance), Art. 14 (child victims), Art. 16 (child victims — unaccompanied), Art. 20 (reporting)"
 
-victim_id_tags:
+tags:
   - definition-scope
   - indicators-screening
   - first-responder-duties

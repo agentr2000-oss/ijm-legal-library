@@ -18,7 +18,7 @@ Establishes minimum standards on the rights, support, and protection of victims 
 
 Arts. 3–7 (right to information and interpretation), Art. 8 (right to access victim support services), Art. 22 (individual assessment to identify specific protection needs), Art. 23 (right to protection during criminal proceedings), Art. 24 (child victims)
 
-## Victim Identification Tags
+## Tags
 
 `referral-pathway` · `interviewing-trauma-informed` · `assistance-entitlements` · `child-victim-identification`
 
@@ -52,7 +52,7 @@ summary: >
 
 key_pinpoint: "Arts. 3–7 (right to information and interpretation), Art. 8 (right to access victim support services), Art. 22 (individual assessment to identify specific protection needs), Art. 23 (right to protection during criminal proceedings), Art. 24 (child victims)"
 
-victim_id_tags:
+tags:
   - referral-pathway
   - interviewing-trauma-informed
   - assistance-entitlements

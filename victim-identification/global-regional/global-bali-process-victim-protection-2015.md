@@ -18,7 +18,7 @@ Asia-Pacific regional policy guide providing an overview of international standa
 
 Victim identification standards; Protection and assistance frameworks; Good practices from Bali Process member countries
 
-## Victim Identification Tags
+## Tags
 
 `indicators-screening` · `referral-pathway` · `cross-border-referral-return` · `assistance-entitlements`
 
@@ -49,7 +49,7 @@ summary: >
 
 key_pinpoint: "Victim identification standards; Protection and assistance frameworks; Good practices from Bali Process member countries"
 
-victim_id_tags:
+tags:
   - indicators-screening
   - referral-pathway
   - cross-border-referral-return

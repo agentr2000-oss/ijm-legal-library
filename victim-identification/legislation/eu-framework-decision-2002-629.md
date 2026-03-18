@@ -18,7 +18,7 @@ First EU criminal law instrument specifically targeting trafficking in human bei
 
 Arts. 1–2 (offences), Art. 3 (penalties), Art. 7 (protection and assistance to victims)
 
-## Victim Identification Tags
+## Tags
 
 `definition-scope` · `assistance-entitlements`
 
@@ -51,7 +51,7 @@ summary: >
 
 key_pinpoint: "Arts. 1–2 (offences), Art. 3 (penalties), Art. 7 (protection and assistance to victims)"
 
-victim_id_tags:
+tags:
   - definition-scope
   - assistance-entitlements
 

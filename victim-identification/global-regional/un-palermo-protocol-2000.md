@@ -18,7 +18,7 @@ Foundational international instrument defining trafficking in persons (Art. 3) t
 
 Art. 3 (definition of trafficking); Art. 6 (assistance to and protection of victims)
 
-## Victim Identification Tags
+## Tags
 
 `definition-scope` · `assistance-entitlements` · `referral-pathway` · `cross-border-referral-return`
 
@@ -46,7 +46,7 @@ summary: >
 
 key_pinpoint: "Art. 3 (definition of trafficking); Art. 6 (assistance to and protection of victims)"
 
-victim_id_tags:
+tags:
   - definition-scope
   - assistance-entitlements
   - referral-pathway

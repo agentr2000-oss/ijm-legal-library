@@ -18,7 +18,7 @@ The Court found that Greece violated Article 4 due to an unjustified delay in fo
 
 Paras. 66–86 (duty to identify promptly; consequences of delayed formal recognition)
 
-## Victim Identification Tags
+## Tags
 
 `competent-authority-nrm` · `first-responder-duties` · `referral-pathway` · `sex-trafficking-indicators`
 
@@ -52,7 +52,7 @@ summary: >
 
 key_pinpoint: "Paras. 66–86 (duty to identify promptly; consequences of delayed formal recognition)"
 
-victim_id_tags:
+tags:
   - competent-authority-nrm
   - first-responder-duties
   - referral-pathway

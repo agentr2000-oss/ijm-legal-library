@@ -18,7 +18,7 @@ Reported challenge concerning the support entitlements available to identified t
 
 Reasoning on trafficking victim support entitlements and Commonwealth obligations
 
-## Victim Identification Tags
+## Tags
 
 `assistance-entitlements` · `referral-pathway`
 
@@ -59,7 +59,7 @@ summary: >
 
 key_pinpoint: "Reasoning on trafficking victim support entitlements and Commonwealth obligations"
 
-victim_id_tags:
+tags:
   - assistance-entitlements
   - referral-pathway
 

@@ -14,7 +14,7 @@
 
 Joint FRA–European Commission handbook providing guidance to Member States on strengthening guardianship systems for unaccompanied and separated children, with particular attention to the specific needs of child trafficking victims. Sets out core principles, standards for guardians, and procedures for identifying and protecting child victims within guardianship and referral systems.
 
-## Victim Identification Tags
+## Tags
 
 `child-victim-identification` · `referral-pathway` · `assistance-entitlements`
 
@@ -48,7 +48,7 @@ summary: >
 
 key_pinpoint: ""
 
-victim_id_tags:
+tags:
   - child-victim-identification
   - referral-pathway
   - assistance-entitlements

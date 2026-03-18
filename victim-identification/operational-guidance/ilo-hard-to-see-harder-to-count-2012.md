@@ -18,7 +18,7 @@ Provides the first comprehensive operational methodology for forced-labour preva
 
 Chapters on operational definition, sampling strategies, and minimum question sets
 
-## Victim Identification Tags
+## Tags
 
 `indicators-screening` · `labour-exploitation-indicators`
 
@@ -49,7 +49,7 @@ summary: >
 
 key_pinpoint: "Chapters on operational definition, sampling strategies, and minimum question sets"
 
-victim_id_tags:
+tags:
   - indicators-screening
   - labour-exploitation-indicators
 

@@ -18,7 +18,7 @@ The AG Guidelines (2022 edition, effective March 2023) establish mandatory oblig
 
 Chapter on human trafficking victims (victim identification, referral, and services obligations)
 
-## Victim Identification Tags
+## Tags
 
 `first-responder-duties` · `referral-pathway` · `assistance-entitlements`
 
@@ -52,7 +52,7 @@ summary: >
 
 key_pinpoint: "Chapter on human trafficking victims (victim identification, referral, and services obligations)"
 
-victim_id_tags:
+tags:
   - first-responder-duties
   - referral-pathway
   - assistance-entitlements

@@ -18,7 +18,7 @@ The AFP's operational guidance on indicators of human trafficking and slavery, i
 
 AFP trafficking indicators checklist; Look a Little Deeper program materials
 
-## Victim Identification Tags
+## Tags
 
 `indicators-screening` · `first-responder-duties` · `labour-exploitation-indicators` · `sex-trafficking-indicators`
 
@@ -48,7 +48,7 @@ summary: >
 
 key_pinpoint: "AFP trafficking indicators checklist; Look a Little Deeper program materials"
 
-victim_id_tags:
+tags:
   - indicators-screening
   - first-responder-duties
   - labour-exploitation-indicators

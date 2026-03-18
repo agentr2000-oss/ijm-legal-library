@@ -18,7 +18,7 @@ The Court found Greece in violation of Article 4 for failing to prevent forced l
 
 Paras. 86–128 (positive obligation to identify and protect; indicators of forced labour and trafficking)
 
-## Victim Identification Tags
+## Tags
 
 `definition-scope` · `indicators-screening` · `first-responder-duties` · `labour-exploitation-indicators`
 
@@ -52,7 +52,7 @@ summary: >
 
 key_pinpoint: "Paras. 86–128 (positive obligation to identify and protect; indicators of forced labour and trafficking)"
 
-victim_id_tags:
+tags:
   - definition-scope
   - indicators-screening
   - first-responder-duties

@@ -18,7 +18,7 @@ Foundational UN human-rights principles for anti-trafficking responses, establis
 
 Principle 1 (primacy of human rights); Guideline 2 (identification of trafficked persons); Guideline 6 (non-punishment)
 
-## Victim Identification Tags
+## Tags
 
 `definition-scope` · `first-responder-duties` · `indicators-screening` · `non-punishment-link` · `assistance-entitlements`
 
@@ -46,7 +46,7 @@ summary: >
 
 key_pinpoint: "Principle 1 (primacy of human rights); Guideline 2 (identification of trafficked persons); Guideline 6 (non-punishment)"
 
-victim_id_tags:
+tags:
   - definition-scope
   - first-responder-duties
   - indicators-screening

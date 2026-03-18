@@ -18,7 +18,7 @@ Survey-based assessment of the status and effectiveness of National Referral Mec
 
 NRM survey findings; Comparative analysis of participating State identification structures
 
-## Victim Identification Tags
+## Tags
 
 `competent-authority-nrm` · `referral-pathway` · `cross-border-referral-return`
 
@@ -46,7 +46,7 @@ summary: >
 
 key_pinpoint: "NRM survey findings; Comparative analysis of participating State identification structures"
 
-victim_id_tags:
+tags:
   - competent-authority-nrm
   - referral-pathway
   - cross-border-referral-return

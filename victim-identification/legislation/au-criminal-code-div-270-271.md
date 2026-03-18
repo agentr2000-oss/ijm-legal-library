@@ -18,7 +18,7 @@ Core federal criminal provisions criminalising slavery, servitude, forced labour
 
 Criminal Code Act 1995, Schedule — The Criminal Code, Chapter 8, Part 7.4, Divisions 270–271
 
-## Victim Identification Tags
+## Tags
 
 `definition-scope` · `labour-exploitation-indicators` · `sex-trafficking-indicators` · `first-responder-duties`
 
@@ -48,7 +48,7 @@ summary: >
 
 key_pinpoint: "Criminal Code Act 1995, Schedule — The Criminal Code, Chapter 8, Part 7.4, Divisions 270–271"
 
-victim_id_tags:
+tags:
   - definition-scope
   - labour-exploitation-indicators
   - sex-trafficking-indicators

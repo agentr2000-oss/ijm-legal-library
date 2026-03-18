@@ -18,7 +18,7 @@ Anti-Slavery Australia (ASA) at UTS is the only specialist Australian organisati
 
 ASA research publications; child victim identification project (2022 UTS Social Impact Grant)
 
-## Victim Identification Tags
+## Tags
 
 `child-victim-identification` · `indicators-screening` · `assistance-entitlements` · `referral-pathway`
 
@@ -48,7 +48,7 @@ summary: >
 
 key_pinpoint: "ASA research publications; child victim identification project (2022 UTS Social Impact Grant)"
 
-victim_id_tags:
+tags:
   - child-victim-identification
   - indicators-screening
   - assistance-entitlements

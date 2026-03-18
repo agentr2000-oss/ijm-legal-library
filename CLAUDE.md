@@ -1,32 +1,45 @@
 # CLAUDE.md — Claude Code project configuration
 
 ## Project overview
-This is a git-versioned legal research library on human trafficking, forced labour, and labour exploitation. Each source document = one Markdown file with YAML frontmatter. PDFs are committed directly to git in `docs/`.
+This is a git-versioned legal research library on human trafficking, forced labour, and labour exploitation. Each source document = one Markdown file with YAML frontmatter. PDFs are committed directly to git in `docs/`. The library covers multiple themes: victim identification, prosecution, investigations, victim compensation, and international cooperation.
 
 ## Key files
 - `scripts/schema.yml` — all controlled vocabularies. Every frontmatter value MUST match.
 - `scripts/TEMPLATE.md` — the exact entry format. Copy this for new entries.
 - `scripts/validate.py` — validates all entries. Run after every batch.
 - `scripts/build-index.py` — regenerates INDEX.md + index.json. Run before committing.
+- `scripts/render-body.py` — regenerates human-readable markdown bodies from YAML.
 - `scripts/download.py` — fetches source PDFs/HTML for public entries into `docs/`.
 - `scripts/link-docs.py` — writes `local_file` paths back into entry frontmatter.
+- `index.html` — interactive HTML index (reads from index.json, works offline).
+
+## Thematic folders
+- `victim-identification/` — NRM, indicators, first responder duties, screening tools
+- `prosecution/` — offence elements, s.45 defence, CPS guidance, sentencing
+- `investigations/` — police investigation guidance, financial investigation, intelligence
+- `victim-compensation/` — restitution, reparation orders, civil remedies
+- `elements-defences/` — (reserved for future use)
+- `international-cooperation/` — MLA, JITs, Eurojust, country assessments
+
+Each theme folder contains bucket subdirectories: `legislation/`, `case-law/`, `prosecution-procedure/`, `operational-guidance/`, `policy-commentary/`, `journal-articles/`, `global-regional/`.
 
 ## Workflow for adding entries
-1. Create .md file in the correct subfolder (e.g., `victim-identification/case-law/`)
+1. Create .md file in the correct subfolder (e.g., `prosecution/case-law/`)
 2. Fill in YAML frontmatter matching scripts/schema.yml values exactly
 3. `python scripts/validate.py` — must pass with 0 errors
-4. `python scripts/build-index.py` — regenerate index
-5. `git add -A && git commit`
+4. `python scripts/render-body.py` — regenerate readable body
+5. `python scripts/build-index.py` — regenerate index
+6. `git add -A && git commit`
 
 ## File naming
 `[jurisdiction]-[short-slug].md` — e.g., `uk-modern-slavery-act-2015.md`
 
 ## Rules
-- Summaries: 1-3 sentences, victim-identification relevance only
+- Summaries: 1-3 sentences, focused on thematic relevance (not just victim identification)
 - Tags: 1-5 from scripts/schema.yml, only genuinely relevant ones
+- Cross-theme tags: entries may have tags from multiple themes for discoverability
 - Paywalled sources: set `access: backend-needed` with full retrieval instructions
 - Do NOT create synthesized memos, toolkits, or policy drafts
-- Do NOT create entries outside the current scope (victim identification)
 
 ## Commit messages
 ```

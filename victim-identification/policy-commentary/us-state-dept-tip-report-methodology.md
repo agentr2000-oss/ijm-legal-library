@@ -18,7 +18,7 @@ The annual Trafficking in Persons Report assesses each country's efforts to comb
 
 Methodology and tier-ranking criteria; victim identification and referral assessment framework
 
-## Victim Identification Tags
+## Tags
 
 `indicators-screening` · `competent-authority-nrm` · `referral-pathway`
 
@@ -52,7 +52,7 @@ summary: >
 
 key_pinpoint: "Methodology and tier-ranking criteria; victim identification and referral assessment framework"
 
-victim_id_tags:
+tags:
   - indicators-screening
   - competent-authority-nrm
   - referral-pathway

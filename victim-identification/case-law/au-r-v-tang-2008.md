@@ -18,7 +18,7 @@ Leading High Court authority on the definition of slavery under Division 270 of 
 
 Gleeson CJ at [25]–[33] (definition of slavery); Hayne J at [42]–[50] (powers attaching to ownership)
 
-## Victim Identification Tags
+## Tags
 
 `definition-scope` · `sex-trafficking-indicators` · `indicators-screening`
 
@@ -45,7 +45,7 @@ summary: >
 
 key_pinpoint: "Gleeson CJ at [25]–[33] (definition of slavery); Hayne J at [42]–[50] (powers attaching to ownership)"
 
-victim_id_tags:
+tags:
   - definition-scope
   - sex-trafficking-indicators
   - indicators-screening

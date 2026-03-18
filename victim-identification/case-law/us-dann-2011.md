@@ -18,7 +18,7 @@ Labour trafficking case in which the Ninth Circuit examined the coercion analysi
 
 652 F.3d at 1168–1174 (coercion and forced labour analysis under § 1589)
 
-## Victim Identification Tags
+## Tags
 
 `labour-exploitation-indicators` · `definition-scope`
 
@@ -64,7 +64,7 @@ summary: >
 
 key_pinpoint: "652 F.3d at 1168–1174 (coercion and forced labour analysis under § 1589)"
 
-victim_id_tags:
+tags:
   - labour-exploitation-indicators
   - definition-scope
 

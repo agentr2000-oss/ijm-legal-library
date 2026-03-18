@@ -14,7 +14,7 @@
 
 Comprehensive EU policy framework setting out priorities for 2021–2025 on preventing trafficking, protecting and empowering victims, and bringing traffickers to justice. Focuses on breaking the criminal business model of traffickers, addressing online exploitation, and strengthening early identification and referral of victims across Member States.
 
-## Victim Identification Tags
+## Tags
 
 `indicators-screening` · `referral-pathway` · `first-responder-duties` · `assistance-entitlements`
 
@@ -47,7 +47,7 @@ summary: >
 
 key_pinpoint: ""
 
-victim_id_tags:
+tags:
   - indicators-screening
   - referral-pathway
   - first-responder-duties

@@ -18,7 +18,7 @@ The CDPP Victims of Crime Policy and associated Witness Assistance Service pract
 
 CDPP Victims of Crime Policy; National Legal Direction on Witness Assistance Service Referral Guidelines
 
-## Victim Identification Tags
+## Tags
 
 `interviewing-trauma-informed` · `referral-pathway` · `assistance-entitlements`
 
@@ -45,7 +45,7 @@ summary: >
 
 key_pinpoint: "CDPP Victims of Crime Policy; National Legal Direction on Witness Assistance Service Referral Guidelines"
 
-victim_id_tags:
+tags:
   - interviewing-trauma-informed
   - referral-pathway
   - assistance-entitlements

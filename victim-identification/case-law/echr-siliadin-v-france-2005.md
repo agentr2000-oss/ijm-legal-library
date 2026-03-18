@@ -18,7 +18,7 @@ First Article 4 case in which the ECtHR found a violation for domestic servitude
 
 Paras. 112–149 (definition of servitude; positive obligation to penalise and prosecute)
 
-## Victim Identification Tags
+## Tags
 
 `definition-scope` · `indicators-screening` · `child-victim-identification` · `labour-exploitation-indicators`
 
@@ -52,7 +52,7 @@ summary: >
 
 key_pinpoint: "Paras. 112–149 (definition of servitude; positive obligation to penalise and prosecute)"
 
-victim_id_tags:
+tags:
   - definition-scope
   - indicators-screening
   - child-victim-identification

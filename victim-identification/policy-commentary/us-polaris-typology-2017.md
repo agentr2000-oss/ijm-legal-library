@@ -18,7 +18,7 @@ Analysis of over 32,000 cases documented through the National Human Trafficking 
 
 25 trafficking types with identification indicators, victim profiles, and control methods by type
 
-## Victim Identification Tags
+## Tags
 
 `indicators-screening` · `sex-trafficking-indicators` · `labour-exploitation-indicators`
 
@@ -52,7 +52,7 @@ summary: >
 
 key_pinpoint: "25 trafficking types with identification indicators, victim profiles, and control methods by type"
 
-victim_id_tags:
+tags:
   - indicators-screening
   - sex-trafficking-indicators
   - labour-exploitation-indicators

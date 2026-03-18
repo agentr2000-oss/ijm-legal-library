@@ -14,7 +14,7 @@
 
 Analyses the extent to which EU law in criminal, labour, and migration domains incorporates a human rights-based approach to trafficking in human beings. Argues that despite rhetorical commitment, the EU has been reluctant to fully implement victim-centred identification and protection, and calls for THB-sensitive reforms across relevant areas of law.
 
-## Victim Identification Tags
+## Tags
 
 `definition-scope` · `referral-pathway` · `assistance-entitlements`
 
@@ -60,7 +60,7 @@ summary: >
 
 key_pinpoint: ""
 
-victim_id_tags:
+tags:
   - definition-scope
   - referral-pathway
   - assistance-entitlements

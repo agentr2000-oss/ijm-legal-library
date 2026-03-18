@@ -18,7 +18,7 @@ Victorian Court of Appeal decision concerning forced labour and servitude offenc
 
 Court of Appeal reasoning on elements of servitude and forced labour
 
-## Victim Identification Tags
+## Tags
 
 `labour-exploitation-indicators` · `indicators-screening` · `definition-scope`
 
@@ -59,7 +59,7 @@ summary: >
 
 key_pinpoint: "Court of Appeal reasoning on elements of servitude and forced labour"
 
-victim_id_tags:
+tags:
   - labour-exploitation-indicators
   - indicators-screening
   - definition-scope

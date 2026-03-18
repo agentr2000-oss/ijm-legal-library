@@ -18,7 +18,7 @@ Foundational ILO convention establishing the international definition of forced 
 
 Art. 2 (definition of forced or compulsory labour)
 
-## Victim Identification Tags
+## Tags
 
 `definition-scope` · `labour-exploitation-indicators`
 
@@ -46,7 +46,7 @@ summary: >
 
 key_pinpoint: "Art. 2 (definition of forced or compulsory labour)"
 
-victim_id_tags:
+tags:
   - definition-scope
   - labour-exploitation-indicators
 

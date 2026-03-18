@@ -18,9 +18,9 @@ Court of Appeal examined the application of the s. 45 Modern Slavery Act defence
 
 Paras. on s. 45 defence application, abuse of process arguments, and the nexus between victim identification and non-prosecution
 
-## Victim Identification Tags
+## Tags
 
-`non-punishment-link` · `indicators-screening` · `competent-authority-nrm`
+`non-punishment-link` · `indicators-screening` · `competent-authority-nrm` · `statutory-defence-s45` · `abuse-of-process`
 
 ## Source
 
@@ -52,10 +52,12 @@ summary: >
 
 key_pinpoint: "Paras. on s. 45 defence application, abuse of process arguments, and the nexus between victim identification and non-prosecution"
 
-victim_id_tags:
+tags:
   - non-punishment-link
   - indicators-screening
   - competent-authority-nrm
+  - statutory-defence-s45
+  - abuse-of-process
 
 added_by: "Claude Code (initial build)"
 date_added: 2026-03-09

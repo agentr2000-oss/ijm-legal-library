@@ -18,7 +18,7 @@ Regional action plan adopted alongside the ACTIP, setting out concrete measures 
 
 Section II (Protection of Victims), paras on victim identification and referral
 
-## Victim Identification Tags
+## Tags
 
 `indicators-screening` · `referral-pathway` · `first-responder-duties` · `cross-border-referral-return`
 
@@ -53,7 +53,7 @@ summary: >
 
 key_pinpoint: "Section II (Protection of Victims), paras on victim identification and referral"
 
-victim_id_tags:
+tags:
   - indicators-screening
   - referral-pathway
   - first-responder-duties

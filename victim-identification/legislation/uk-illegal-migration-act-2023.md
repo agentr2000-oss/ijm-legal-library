@@ -18,7 +18,7 @@ Restricts NRM access for persons who entered the UK irregularly, limiting modern
 
 ss. 21–28 (modern slavery provisions, disapplication of NRM protections, exceptions for cooperation with investigations)
 
-## Victim Identification Tags
+## Tags
 
 `competent-authority-nrm` · `detention-immigration-interface` · `referral-pathway` · `assistance-entitlements`
 
@@ -51,7 +51,7 @@ summary: >
 
 key_pinpoint: "ss. 21–28 (modern slavery provisions, disapplication of NRM protections, exceptions for cooperation with investigations)"
 
-victim_id_tags:
+tags:
   - competent-authority-nrm
   - detention-immigration-interface
   - referral-pathway

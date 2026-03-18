@@ -18,7 +18,7 @@ Recent civil TVPA case addressing forced labour identification indicators. If ve
 
 To be confirmed upon retrieval — forced labour indicators under 18 USC § 1589
 
-## Victim Identification Tags
+## Tags
 
 `labour-exploitation-indicators` · `definition-scope`
 
@@ -64,7 +64,7 @@ summary: >
 
 key_pinpoint: "To be confirmed upon retrieval — forced labour indicators under 18 USC § 1589"
 
-victim_id_tags:
+tags:
   - labour-exploitation-indicators
   - definition-scope
 

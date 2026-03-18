@@ -18,7 +18,7 @@ Program guidelines for the Support for Trafficked People Program (STPP), a key c
 
 STPP Intensive Support Stream, Forced Marriage Support Stream, Temporary Trial Support Stream, Transition Stream
 
-## Victim Identification Tags
+## Tags
 
 `assistance-entitlements` · `referral-pathway` · `reflection-period-temporary-stay`
 
@@ -45,7 +45,7 @@ summary: >
 
 key_pinpoint: "STPP Intensive Support Stream, Forced Marriage Support Stream, Temporary Trial Support Stream, Transition Stream"
 
-victim_id_tags:
+tags:
   - assistance-entitlements
   - referral-pathway
   - reflection-period-temporary-stay

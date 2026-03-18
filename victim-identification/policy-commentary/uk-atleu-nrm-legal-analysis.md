@@ -18,7 +18,7 @@ Legal analysis by ATLEU examining the impact of Nationality and Borders Act 2022
 
 Sections on changed reasonable grounds threshold, NRM decision-making delays, legal aid access barriers, and impact on victim identification outcomes
 
-## Victim Identification Tags
+## Tags
 
 `competent-authority-nrm` · `definition-scope` · `assistance-entitlements` · `referral-pathway`
 
@@ -49,7 +49,7 @@ summary: >
 
 key_pinpoint: "Sections on changed reasonable grounds threshold, NRM decision-making delays, legal aid access barriers, and impact on victim identification outcomes"
 
-victim_id_tags:
+tags:
   - competent-authority-nrm
   - definition-scope
   - assistance-entitlements

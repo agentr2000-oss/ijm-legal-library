@@ -18,7 +18,7 @@ Official ECtHR press-unit factsheet summarising key trafficking judgments under 
 
 Summaries of Rantsev, Siliadin, Chowdury, L.E., S.M. and other leading cases
 
-## Victim Identification Tags
+## Tags
 
 `definition-scope` · `indicators-screening` · `first-responder-duties`
 
@@ -51,7 +51,7 @@ summary: >
 
 key_pinpoint: "Summaries of Rantsev, Siliadin, Chowdury, L.E., S.M. and other leading cases"
 
-victim_id_tags:
+tags:
   - definition-scope
   - indicators-screening
   - first-responder-duties

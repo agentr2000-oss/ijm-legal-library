@@ -11,7 +11,7 @@
     "access": "public",
     "summary": "Foundational UN human-rights principles for anti-trafficking responses, establishing that the human rights of trafficked persons must be at the centre of all prevention, protection, and prosecution efforts. Guideline 2 specifically addresses victim identification, requiring States to develop guidelines and procedures for relevant authorities to enable identification and providing that trafficked persons shall not be detained, charged, or prosecuted for trafficking-related offences.\n",
     "key_pinpoint": "Principle 1 (primacy of human rights); Guideline 2 (identification of trafficked persons); Guideline 6 (non-punishment)",
-    "victim_id_tags": [
+    "tags": [
       "definition-scope",
       "first-responder-duties",
       "indicators-screening",
@@ -35,7 +35,7 @@
     "local_file": "docs/victim-identification/global-regional/echr-coe-convention-trafficking-2005.html",
     "summary": "The foundational Council of Europe treaty on combating human trafficking, establishing the framework for victim identification (Art. 10), the National Referral Mechanism model (Art. 10), a minimum 30-day recovery and reflection period (Art. 13), residence permits for victims (Art. 14), and the non-punishment principle (Art. 26). Articles 10-16 set out detailed obligations on identification, assistance, and protection of trafficking victims.\n",
     "key_pinpoint": "Arts. 10\u201316 (identification, NRM, reflection period, assistance); Art. 26 (non-punishment)",
-    "victim_id_tags": [
+    "tags": [
       "competent-authority-nrm",
       "referral-pathway",
       "reflection-period-temporary-stay",
@@ -59,7 +59,7 @@
     "local_file": "docs/victim-identification/global-regional/unodc-model-law-thb-2009.pdf",
     "summary": "Model legislative provisions designed to assist States in drafting or amending national trafficking laws consistent with the Palermo Protocol. Includes detailed model provisions for victim identification procedures, assistance and protection of victims, and establishment of competent identification authorities.\n",
     "key_pinpoint": "Chapter IV (Assistance and protection for victims); Chapter V (Immigration status and repatriation)",
-    "victim_id_tags": [
+    "tags": [
       "definition-scope",
       "competent-authority-nrm",
       "referral-pathway",
@@ -83,7 +83,7 @@
     "local_file": "docs/victim-identification/global-regional/asean-plan-of-action-2015.pdf",
     "summary": "Regional action plan adopted alongside the ACTIP, setting out concrete measures across four pillars: prevention, protection, law enforcement/prosecution, and regional cooperation. Victim identification is a priority area under the protection pillar, requiring member states to develop screening procedures, train front-line responders, and establish referral mechanisms for identified and presumed victims.\n",
     "key_pinpoint": "Section II (Protection of Victims), paras on victim identification and referral",
-    "victim_id_tags": [
+    "tags": [
       "indicators-screening",
       "referral-pathway",
       "first-responder-duties",
@@ -105,7 +105,7 @@
     "access": "public",
     "summary": "Updated regional action plan continuing the victim identification priorities of the 2015-2020 Plan of Action. Builds on lessons learned from the first cycle and the Bohol TIP Work Plan to strengthen screening, referral pathways, and multi-agency coordination for identifying trafficking victims across ASEAN member states.\n",
     "key_pinpoint": "Protection pillar, victim identification and referral sections",
-    "victim_id_tags": [
+    "tags": [
       "indicators-screening",
       "referral-pathway",
       "competent-authority-nrm",
@@ -128,7 +128,7 @@
     "local_file": "docs/victim-identification/global-regional/global-santa-marta-group-2014.html",
     "summary": "Declaration by senior law enforcement leaders from over 25 countries, convened with the support of Pope Francis, committing to a partnership between police, the Church, and civil society to eradicate trafficking and modern slavery. Emphasizes the role of community-based networks in identifying victims who may not come to law enforcement attention and pledges improved international cooperation on identification and referral.\n",
     "key_pinpoint": "Santa Marta Commitment declaration; Pledges on prevention, victim identification, pastoral care, and reintegration",
-    "victim_id_tags": [
+    "tags": [
       "first-responder-duties",
       "referral-pathway"
     ],
@@ -149,7 +149,7 @@
     "local_file": "docs/victim-identification/global-regional/un-untoc-2000.html",
     "summary": "Parent convention to the Palermo Protocol, providing the overarching framework for international cooperation against transnational organized crime, including trafficking in persons. Establishes mutual legal assistance, extradition, and joint investigation mechanisms that underpin cross-border victim identification and referral.\n",
     "key_pinpoint": "Arts. 18\u201321 (mutual legal assistance, joint investigations); Art. 24 (protection of witnesses); Art. 25 (assistance to and protection of victims)",
-    "victim_id_tags": [
+    "tags": [
       "cross-border-referral-return",
       "assistance-entitlements"
     ],
@@ -169,7 +169,7 @@
     "access": "public",
     "summary": "Foundational ILO convention establishing the international definition of forced labour as work exacted under menace of penalty without voluntary consent (Art. 2). This definition underpins all modern forced-labour screening indicators and victim-identification frameworks.\n",
     "key_pinpoint": "Art. 2 (definition of forced or compulsory labour)",
-    "victim_id_tags": [
+    "tags": [
       "definition-scope",
       "labour-exploitation-indicators"
     ],
@@ -189,7 +189,7 @@
     "access": "public",
     "summary": "Foundational international instrument defining trafficking in persons (Art. 3) through the elements of act, means, and purpose. Article 6 establishes obligations for victim assistance and protection, while the broader framework shapes global victim-identification standards and referral mechanisms.\n",
     "key_pinpoint": "Art. 3 (definition of trafficking); Art. 6 (assistance to and protection of victims)",
-    "victim_id_tags": [
+    "tags": [
       "definition-scope",
       "assistance-entitlements",
       "referral-pathway",
@@ -211,7 +211,7 @@
     "access": "public",
     "summary": "Updates Convention No. 29 with modern obligations for prevention, protection, and remedies. Requires States to take measures for the identification, release, protection, and recovery of victims of forced labour, including trafficking victims, and mandates access to appropriate and effective remedies.\n",
     "key_pinpoint": "Arts. 1\u20134 (prevention, protection, victim identification and access to remedies)",
-    "victim_id_tags": [
+    "tags": [
       "definition-scope",
       "labour-exploitation-indicators",
       "indicators-screening",
@@ -233,7 +233,7 @@
     "access": "public",
     "summary": "Comprehensive OSCE framework (Permanent Council Decision No. 557) establishing recommendations across prosecution, prevention, protection, and partnerships for combating trafficking. Includes detailed provisions on National Referral Mechanisms, proactive victim identification by law enforcement, and multi-agency cooperation, updated by addenda in 2005 and 2013.\n",
     "key_pinpoint": "Chapter III (Protection and Assistance); Chapter V (NRM recommendations)",
-    "victim_id_tags": [
+    "tags": [
       "competent-authority-nrm",
       "first-responder-duties",
       "referral-pathway",
@@ -256,7 +256,7 @@
     "local_file": "docs/victim-identification/global-regional/global-bali-process-victim-protection-2015.html",
     "summary": "Asia-Pacific regional policy guide providing an overview of international standards for victim identification and protection, with extensive good-practice examples from Bali Process member countries. Covers identification procedures in mixed migration flows, protection and assistance standards, and return and reintegration considerations specific to the region.\n",
     "key_pinpoint": "Victim identification standards; Protection and assistance frameworks; Good practices from Bali Process member countries",
-    "victim_id_tags": [
+    "tags": [
       "indicators-screening",
       "referral-pathway",
       "cross-border-referral-return",
@@ -278,7 +278,7 @@
     "access": "public",
     "summary": "Sub-regional guidelines adopted by the six Greater Mekong Sub-region governments (Cambodia, China, Lao PDR, Myanmar, Thailand, and Vietnam) establishing common indicators and procedures for trafficking victim identification and referral. The guidelines operationalise COMMIT policies at the national level, with a focus on border-area identification and transnational referral mechanisms.\n",
     "key_pinpoint": "Common indicators for victim identification, referral mechanism procedures, border-area guidance",
-    "victim_id_tags": [
+    "tags": [
       "indicators-screening",
       "referral-pathway",
       "competent-authority-nrm",
@@ -300,7 +300,7 @@
     "access": "public",
     "summary": "Defines the worst forms of child labour, including trafficking, slavery, forced recruitment, and commercial sexual exploitation of children (Art. 3). Requires States to take effective and time-bound measures for identifying and reaching out to children at special risk, which directly underpins child victim identification efforts.\n",
     "key_pinpoint": "Art. 3 (worst forms of child labour); Art. 7(2) (effective and time-bound measures for identification and outreach)",
-    "victim_id_tags": [
+    "tags": [
       "definition-scope",
       "child-victim-identification",
       "labour-exploitation-indicators"
@@ -321,7 +321,7 @@
     "access": "public",
     "summary": "The first legally binding regional instrument on trafficking in the ASEAN region. Article 14 requires state parties to establish measures for the identification of victims, including through cooperation with NGOs. Articles 14\u201316 set out victim identification triggers, protection obligations, and assistance entitlements that apply once a person is identified as a victim or presumed victim of trafficking.\n",
     "key_pinpoint": "Arts. 2 (definitions), 14 (identification of victims), 15\u201316 (protection and assistance)",
-    "victim_id_tags": [
+    "tags": [
       "definition-scope",
       "indicators-screening",
       "assistance-entitlements",
@@ -344,7 +344,7 @@
     "local_file": "docs/victim-identification/policy-commentary/uk-greta-evaluation-uk-2021.pdf",
     "summary": "Council of Europe monitoring body evaluation of the UK's implementation of the Anti-Trafficking Convention (ECAT). Urges the UK to speed up victim identification by expanding Competent Authority staffing, ensure timely legal aid and psychological assistance for identified victims, and address the near-quadrupling of child NRM referrals between 2016 and 2020.\n",
     "key_pinpoint": "Sections on NRM delays, child victim identification, legal aid access, and recommendations on recovery/reflection period implementation",
-    "victim_id_tags": [
+    "tags": [
       "competent-authority-nrm",
       "child-victim-identification",
       "reflection-period-temporary-stay",
@@ -368,7 +368,7 @@
     "local_file": "docs/victim-identification/policy-commentary/un-crc-general-comment-6-trafficking.pdf",
     "summary": "Authoritative interpretive guidance on the Convention on the Rights of the Child as applied to unaccompanied and separated children, including trafficking-related provisions addressing identification, guardianship, and non-refoulement. Highlights the particular vulnerability of unaccompanied children to trafficking and requires States to take targeted identification measures, including age-appropriate and gender-sensitive information campaigns.\n",
     "key_pinpoint": "Paras. 50\u201363 (trafficking-specific provisions); Paras. 31\u201338 (initial assessment and identification); Paras. 21\u201323 (guardianship and legal representation)",
-    "victim_id_tags": [
+    "tags": [
       "child-victim-identification",
       "first-responder-duties",
       "cross-border-referral-return",
@@ -390,7 +390,7 @@
     "access": "public",
     "summary": "Detailed commentary elaborating on each of the 2002 OHCHR Recommended Principles and Guidelines, providing concrete implementation guidance for human-rights-based victim identification. Explains how identification procedures should be operationalized to avoid re-traumatization and to ensure that victims are not penalized for acts committed as a consequence of their trafficking situation.\n",
     "key_pinpoint": "Commentary on Guideline 2 (identification measures); Commentary on Guideline 6 (non-punishment); Commentary on Guideline 8 (special measures for child victims)",
-    "victim_id_tags": [
+    "tags": [
       "first-responder-duties",
       "indicators-screening",
       "non-punishment-link",
@@ -413,7 +413,7 @@
     "local_file": "docs/victim-identification/policy-commentary/unodc-issue-paper-vulnerability-2013.pdf",
     "summary": "Analytical paper examining the 'means' element of the Palermo Protocol trafficking definition, with particular focus on abuse of a position of vulnerability. Distinguishes pre-existing vulnerability (poverty, disability, age, irregular status) from created vulnerability, providing a framework directly applicable to screening and identification of potential trafficking victims.\n",
     "key_pinpoint": "Part 2 (international legal framework analysis); Part 3 (national law and practice survey); Part 4 (key issues: vulnerability indicators)",
-    "victim_id_tags": [
+    "tags": [
       "definition-scope",
       "indicators-screening"
     ],
@@ -434,7 +434,7 @@
     "local_file": "docs/victim-identification/policy-commentary/us-state-dept-tip-report-methodology.html",
     "summary": "The annual Trafficking in Persons Report assesses each country's efforts to combat trafficking, with a dedicated methodology section evaluating national victim identification systems. The report's tier-ranking framework measures whether governments employ proactive screening procedures, train front-line responders, and maintain systematic identification and referral mechanisms.\n",
     "key_pinpoint": "Methodology and tier-ranking criteria; victim identification and referral assessment framework",
-    "victim_id_tags": [
+    "tags": [
       "indicators-screening",
       "competent-authority-nrm",
       "referral-pathway"
@@ -456,7 +456,7 @@
     "local_file": "docs/victim-identification/policy-commentary/echr-guide-article-4-slavery.html",
     "summary": "The Court's own comprehensive guide synthesising its Art. 4 case law, covering the definitions of slavery, servitude, forced labour, and human trafficking, as well as the positive and procedural obligations on states to identify, protect, and assist victims. Essential reference for understanding the evolving identification duty standard across all ECHR Art. 4 judgments.\n",
     "key_pinpoint": "Sections on positive obligations; identification of victims; investigative duty",
-    "victim_id_tags": [
+    "tags": [
       "definition-scope",
       "indicators-screening",
       "first-responder-duties"
@@ -478,7 +478,7 @@
     "local_file": "docs/victim-identification/policy-commentary/au-jcle-trafficking-report.html",
     "summary": "Major parliamentary inquiry report tabled 18 July 2017 containing 20 recommendations for government action on human trafficking, slavery, and slavery-like practices in Australia. The inquiry examined the adequacy of the legislative framework, law enforcement response, victim support mechanisms, and supply chain transparency, contributing directly to the subsequent passage of the Modern Slavery Act 2018. The Australian Government response, coordinated by the Australian Border Force as chair of the Interdepartmental Committee on Human Trafficking and Slavery, was released in October 2020.\n",
     "key_pinpoint": "PJCLE Report, 20 recommendations; Australian Government response (October 2020)",
-    "victim_id_tags": [
+    "tags": [
       "competent-authority-nrm",
       "referral-pathway",
       "assistance-entitlements",
@@ -500,7 +500,7 @@
     "access": "public",
     "summary": "The Australian Institute of Criminology publishes a series of research reports on human trafficking and modern slavery, including the Human Trafficking and Modern Slavery National Minimum Dataset (HTMS NMDS) and attrition studies. Key findings include a 73 percent prosecution attrition rate (with attrition greatest at the charging stage), that forced marriage accounts for 31 percent of reports, and that 94 percent of victim-survivors referred to the STPP were female with 44 percent aged under 18. These empirical findings are critical for understanding victim identification gaps and patterns in Australia.\n",
     "key_pinpoint": "AIC Statistical Reports (SR-48); Trends & Issues in Crime and Criminal Justice (TANDI-640, TANDI-464, TANDI-441, TANDI-338)",
-    "victim_id_tags": [
+    "tags": [
       "indicators-screening",
       "child-victim-identification",
       "definition-scope"
@@ -521,7 +521,7 @@
     "access": "public",
     "summary": "Legal analysis by ATLEU examining the impact of Nationality and Borders Act 2022 reforms on NRM victim identification, including the narrowed definition of victim (requiring objective factors rather than the previous \"suspects but cannot prove\" threshold), systemic decision-making delays averaging 543 days, and the legal aid crisis leaving survivors without representation during the identification process.\n",
     "key_pinpoint": "Sections on changed reasonable grounds threshold, NRM decision-making delays, legal aid access barriers, and impact on victim identification outcomes",
-    "victim_id_tags": [
+    "tags": [
       "competent-authority-nrm",
       "definition-scope",
       "assistance-entitlements",
@@ -544,7 +544,7 @@
     "local_file": "docs/victim-identification/policy-commentary/eu-greta-guidance-note-nrm.pdf",
     "summary": "Guidance from the Group of Experts on Action against Trafficking in Human Beings on the intersection of trafficking victim identification and international protection. Addresses the entitlement of trafficking victims and at-risk persons to asylum, emphasising the need for fair and efficient identification procedures, the non-punishment principle, and specialised support within national referral mechanisms.\n",
     "key_pinpoint": "",
-    "victim_id_tags": [
+    "tags": [
       "competent-authority-nrm",
       "referral-pathway",
       "non-punishment-link",
@@ -566,7 +566,7 @@
     "access": "public",
     "summary": "Reports and country-visit findings from the OSCE Special Representative identifying persistent policy gaps in victim identification across participating States, including lack of proactive outreach, inadequate identification of labour trafficking victims, and insufficient formal NRM structures. Recommends mapping risk areas, strengthening online-platform monitoring, and adopting social-pathway approaches to identification that operate independently of criminal-justice cooperation requirements.\n",
     "key_pinpoint": "Country visit reports 2022; Recommendations on proactive identification and NRM strengthening",
-    "victim_id_tags": [
+    "tags": [
       "competent-authority-nrm",
       "indicators-screening",
       "labour-exploitation-indicators"
@@ -588,7 +588,7 @@
     "local_file": "docs/victim-identification/policy-commentary/ilo-global-estimates-modern-slavery-2022.html",
     "summary": "Joint ILO, Walk Free, and IOM report estimating 50 million people in modern slavery globally on any given day, comprising 27.6 million in forced labour and 22 million in forced marriage. Provides disaggregated prevalence data by region, age, gender, and exploitation type that informs victim-identification priorities and resource allocation for detection efforts.\n",
     "key_pinpoint": "Key findings (global prevalence); Regional estimates; Methodology (survey-based identification)",
-    "victim_id_tags": [
+    "tags": [
       "indicators-screening",
       "labour-exploitation-indicators",
       "sex-trafficking-indicators"
@@ -610,7 +610,7 @@
     "local_file": "docs/victim-identification/policy-commentary/unodc-global-report-tip-2024.html",
     "summary": "Eighth edition of the mandated global report covering data from 156 countries on over 200,000 detected victims between 2020 and 2023. Highlights that children now account for 38 per cent of detected victims, forced labour has become the predominant form of exploitation globally, and provides trend analysis critical for updating victim-identification priorities.\n",
     "key_pinpoint": "Chapter 1 (global overview and trends); Chapter 2 (detection and identification data)",
-    "victim_id_tags": [
+    "tags": [
       "indicators-screening",
       "child-victim-identification",
       "labour-exploitation-indicators",
@@ -633,7 +633,7 @@
     "local_file": "docs/victim-identification/policy-commentary/uk-iasc-annual-report-2023.html",
     "summary": "Annual report from the Independent Anti-Slavery Commissioner assessing the UK's progress on modern slavery enforcement, victim identification, and NRM performance. Highlights systemic delays in conclusive grounds decisions, gaps in first responder training, and the impact of legislative reforms on victim access to identification and support services.\n",
     "key_pinpoint": "Sections on NRM decision-making delays, victim identification improvements, and recommendations for first responder capacity",
-    "victim_id_tags": [
+    "tags": [
       "competent-authority-nrm",
       "first-responder-duties",
       "assistance-entitlements"
@@ -655,7 +655,7 @@
     "local_file": "docs/victim-identification/policy-commentary/uk-anti-slavery-intl-policy-paper.html",
     "summary": "Policy paper from the Anti-Trafficking Monitoring Group (convened by Anti-Slavery International) examining the UK's victim identification framework. Critiques the conflation of immigration enforcement with modern slavery identification, documents how increasing numbers of survivors have been barred from NRM access, and recommends that victim identification be treated as a protection rather than an immigration matter.\n",
     "key_pinpoint": "Sections on NRM access barriers, immigration-enforcement conflation, recommendations for consistent identification standards across UK jurisdictions",
-    "victim_id_tags": [
+    "tags": [
       "competent-authority-nrm",
       "detention-immigration-interface",
       "definition-scope",
@@ -664,6 +664,27 @@
     "added_by": "Claude Code (initial build)",
     "date_added": "2026-03-09",
     "file": "victim-identification/policy-commentary/uk-anti-slavery-intl-policy-paper.md"
+  },
+  {
+    "title": "Shared Hope International \u2014 State Report Cards & Legislative Framework",
+    "jurisdiction": "US",
+    "bucket": "policy-commentary",
+    "document_type": "report",
+    "issuing_body": "Shared Hope International",
+    "date_issued": "unknown",
+    "status": "current",
+    "source_url": "https://sharedhope.org/resources/policy-research-resources/",
+    "access": "public",
+    "summary": "Annual state-by-state grading (A\u2013F) of US laws protecting child sex trafficking victims. 41-component framework. National State Law Surveys. Seeking Justice Toolkit on eliminating criminal liability of minors. Essential for comparative US state analysis.\n",
+    "key_pinpoint": "State report cards; 41-component framework; non-criminalization of minors; VOI guidance",
+    "tags": [
+      "child-victim-identification",
+      "non-punishment-link",
+      "sex-trafficking-indicators"
+    ],
+    "added_by": "Claude (import from resources.json)",
+    "date_added": "2026-03-18",
+    "file": "victim-identification/policy-commentary/us-shared-hope-state-report-cards.md"
   },
   {
     "title": "EU Strategy on Combating Trafficking in Human Beings (2021\u20132025)",
@@ -678,7 +699,7 @@
     "local_file": "docs/victim-identification/policy-commentary/eu-ec-strategy-thb-2021-2025.html",
     "summary": "Comprehensive EU policy framework setting out priorities for 2021\u20132025 on preventing trafficking, protecting and empowering victims, and bringing traffickers to justice. Focuses on breaking the criminal business model of traffickers, addressing online exploitation, and strengthening early identification and referral of victims across Member States.\n",
     "key_pinpoint": "",
-    "victim_id_tags": [
+    "tags": [
       "indicators-screening",
       "referral-pathway",
       "first-responder-duties",
@@ -701,7 +722,7 @@
     "local_file": "docs/victim-identification/policy-commentary/au-anti-slavery-australia-research.html",
     "summary": "Anti-Slavery Australia (ASA) at UTS is the only specialist Australian organisation combining direct legal representation for victims of modern slavery with research, advocacy, and training. ASA's research portfolio addresses victim identification, remediation, and reparations, with a particular focus on increasing the identification of children subject to trafficking, slavery, and slavery-like practices. As the primary non-government source of specialist legal representation for victims, ASA's research output informs policy and practice across victim identification, referral pathways, and support entitlements.\n",
     "key_pinpoint": "ASA research publications; child victim identification project (2022 UTS Social Impact Grant)",
-    "victim_id_tags": [
+    "tags": [
       "child-victim-identification",
       "indicators-screening",
       "assistance-entitlements",
@@ -723,7 +744,7 @@
     "access": "public",
     "summary": "Research study commissioned by ASEAN-ACT (successor to AAPTIP) examining victim identification practices and protection frameworks across seven ASEAN member states. Finds that most countries lack explicit victim identification provisions in their trafficking laws and that the absence of nationally endorsed, consistently applied identification guidelines results in differing interpretations. Recommends increasing screening focal points, especially in remote and border areas, and engaging NGOs in the identification process.\n",
     "key_pinpoint": "Sections on victim identification, gaps between law/policy and practice, country-specific findings",
-    "victim_id_tags": [
+    "tags": [
       "indicators-screening",
       "competent-authority-nrm",
       "referral-pathway",
@@ -746,7 +767,7 @@
     "local_file": "docs/victim-identification/policy-commentary/eu-ec-progress-report-thb-2020.html",
     "summary": "Third progress report under Article 20 of Directive 2011/36/EU covering 2017\u20132018 data across the EU-27. Reports that 72% of identified victims are women and girls, nearly one in four victims is a child, and half are EU citizens. Notes that prosecutions and convictions remain low relative to reported victim numbers, underscoring gaps in identification and referral mechanisms.\n",
     "key_pinpoint": "",
-    "victim_id_tags": [
+    "tags": [
       "indicators-screening",
       "competent-authority-nrm",
       "child-victim-identification",
@@ -769,7 +790,7 @@
     "local_file": "docs/victim-identification/policy-commentary/eu-fra-rights-suspected-trafficked-2014.html",
     "summary": "Joint FRA\u2013European Commission handbook providing guidance to Member States on strengthening guardianship systems for unaccompanied and separated children, with particular attention to the specific needs of child trafficking victims. Sets out core principles, standards for guardians, and procedures for identifying and protecting child victims within guardianship and referral systems.\n",
     "key_pinpoint": "",
-    "victim_id_tags": [
+    "tags": [
       "child-victim-identification",
       "referral-pathway",
       "assistance-entitlements"
@@ -791,7 +812,7 @@
     "local_file": "docs/victim-identification/policy-commentary/echr-factsheet-trafficking-2024.pdf",
     "summary": "Official ECtHR press-unit factsheet summarising key trafficking judgments under Article 4, including rulings on victim identification obligations, the scope of trafficking and forced labour, and state responsibility for failing to detect and protect victims. Provides a concise entry point to the Court's principal THB case law.\n",
     "key_pinpoint": "Summaries of Rantsev, Siliadin, Chowdury, L.E., S.M. and other leading cases",
-    "victim_id_tags": [
+    "tags": [
       "definition-scope",
       "indicators-screening",
       "first-responder-duties"
@@ -813,7 +834,7 @@
     "local_file": "docs/victim-identification/policy-commentary/us-polaris-typology-2017.html",
     "summary": "Analysis of over 32,000 cases documented through the National Human Trafficking Hotline (2007\u20132016), defining 25 distinct types of human trafficking in the United States. Each type includes specific trafficker profiles, recruitment tactics, victim profiles, and methods of control, providing a granular identification framework that moves beyond broad sex/labour trafficking categories.\n",
     "key_pinpoint": "25 trafficking types with identification indicators, victim profiles, and control methods by type",
-    "victim_id_tags": [
+    "tags": [
       "indicators-screening",
       "sex-trafficking-indicators",
       "labour-exploitation-indicators"
@@ -834,7 +855,7 @@
     "access": "public",
     "summary": "Survey-based assessment of the status and effectiveness of National Referral Mechanisms across OSCE participating States, documenting variations in NRM design, competent-authority structures, and identification procedures. Provides a comparative overview essential for understanding regional best practices and gaps in multi-agency victim identification systems.\n",
     "key_pinpoint": "NRM survey findings; Comparative analysis of participating State identification structures",
-    "victim_id_tags": [
+    "tags": [
       "competent-authority-nrm",
       "referral-pathway",
       "cross-border-referral-return"
@@ -858,7 +879,7 @@
     "retrieval_notes": "Van der Linden, M.N.J. (2016). A New Approach to the Identification of Victims of Trafficking in the EU. Exact journal citation to be confirmed; likely available via institutional subscription databases (Westlaw, HeinOnline, or publisher platform).\n",
     "summary": "Proposes a revised framework for identifying trafficking victims within the EU, critiquing existing indicator-based approaches and advocating for improved screening methods that better account for the diverse forms of exploitation and the practical barriers victims face in self-identification.\n",
     "key_pinpoint": "",
-    "victim_id_tags": [
+    "tags": [
       "indicators-screening",
       "definition-scope",
       "competent-authority-nrm"
@@ -882,7 +903,7 @@
     "retrieval_notes": "Rijken, C. & de Volder, E. (2010). The European Union's Struggle to Realize a Human Rights-Based Approach to Trafficking in Human Beings. Connecticut Journal of International Law, 25, 49\u201380. Available via Westlaw, HeinOnline, or institutional subscription.\n",
     "summary": "Analyses the extent to which EU law in criminal, labour, and migration domains incorporates a human rights-based approach to trafficking in human beings. Argues that despite rhetorical commitment, the EU has been reluctant to fully implement victim-centred identification and protection, and calls for THB-sensitive reforms across relevant areas of law.\n",
     "key_pinpoint": "",
-    "victim_id_tags": [
+    "tags": [
       "definition-scope",
       "referral-pathway",
       "assistance-entitlements"
@@ -906,7 +927,7 @@
     "retrieval_notes": "Christine Beddoe, \"Missing Out: A Study of Child Trafficking in the North-West, North-East and West Midlands\" (ECPAT UK, 2007). Originally published by ECPAT UK in partnership with Save the Children. Referenced on the Anti-Slavery International reports page. Verify whether a digital copy is held by ECPAT UK archives or available through academic library subscriptions.\n",
     "summary": "Foundational research on identifying child trafficking victims in three English regions, documenting 80 known or suspected child trafficking cases. Found that 60% of identified child victims went missing from care and were never recovered, highlighting critical failures in the child protection system's ability to identify and safeguard trafficked children.\n",
     "key_pinpoint": "Findings on child trafficking indicators, 60% missing-from-care rate, and recommendations for child protection agencies",
-    "victim_id_tags": [
+    "tags": [
       "child-victim-identification",
       "indicators-screening",
       "first-responder-duties"
@@ -928,7 +949,7 @@
     "local_file": "docs/victim-identification/journal-articles/uk-haughey-nrm-review-2016.pdf",
     "summary": "Independent review commissioned by the Home Office examining the effectiveness of the Modern Slavery Act 2015 and the National Referral Mechanism in identifying victims. Assesses inconsistencies in NRM decision-making across regions, first responder awareness gaps, and makes recommendations for improving the speed and quality of victim identification.\n",
     "key_pinpoint": "Sections on NRM effectiveness, first responder training, regional inconsistencies in identification, and recommended reforms",
-    "victim_id_tags": [
+    "tags": [
       "competent-authority-nrm",
       "first-responder-duties",
       "indicators-screening"
@@ -949,7 +970,7 @@
     "access": "public",
     "summary": "Framework of structural, process, and outcome indicators for assessing the quality and human-rights compliance of national anti-trafficking responses. Includes specific indicators for measuring whether victim identification systems are accessible, non-discriminatory, and effective, enabling States to benchmark and improve their identification mechanisms.\n",
     "key_pinpoint": "Indicator framework: structural, process, and outcome indicators applied to trafficking prevention, protection, and prosecution",
-    "victim_id_tags": [
+    "tags": [
       "competent-authority-nrm",
       "indicators-screening",
       "assistance-entitlements"
@@ -957,6 +978,26 @@
     "added_by": "Claude Code (initial build)",
     "date_added": "2026-03-09",
     "file": "victim-identification/operational-guidance/un-ohchr-hr-indicators-trafficking-2014.md"
+  },
+  {
+    "title": "Australian AG Dept \u2014 Modern Slavery Act Guidance & Register",
+    "jurisdiction": "AU",
+    "bucket": "operational-guidance",
+    "document_type": "guideline-sop",
+    "issuing_body": "Attorney-General's Department",
+    "date_issued": 2023,
+    "status": "current",
+    "source_url": "https://www.ag.gov.au/crime/people-smuggling-and-human-trafficking/modern-slavery",
+    "access": "public",
+    "summary": "Official guidance for reporting entities. Includes the publicly searchable Modern Slavery Statements Register, mandatory criteria guidance, the 2023 statutory review report, and 2024 government response (agreed to 25 of 30 recommendations incl. civil penalties).\n",
+    "key_pinpoint": "Review recommendations; reporting criteria checklist; register at modernslaveryregister.gov.au",
+    "tags": [
+      "supply-chain-due-diligence",
+      "transparency-reporting"
+    ],
+    "added_by": "Claude (import from resources.json)",
+    "date_added": "2026-03-18",
+    "file": "victim-identification/operational-guidance/au-ag-modern-slavery-guidance.md"
   },
   {
     "title": "NRM: Guidance for First Responders (Duty to Notify)",
@@ -971,7 +1012,7 @@
     "local_file": "docs/victim-identification/operational-guidance/uk-nrm-first-responder-guidance.html",
     "summary": "Home Office guidance on the statutory duty to notify under s. 52 of the Modern Slavery Act 2015. Sets out how designated first responder organisations (police, local authorities, NCA, GLAA and others) should identify potential victims and make NRM referrals, including the reasonable grounds indicators to look for and the online referral process.\n",
     "key_pinpoint": "Sections on first responder designation, duty to notify procedures, indicators checklist, and NRM referral form completion",
-    "victim_id_tags": [
+    "tags": [
       "first-responder-duties",
       "referral-pathway",
       "indicators-screening",
@@ -993,7 +1034,7 @@
     "access": "public",
     "summary": "Program guidelines for the Support for Trafficked People Program (STPP), a key component of Australia's National Action Plan to Combat Modern Slavery 2020-25, administered by DSS and delivered by the Australian Red Cross. The STPP provides multiple support streams: the Intensive Support Stream (90 days, regardless of law enforcement cooperation), the Forced Marriage Support Stream (up to 200 days), and a Transition Stream (20 working days). Since July 2024, a pilot assessment and referral pathway allows victims to access support without engaging with law enforcement. These guidelines are essential for understanding post-identification victim support and entitlements.\n",
     "key_pinpoint": "STPP Intensive Support Stream, Forced Marriage Support Stream, Temporary Trial Support Stream, Transition Stream",
-    "victim_id_tags": [
+    "tags": [
       "assistance-entitlements",
       "referral-pathway",
       "reflection-period-temporary-stay"
@@ -1015,7 +1056,7 @@
     "local_file": "docs/victim-identification/operational-guidance/ilo-indicators-forced-labour-2012.html",
     "summary": "Establishes eleven operational indicators of forced labour derived from the ILO Convention No. 29 definition, covering abuse of vulnerability, deception, restriction of movement, isolation, physical and sexual violence, intimidation and threats, retention of identity documents, withholding of wages, debt bondage, abusive working and living conditions, and excessive overtime. These indicators form the basis of most national and international forced-labour screening tools used for front-line victim identification.\n",
     "key_pinpoint": "11 indicators with operational examples",
-    "victim_id_tags": [
+    "tags": [
       "indicators-screening",
       "labour-exploitation-indicators",
       "first-responder-duties"
@@ -1023,6 +1064,27 @@
     "added_by": "Claude Code (initial build)",
     "date_added": "2026-03-09",
     "file": "victim-identification/operational-guidance/ilo-indicators-forced-labour-2012.md"
+  },
+  {
+    "title": "Shared Hope International \u2014 Intervene Practitioner Guide and Intake Tool",
+    "jurisdiction": "US",
+    "bucket": "operational-guidance",
+    "document_type": "toolkit-manual",
+    "issuing_body": "Shared Hope International",
+    "date_issued": "unknown",
+    "status": "current",
+    "source_url": "https://sharedhope.org/resources/",
+    "access": "public",
+    "summary": "Structured intake screening tool and practitioner guidance for improving identification and response to sex trafficking victims. For law enforcement, child welfare, juvenile justice, service providers.\n",
+    "key_pinpoint": "Screening questions; red flag indicators for DMST; response protocols",
+    "tags": [
+      "indicators-screening",
+      "child-victim-identification",
+      "sex-trafficking-indicators"
+    ],
+    "added_by": "Claude (import from resources.json)",
+    "date_added": "2026-03-18",
+    "file": "victim-identification/operational-guidance/us-shared-hope-intervene-tool.md"
   },
   {
     "title": "Bali Process Policy Guide on Identifying Victims of Trafficking",
@@ -1037,7 +1099,7 @@
     "local_file": "docs/victim-identification/operational-guidance/asean-bali-process-victim-id-guide.pdf",
     "summary": "Multi-country policy guide endorsed by the Bali Process providing an overview of international and regional standards for the identification of trafficking victims. Draws on good practices from Bali Process member countries and is designed as a practical, non-binding reference tool for government agencies, law enforcement, and frontline responders. Available in fifteen languages including Thai, Khmer, Burmese, and Tagalog.\n",
     "key_pinpoint": "Sections on indicators of trafficking, screening procedures, and referral to services",
-    "victim_id_tags": [
+    "tags": [
       "indicators-screening",
       "referral-pathway",
       "first-responder-duties",
@@ -1060,7 +1122,7 @@
     "local_file": "docs/victim-identification/operational-guidance/ilo-fair-recruitment-indicators.html",
     "summary": "Establishes principles and operational indicators for fair recruitment practices, defining prohibited recruitment fees and related costs that serve as red flags for trafficking and forced labour. Provides a framework for identifying exploitation at the recruitment stage, enabling earlier victim identification before exploitation is fully entrenched.\n",
     "key_pinpoint": "General Principles 1\u201313; Operational Guidelines; Definition of Recruitment Fees and Related Costs",
-    "victim_id_tags": [
+    "tags": [
       "indicators-screening",
       "labour-exploitation-indicators"
     ],
@@ -1081,7 +1143,7 @@
     "local_file": "docs/victim-identification/operational-guidance/us-dhs-blue-campaign-indicators.html",
     "summary": "DHS Blue Campaign indicator resource listing common signs of human trafficking for use by law enforcement, first responders, and the general public. Covers behavioural, physical, and situational indicators for both sex and labour trafficking, along with guidance on appropriate response and reporting pathways (federal law enforcement and the National Human Trafficking Hotline).\n",
     "key_pinpoint": "Indicator lists for sex trafficking and labour trafficking; reporting guidance",
-    "victim_id_tags": [
+    "tags": [
       "indicators-screening",
       "first-responder-duties",
       "sex-trafficking-indicators",
@@ -1104,7 +1166,7 @@
     "local_file": "docs/victim-identification/operational-guidance/us-dol-forced-labour-indicators.html",
     "summary": "Guidance from the DOL Wage and Hour Division on identifying human trafficking during routine workplace investigations. WHD investigators are often the first federal agency to contact vulnerable workers; the guidance addresses labour trafficking indicators in high-risk industries, protocols for referring suspected trafficking victims, and the division's role in certifying U visa requests for qualifying criminal activities including forced labour and fraud in foreign labour contracting.\n",
     "key_pinpoint": "Labour trafficking indicators for workplace investigators; U visa certification process",
-    "victim_id_tags": [
+    "tags": [
       "labour-exploitation-indicators",
       "indicators-screening",
       "first-responder-duties",
@@ -1127,7 +1189,7 @@
     "local_file": "docs/victim-identification/operational-guidance/au-afp-trafficking-indicators.html",
     "summary": "The AFP's operational guidance on indicators of human trafficking and slavery, including the \"Look a Little Deeper\" awareness program designed to train law enforcement and front-line responders. The guide sets out general indicators (violence or threats, confiscation of identity documents, restricted movement, limited contact with family) and specific indicators for forced labour (no labour contract, no access to earnings, excessive work hours, unsuitable living conditions, inability to leave premises without escort). No single indicator is determinative; each case must be assessed holistically.\n",
     "key_pinpoint": "AFP trafficking indicators checklist; Look a Little Deeper program materials",
-    "victim_id_tags": [
+    "tags": [
       "indicators-screening",
       "first-responder-duties",
       "labour-exploitation-indicators",
@@ -1149,7 +1211,7 @@
     "access": "public",
     "summary": "Practical identification guide for front-line police officers, enhancing skills to recognize victims of trafficking beyond sexual exploitation to include domestic servitude, labour exploitation in construction, agriculture, and garment industries. Integrates community policing approaches with anti-trafficking expertise to support proactive identification and appropriate initial response to potential trafficking victims encountered during routine policing.\n",
     "key_pinpoint": "Identification indicators by exploitation type; Initial response procedures; Community policing integration",
-    "victim_id_tags": [
+    "tags": [
       "first-responder-duties",
       "indicators-screening",
       "labour-exploitation-indicators",
@@ -1172,7 +1234,7 @@
     "local_file": "docs/victim-identification/operational-guidance/uk-glaa-labour-exploitation-indicators.html",
     "summary": "Practical indicator guide for enforcement officers and frontline professionals to identify labour exploitation and modern slavery in the workplace. Organises indicators across six categories \u2014 restricted freedom, behaviour, working conditions, accommodation, finances, and physical appearance \u2014 enabling rapid screening of potential victims.\n",
     "key_pinpoint": "Six indicator categories: restricted freedom, behaviour, working conditions, accommodation, finances, and appearance",
-    "victim_id_tags": [
+    "tags": [
       "labour-exploitation-indicators",
       "indicators-screening",
       "first-responder-duties"
@@ -1193,7 +1255,7 @@
     "access": "public",
     "summary": "Reference document providing indicative guidelines, checklists, and indicators to help border guards and consular staff identify potential trafficking victims at points of entry. Designed to improve early identification and ensure appropriate referral, drawing on existing handbooks and indicator-based screening methods developed under the EU anti-trafficking strategy.\n",
     "key_pinpoint": "",
-    "victim_id_tags": [
+    "tags": [
       "indicators-screening",
       "first-responder-duties",
       "referral-pathway"
@@ -1215,7 +1277,7 @@
     "local_file": "docs/victim-identification/operational-guidance/ilo-hard-to-see-harder-to-count-2012.html",
     "summary": "Provides the first comprehensive operational methodology for forced-labour prevalence surveys, including sampling techniques, an operational definition of forced labour for survey purposes, and a minimum question set for assessing forced-labour situations. Directly relevant to victim identification as it establishes the survey-based methods that underpin global estimates and guide proactive identification of hidden forced-labour populations.\n",
     "key_pinpoint": "Chapters on operational definition, sampling strategies, and minimum question sets",
-    "victim_id_tags": [
+    "tags": [
       "indicators-screening",
       "labour-exploitation-indicators"
     ],
@@ -1236,7 +1298,7 @@
     "local_file": "docs/victim-identification/operational-guidance/au-red-cross-support-guidelines.html",
     "summary": "Operational guidelines for the Australian Red Cross's delivery of the Support for Trafficked People Program (STPP), funded by the Department of Social Services. The Red Cross provides person-centred, individual case management through a dedicated caseworker, including assistance with accommodation, medical treatment, counselling, legal and migration advice referrals, skills development, and social support. Dependent children of trafficked persons may receive assistance with childcare, schooling, and medical support. The guidelines reflect a trauma-informed approach to post-identification victim support delivery.\n",
     "key_pinpoint": "STPP casework guidelines; individual case management framework; contact: 1800 113 015 / national_stpp@redcross.org.au",
-    "victim_id_tags": [
+    "tags": [
       "assistance-entitlements",
       "referral-pathway",
       "child-victim-identification"
@@ -1257,7 +1319,7 @@
     "access": "public",
     "summary": "First comprehensive EU-wide study into criminal forms of severe labour exploitation, based on interviews with 237 exploited workers across 21 Member States. Identifies key barriers to victim identification \u2014 including fear of deportation, lack of rights awareness, and fear of retaliation \u2014 and highlights indicators of exploitation in agriculture, construction, domestic work, and manufacturing sectors.\n",
     "key_pinpoint": "",
-    "victim_id_tags": [
+    "tags": [
       "labour-exploitation-indicators",
       "indicators-screening",
       "detention-immigration-interface"
@@ -1279,7 +1341,7 @@
     "local_file": "docs/victim-identification/operational-guidance/unodc-toolkit-combating-tip-2008.pdf",
     "summary": "Comprehensive practitioner toolkit covering the full spectrum of anti-trafficking responses, including victim identification, screening, and referral tools. Provides practical resources for law enforcement, social workers, and other front-line responders to identify and assist trafficking victims across exploitation types.\n",
     "key_pinpoint": "Tool 6.1 (Victim identification); Tool 8.1 (Indicators for front-line responders)",
-    "victim_id_tags": [
+    "tags": [
       "indicators-screening",
       "first-responder-duties",
       "referral-pathway"
@@ -1300,7 +1362,7 @@
     "access": "public",
     "summary": "Foundational handbook on designing and implementing National Referral Mechanisms, defining the concept, structures, and roles of governmental and civil-society actors in a multi-agency identification and referral framework. Establishes the NRM model now adopted across the OSCE region and beyond, covering identification procedures, referral pathways, and minimum standards for victim assistance.\n",
     "key_pinpoint": "Chapter 1 (NRM concept and principles); Chapter 3 (identification and referral procedures); Chapter 4 (protection and assistance standards)",
-    "victim_id_tags": [
+    "tags": [
       "competent-authority-nrm",
       "referral-pathway",
       "first-responder-duties",
@@ -1322,7 +1384,7 @@
     "access": "public",
     "summary": "Comprehensive statutory guidance under s. 49 Modern Slavery Act 2015, covering the National Referral Mechanism (NRM) in detail. Sets out the duties of first responders, the reasonable-grounds and conclusive-grounds decision stages, victim identification indicators, referral pathways, and the reflection/recovery period. The primary operational document for anyone involved in identifying and referring potential victims in England/Wales.\n",
     "key_pinpoint": "Chapters 4\u20137 (identification, NRM referral, first responder duties, decision-making)",
-    "victim_id_tags": [
+    "tags": [
       "competent-authority-nrm",
       "first-responder-duties",
       "indicators-screening",
@@ -1332,6 +1394,27 @@
     "added_by": "Claude (initial build)",
     "date_added": "2026-03-07",
     "file": "victim-identification/operational-guidance/uk-modern-slavery-statutory-guidance-2024.md"
+  },
+  {
+    "title": "UNODC First Aid Kit for Law Enforcement First Responders",
+    "jurisdiction": "UNODC",
+    "bucket": "operational-guidance",
+    "document_type": "toolkit-manual",
+    "issuing_body": "UNODC",
+    "date_issued": "unknown",
+    "status": "current",
+    "source_url": "https://www.unodc.org/unodc/en/human-trafficking/publications.html",
+    "access": "public",
+    "summary": "Pocket guide for frontline officers. Initial indicators, interview dos/don'ts, immediate victim safety, referral pathways. Designed for non-specialist officers.\n",
+    "key_pinpoint": "Quick-reference checklist; interview protocols; do-no-harm principles; immediate safety actions",
+    "tags": [
+      "first-responder-duties",
+      "indicators-screening",
+      "interviewing-trauma-informed"
+    ],
+    "added_by": "Claude (import from resources.json)",
+    "date_added": "2026-03-18",
+    "file": "victim-identification/operational-guidance/unodc-first-aid-kit-first-responders.md"
   },
   {
     "title": "Trafficking Victim Identification: A Practitioner Guide",
@@ -1346,7 +1429,7 @@
     "local_file": "docs/victim-identification/operational-guidance/asean-practitioner-guidelines-victim-id.pdf",
     "summary": "Practitioner-level guide offering detailed, actionable guidance on the identification of adult and child trafficking victims. Covers reactive and proactive identification approaches, common barriers, and good practices drawn from Bali Process member states. Designed for police, prosecutors, immigration officers, labour inspectors, healthcare workers, and social workers engaged in frontline victim identification and referral.\n",
     "key_pinpoint": "Chapters on proactive identification, reactive identification, barriers to identification, and child-specific considerations",
-    "victim_id_tags": [
+    "tags": [
       "indicators-screening",
       "first-responder-duties",
       "interviewing-trauma-informed",
@@ -1370,7 +1453,7 @@
     "local_file": "docs/victim-identification/operational-guidance/unodc-manual-investigators-2009.html",
     "summary": "Modular training manual for criminal justice practitioners covering victim identification, interviewing of trafficking victims and child witnesses, and evidence collection. Includes dedicated modules on identification indicators, trauma-informed interviewing, and special considerations for child victims.\n",
     "key_pinpoint": "Module 1 (definitions); Module 4 (control methods); Modules 8\u20139 (interviewing victims and child victims)",
-    "victim_id_tags": [
+    "tags": [
       "indicators-screening",
       "first-responder-duties",
       "interviewing-trauma-informed",
@@ -1392,7 +1475,7 @@
     "access": "public",
     "summary": "Survivor-centred, trauma-informed screening tool developed by HHS OTIP for use by healthcare, behavioural health, and social services professionals to assess patients or clients for trafficking victimisation or risk of trafficking. Part of the broader Look-Beneath-the-Surface public awareness campaign providing multilingual outreach materials and hotline information.\n",
     "key_pinpoint": "Screening questions and risk assessment framework; Look-Beneath-the-Surface outreach materials",
-    "victim_id_tags": [
+    "tags": [
       "indicators-screening",
       "interviewing-trauma-informed",
       "referral-pathway"
@@ -1400,28 +1483,6 @@
     "added_by": "Claude Code (initial build)",
     "date_added": "2026-03-09",
     "file": "victim-identification/operational-guidance/us-hhs-otip-screening-tool.md"
-  },
-  {
-    "title": "Eurojust Report on Trafficking in Human Beings",
-    "jurisdiction": "EU",
-    "bucket": "prosecution-procedure",
-    "document_type": "report",
-    "issuing_body": "Eurojust",
-    "date_issued": 2021,
-    "status": "current",
-    "source_url": "https://www.eurojust.europa.eu/publication/eurojust-report-trafficking-human-beings",
-    "access": "public",
-    "local_file": "docs/victim-identification/prosecution-procedure/eu-eurojust-thb-casework-report.html",
-    "summary": "Comprehensive analysis of Eurojust's casework on trafficking in human beings between 2017 and 2020, examining 91 THB cases and providing 18 targeted recommendations for prosecutors, judges, and law enforcement. Addresses judicial coordination challenges, victim identification across borders, and the importance of early identification in cross-border investigations.\n",
-    "key_pinpoint": "Recommendations 1\u201318; Part II on victims' rights",
-    "victim_id_tags": [
-      "cross-border-referral-return",
-      "indicators-screening",
-      "referral-pathway"
-    ],
-    "added_by": "Claude Code (initial build)",
-    "date_added": "2026-03-09",
-    "file": "victim-identification/prosecution-procedure/eu-eurojust-thb-casework-report.md"
   },
   {
     "title": "DOJ Human Trafficking Prosecution Guide",
@@ -1436,7 +1497,7 @@
     "local_file": "docs/victim-identification/prosecution-procedure/us-doj-trafficking-prosecution-guide.pdf",
     "summary": "DOJ prosecution guidance for federal human trafficking cases, issued by the Human Trafficking Prosecution Unit (HTPU) within the Civil Rights Division. Includes victim identification procedures to be followed during investigation and prosecution, guidance on applying force/fraud/coercion elements, and coordination protocols with victim service providers.\n",
     "key_pinpoint": "Sections on victim identification during investigation, evidentiary standards for trafficking elements",
-    "victim_id_tags": [
+    "tags": [
       "indicators-screening",
       "first-responder-duties",
       "referral-pathway"
@@ -1457,7 +1518,7 @@
     "access": "public",
     "summary": "The CDPP applies the Prosecution Policy of the Commonwealth to all slavery and trafficking prosecutions under Divisions 270 and 271 of the Criminal Code. The policy establishes that all victims of slavery and sexual servitude offences must be referred to the CDPP Witness Assistance Service. The CDPP participates in the Operational Working Group and Labour Exploitation Working Group, contributing to the whole-of-government response to trafficking. This policy is relevant to victim identification as it sets out the evidentiary thresholds and victim-engagement standards that shape how identified victims are treated within the prosecution process.\n",
     "key_pinpoint": "Prosecution Policy of the Commonwealth (updated 19 July 2021); CDPP Human Trafficking and Slavery prosecution guidance; Witness Assistance Service Referral Guidelines (National Legal Direction)",
-    "victim_id_tags": [
+    "tags": [
       "referral-pathway",
       "competent-authority-nrm",
       "interviewing-trauma-informed"
@@ -1479,7 +1540,7 @@
     "local_file": "docs/victim-identification/prosecution-procedure/us-ag-guidelines-victim-witness-ch10.pdf",
     "summary": "The AG Guidelines (2022 edition, effective March 2023) establish mandatory obligations for DOJ personnel in the treatment of crime victims and witnesses. The trafficking chapter addresses identification of trafficking victims encountered during federal investigations, referral to services, and coordination between law enforcement and victim assistance specialists.\n",
     "key_pinpoint": "Chapter on human trafficking victims (victim identification, referral, and services obligations)",
-    "victim_id_tags": [
+    "tags": [
       "first-responder-duties",
       "referral-pathway",
       "assistance-entitlements"
@@ -1487,73 +1548,6 @@
     "added_by": "Claude Code (initial build)",
     "date_added": "2026-03-09",
     "file": "victim-identification/prosecution-procedure/us-ag-guidelines-victim-witness-ch10.md"
-  },
-  {
-    "title": "CPS Guidance on Modern Slavery, Human Trafficking and Smuggling",
-    "jurisdiction": "UK",
-    "bucket": "prosecution-procedure",
-    "document_type": "guideline-sop",
-    "issuing_body": "Crown Prosecution Service",
-    "date_issued": "2024-01-01",
-    "status": "current",
-    "source_url": "https://www.cps.gov.uk/legal-guidance/modern-slavery-and-human-trafficking-offences-and-defences-including-section-45",
-    "access": "public",
-    "local_file": "docs/victim-identification/prosecution-procedure/uk-cps-modern-slavery-guidance.html",
-    "summary": "Comprehensive CPS prosecution guidance covering modern slavery and trafficking offences, the s. 45 statutory defence for victims, and prosecutorial obligations to identify potential trafficking victims before charging. Requires early investigative advice in all modern slavery cases and sets out the framework for distinguishing smuggling from trafficking.\n",
-    "key_pinpoint": "Sections on s. 45 defence, duty to obtain early investigative advice, victim identification indicators, and NRM referral obligations",
-    "victim_id_tags": [
-      "non-punishment-link",
-      "indicators-screening",
-      "first-responder-duties",
-      "referral-pathway"
-    ],
-    "added_by": "Claude Code (initial build)",
-    "date_added": "2026-03-09",
-    "file": "victim-identification/prosecution-procedure/uk-cps-modern-slavery-guidance.md"
-  },
-  {
-    "title": "Eurojust Report on Prosecuting THB for the Purpose of Labour Exploitation",
-    "jurisdiction": "EU",
-    "bucket": "prosecution-procedure",
-    "document_type": "guideline-sop",
-    "issuing_body": "Eurojust",
-    "date_issued": 2015,
-    "status": "current",
-    "source_url": "https://www.eurojust.europa.eu/publication/prosecuting-thb-purpose-labour-exploitation",
-    "access": "public",
-    "local_file": "docs/victim-identification/prosecution-procedure/eu-eurojust-prosecution-guidance.html",
-    "summary": "Practical guidance for prosecutors and judicial authorities on investigating and prosecuting trafficking for labour exploitation. Analyses judgments and Eurojust casework to identify challenges in proving the labour exploitation element, and provides recommendations on victim identification, evidence gathering, and cross-border cooperation through Joint Investigation Teams.\n",
-    "key_pinpoint": "",
-    "victim_id_tags": [
-      "labour-exploitation-indicators",
-      "cross-border-referral-return",
-      "indicators-screening"
-    ],
-    "added_by": "Claude Code (initial build)",
-    "date_added": "2026-03-09",
-    "file": "victim-identification/prosecution-procedure/eu-eurojust-prosecution-guidance.md"
-  },
-  {
-    "title": "CPS Legal Guidance: Non-Prosecution of Victims of Trafficking",
-    "jurisdiction": "UK",
-    "bucket": "prosecution-procedure",
-    "document_type": "practice-direction",
-    "issuing_body": "Crown Prosecution Service",
-    "date_issued": "2024-01-01",
-    "status": "current",
-    "source_url": "https://www.cps.gov.uk/legal-guidance/modern-slavery-and-human-trafficking-offences-and-defences-including-section-45",
-    "access": "public",
-    "local_file": "docs/victim-identification/prosecution-procedure/uk-cps-non-prosecution-victims.html",
-    "summary": "CPS practice guidance implementing the non-punishment principle for trafficking victims. Directs prosecutors to identify potential trafficking victims before making prosecution decisions, applying public interest considerations and the s. 45 defence. Requires that where a credible defence of trafficking-compelled offending exists, the case should not be charged or should be discontinued.\n",
-    "key_pinpoint": "Sections on non-punishment principle, public interest test for trafficking victims, duress and s. 45 defence assessment, and CPS duty to investigate trafficking indicators pre-charge",
-    "victim_id_tags": [
-      "non-punishment-link",
-      "indicators-screening",
-      "interviewing-trauma-informed"
-    ],
-    "added_by": "Claude Code (initial build)",
-    "date_added": "2026-03-09",
-    "file": "victim-identification/prosecution-procedure/uk-cps-non-prosecution-victims.md"
   },
   {
     "title": "CDPP Victims of Crime Policy and Witness Assistance Service Practice Direction",
@@ -1567,7 +1561,7 @@
     "access": "public",
     "summary": "The CDPP Victims of Crime Policy and associated Witness Assistance Service practice direction establish the framework for victim engagement throughout trafficking and slavery prosecutions. The policy requires CDPP staff to treat victims with courtesy, compassion, cultural sensitivity, and respect for their dignity, and mandates continuity of CDPP staff for vulnerable victims. All victims of slavery and sexual servitude offences must be referred to the Witness Assistance Service under a National Legal Direction, ensuring appropriate information and trauma-informed support throughout the prosecution process.\n",
     "key_pinpoint": "CDPP Victims of Crime Policy; National Legal Direction on Witness Assistance Service Referral Guidelines",
-    "victim_id_tags": [
+    "tags": [
       "interviewing-trauma-informed",
       "referral-pathway",
       "assistance-entitlements"
@@ -1589,7 +1583,7 @@
     "local_file": "docs/victim-identification/legislation/au-migration-act-bridging-visa-f.html",
     "summary": "The Migration Act 1958 and associated Migration Regulations 1994 establish the Bridging Visa F (Class WF, Subclass 060) as the visa pathway for persons identified as victims of trafficking, slavery, or slavery-like practices. The visa enables identified victims who are unlawful non-citizens to remain lawfully in Australia while they access the Support for Trafficked People Program and, where applicable, assist with criminal investigations and prosecutions. This visa category is a critical interface between immigration enforcement and victim identification.\n",
     "key_pinpoint": "Migration Act 1958, s 73; Migration Regulations 1994, Schedule 1 Item 1306 (Class WF), Schedule 2 Subclass 060",
-    "victim_id_tags": [
+    "tags": [
       "detention-immigration-interface",
       "reflection-period-temporary-stay",
       "assistance-entitlements",
@@ -1598,6 +1592,26 @@
     "added_by": "Claude Code (initial build)",
     "date_added": "2026-03-09",
     "file": "victim-identification/legislation/au-migration-act-bridging-visa-f.md"
+  },
+  {
+    "title": "Constitution of India \u2014 Articles 21, 23, 24",
+    "jurisdiction": "IN",
+    "bucket": "legislation",
+    "document_type": "act-statute",
+    "issuing_body": "Parliament of India",
+    "date_issued": "unknown",
+    "status": "current",
+    "source_url": "https://www.constitutionofindia.net/articles/article-23/",
+    "access": "public",
+    "summary": "Article 23 directly prohibits trafficking in human beings and forced labour. Article 21 (right to life) interpreted expansively to include right to live with dignity. Article 24 prohibits child labour in hazardous occupations. Justiciable under Article 32.\n",
+    "key_pinpoint": "Art. 23(1): 'Traffic in human beings and begar and other similar forms of forced labour are prohibited'; Art. 21: right to minimum wages, shelter, clean water (Bandhua Mukti Morcha)",
+    "tags": [
+      "definition-scope",
+      "labour-exploitation-indicators"
+    ],
+    "added_by": "Claude (import from resources.json)",
+    "date_added": "2026-03-18",
+    "file": "victim-identification/legislation/in-constitution-arts-21-23-24.md"
   },
   {
     "title": "Modern Slavery Act 2015",
@@ -1612,7 +1626,7 @@
     "local_file": "docs/victim-identification/legislation/uk-modern-slavery-act-2015.html",
     "summary": "Primary UK anti-trafficking and modern slavery statute. Consolidates offences of slavery, servitude, forced labour, and human trafficking. Section 45 provides a statutory defence for victims (non-punishment). Sections 49\u201351 establish guidance on victim identification and the role of first responders within the National Referral Mechanism.\n",
     "key_pinpoint": "ss. 1\u20134 (offences), s. 45 (defence for victims), ss. 49\u201351 (victim identification and guidance)",
-    "victim_id_tags": [
+    "tags": [
       "definition-scope",
       "competent-authority-nrm",
       "first-responder-duties",
@@ -1634,7 +1648,7 @@
     "access": "public",
     "summary": "Foundational US federal anti-trafficking statute. Defines \"severe forms of trafficking in persons\" (sex trafficking by force/fraud/coercion and labour trafficking), establishing the definitional framework for victim identification. Mandates federal agency coordination on victim identification and creates T visa pathway for identified victims.\n",
     "key_pinpoint": "22 USC \u00a7\u00a7 7102 (definitions), 7105 (protection and assistance for victims)",
-    "victim_id_tags": [
+    "tags": [
       "definition-scope",
       "indicators-screening",
       "assistance-entitlements",
@@ -1657,7 +1671,7 @@
     "local_file": "docs/victim-identification/legislation/us-tvpra-2013.html",
     "summary": "Title XII of VAWA 2013 reauthorized the TVPA with expanded trafficking definitions, added an emergency victim assistance fund, and strengthened grant purpose areas to include sex trafficking. Clarified that victim services extend to trafficking victims who also experience domestic violence, sexual assault, or stalking.\n",
     "key_pinpoint": "Pub. L. 113-4, Title XII, \u00a7\u00a7 1201\u20131252 (trafficking definitions, emergency assistance, grant programs)",
-    "victim_id_tags": [
+    "tags": [
       "definition-scope",
       "assistance-entitlements",
       "sex-trafficking-indicators"
@@ -1665,6 +1679,27 @@
     "added_by": "Claude Code (initial build)",
     "date_added": "2026-03-09",
     "file": "victim-identification/legislation/us-tvpra-2013.md"
+  },
+  {
+    "title": "Human Trafficking and Exploitation (NI) Act 2015",
+    "jurisdiction": "UK",
+    "bucket": "legislation",
+    "document_type": "act-statute",
+    "issuing_body": "UK Parliament",
+    "date_issued": 2015,
+    "status": "current",
+    "source_url": "https://www.legislation.gov.uk/nia/2015/2/contents",
+    "access": "public",
+    "summary": "Northern Ireland's framework for prosecution, victim support, and tackling demand. Includes a provision criminalising the purchase of sexual services (\u00a715), which is unique within the UK.\n",
+    "key_pinpoint": "\u00a71\u2013\u00a72 (trafficking/slavery offences); \u00a715 (paying for sexual services \u2014 NI only); \u00a718 (victim support)",
+    "tags": [
+      "definition-scope",
+      "non-punishment-link",
+      "first-responder-duties"
+    ],
+    "added_by": "Claude (import from resources.json)",
+    "date_added": "2026-03-18",
+    "file": "victim-identification/legislation/uk-human-trafficking-exploitation-ni-2015.md"
   },
   {
     "title": "Trafficking Victims Protection Reauthorization Act of 2003",
@@ -1679,7 +1714,7 @@
     "local_file": "docs/victim-identification/legislation/us-tvpra-2003.html",
     "summary": "First reauthorization of the TVPA. Enhanced victim protections by expanding T visa eligibility, added a civil cause of action allowing trafficking victims to sue their traffickers in federal court, and designated human trafficking as a RICO predicate offence, strengthening identification-to-prosecution pathways.\n",
     "key_pinpoint": "Pub. L. 108-193, \u00a7\u00a7 4\u20136 (civil action, T visa expansion, RICO predicate)",
-    "victim_id_tags": [
+    "tags": [
       "definition-scope",
       "assistance-entitlements",
       "referral-pathway"
@@ -1701,7 +1736,7 @@
     "local_file": "docs/victim-identification/legislation/us-8-cfr-214-11.html",
     "summary": "Regulation governing T nonimmigrant status for victims of severe forms of trafficking. Establishes evidentiary standards for victim identification in T visa adjudication, including what constitutes a \"severe form of trafficking in persons\" and how applicants demonstrate physical presence due to trafficking. Current T visa rules are in Subpart C of 8 CFR Part 214.\n",
     "key_pinpoint": "8 CFR \u00a7 214.11 (former regs); current rules at 8 CFR Part 214, Subpart C (\u00a7\u00a7 214.201\u2013214.211)",
-    "victim_id_tags": [
+    "tags": [
       "definition-scope",
       "detention-immigration-interface",
       "reflection-period-temporary-stay"
@@ -1723,7 +1758,7 @@
     "local_file": "docs/victim-identification/legislation/eu-framework-decision-2002-629.html",
     "summary": "First EU criminal law instrument specifically targeting trafficking in human beings, establishing common definitions and requiring effective, proportionate, and dissuasive penalties. Superseded by Directive 2011/36/EU but remains historically significant as the foundation for harmonised EU anti-trafficking law and victim identification obligations.\n",
     "key_pinpoint": "Arts. 1\u20132 (offences), Art. 3 (penalties), Art. 7 (protection and assistance to victims)",
-    "victim_id_tags": [
+    "tags": [
       "definition-scope",
       "assistance-entitlements"
     ],
@@ -1744,7 +1779,7 @@
     "local_file": "docs/victim-identification/legislation/us-tvpra-2008.html",
     "summary": "Strengthened protections for child trafficking victims, including mandatory screening of unaccompanied children at the border for trafficking indicators. Required HHS custody and care for unaccompanied alien children and expanded protections against retaliation for domestic workers reporting trafficking.\n",
     "key_pinpoint": "Pub. L. 110-457, \u00a7\u00a7 212\u2013235 (child screening, unaccompanied minors, domestic worker protections)",
-    "victim_id_tags": [
+    "tags": [
       "child-victim-identification",
       "indicators-screening",
       "detention-immigration-interface",
@@ -1767,7 +1802,7 @@
     "local_file": "docs/victim-identification/legislation/au-criminal-code-div-270-271.html",
     "summary": "Core federal criminal provisions criminalising slavery, servitude, forced labour, deceptive recruiting, and trafficking in persons. Division 270 defines slavery and slavery-like offences including servitude and forced labour, while Division 271 addresses trafficking in persons, debt bondage, and organ trafficking. These provisions, significantly amended by the Crimes Legislation Amendment (Slavery, Slavery-like Conditions and People Trafficking) Act 2013, establish the offence framework against which victim identification occurs in Australia.\n",
     "key_pinpoint": "Criminal Code Act 1995, Schedule \u2014 The Criminal Code, Chapter 8, Part 7.4, Divisions 270\u2013271",
-    "victim_id_tags": [
+    "tags": [
       "definition-scope",
       "labour-exploitation-indicators",
       "sex-trafficking-indicators",
@@ -1790,7 +1825,7 @@
     "local_file": "docs/victim-identification/legislation/us-28-cfr-1100.html",
     "summary": "DOJ coordination regulation implementing the TVPA's victim protection mandate. Defines roles and responsibilities of federal law enforcement for victim identification, requires training of personnel in recognising trafficking indicators, and sets procedures for protecting and providing services to victims in federal custody, including continued presence authorisation.\n",
     "key_pinpoint": "28 CFR \u00a7\u00a7 1100.29 (roles/responsibilities), 1100.31 (victim protection in custody), 1100.35 (continued presence), 1100.37 (training requirements)",
-    "victim_id_tags": [
+    "tags": [
       "first-responder-duties",
       "indicators-screening",
       "referral-pathway",
@@ -1813,7 +1848,7 @@
     "local_file": "docs/victim-identification/legislation/uk-illegal-migration-act-2023.html",
     "summary": "Restricts NRM access for persons who entered the UK irregularly, limiting modern slavery protections for certain cohorts by permitting removal before victim identification is complete. Amends the Modern Slavery Act 2015 and narrows support entitlements, creating a significant interface between immigration enforcement and victim identification.\n",
     "key_pinpoint": "ss. 21\u201328 (modern slavery provisions, disapplication of NRM protections, exceptions for cooperation with investigations)",
-    "victim_id_tags": [
+    "tags": [
       "competent-authority-nrm",
       "detention-immigration-interface",
       "referral-pathway",
@@ -1836,7 +1871,7 @@
     "local_file": "docs/victim-identification/legislation/eu-directive-2004-81.html",
     "summary": "Establishes the conditions under which third-country national trafficking victims may be granted a reflection period and a residence permit of limited duration. The reflection period allows victims to recover and decide whether to cooperate with competent authorities. Central to victim identification as it links immigration status to the identification and protection process.\n",
     "key_pinpoint": "Art. 5 (informing the victim), Art. 6 (reflection period), Arts. 7\u20138 (residence permit conditions), Art. 9 (treatment pending issuance), Arts. 10\u201312 (access to assistance, medical treatment, education, employment)",
-    "victim_id_tags": [
+    "tags": [
       "reflection-period-temporary-stay",
       "referral-pathway",
       "assistance-entitlements",
@@ -1859,7 +1894,7 @@
     "local_file": "docs/victim-identification/legislation/eu-directive-2012-29.html",
     "summary": "Establishes minimum standards on the rights, support, and protection of victims of crime, including trafficking victims. Requires an individual assessment of victims to identify specific protection needs, and provides for the right to information, interpretation, support services, and participation in criminal proceedings. Particularly relevant for trafficking victims given their heightened vulnerability.\n",
     "key_pinpoint": "Arts. 3\u20137 (right to information and interpretation), Art. 8 (right to access victim support services), Art. 22 (individual assessment to identify specific protection needs), Art. 23 (right to protection during criminal proceedings), Art. 24 (child victims)",
-    "victim_id_tags": [
+    "tags": [
       "referral-pathway",
       "interviewing-trauma-informed",
       "assistance-entitlements",
@@ -1868,6 +1903,46 @@
     "added_by": "Claude Code (initial build)",
     "date_added": "2026-03-09",
     "file": "victim-identification/legislation/eu-directive-2012-29.md"
+  },
+  {
+    "title": "Bonded Labour System (Abolition) Act 1976 (India)",
+    "jurisdiction": "IN",
+    "bucket": "legislation",
+    "document_type": "act-statute",
+    "issuing_body": "Parliament of India",
+    "date_issued": 1976,
+    "status": "current",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1476",
+    "access": "public",
+    "summary": "Abolishes the bonded labour system throughout India. Provides for release and rehabilitation of bonded labourers. Creates offences for compelling bonded labour (up to 3 years). Requires District Magistrates to establish vigilance committees. Key case: Bandhua Mukti Morcha v Union of India (1984).\n",
+    "key_pinpoint": "\u00a74 (abolition); \u00a76 (liability of every bonded labourer to be free); \u00a716 (punishment); \u00a713 (vigilance committees)",
+    "tags": [
+      "definition-scope",
+      "labour-exploitation-indicators"
+    ],
+    "added_by": "Claude (import from resources.json)",
+    "date_added": "2026-03-18",
+    "file": "victim-identification/legislation/in-bonded-labour-abolition-act-1976.md"
+  },
+  {
+    "title": "Uyghur Forced Labor Prevention Act (UFLPA) 2021",
+    "jurisdiction": "US",
+    "bucket": "legislation",
+    "document_type": "act-statute",
+    "issuing_body": "US Congress",
+    "date_issued": 2021,
+    "status": "current",
+    "source_url": "https://www.cbp.gov/trade/forced-labor/UFLPA",
+    "access": "public",
+    "summary": "Creates a rebuttable presumption that goods from Xinjiang are made with forced labor and barred under the Tariff Act \u00a7307. Requires importers to prove goods were not produced with forced labor to clear customs. CBP operational guidance published June 2022.\n",
+    "key_pinpoint": "\u00a73 (rebuttable presumption); CBP Operational Guidance for Importers (Pub. No. 1793-0522)",
+    "tags": [
+      "supply-chain-due-diligence",
+      "labour-exploitation-indicators"
+    ],
+    "added_by": "Claude (import from resources.json)",
+    "date_added": "2026-03-18",
+    "file": "victim-identification/legislation/us-uflpa-2021.md"
   },
   {
     "title": "Modern Slavery Act 2018 (Cth)",
@@ -1882,7 +1957,7 @@
     "local_file": "docs/victim-identification/legislation/au-modern-slavery-act-2018.html",
     "summary": "Establishes mandatory modern slavery reporting obligations for entities with annual consolidated revenue exceeding AUD 100 million, requiring them to report on risks of modern slavery in their operations and supply chains and actions to address those risks. The Act defines modern slavery by reference to the Criminal Code divisions on slavery, trafficking, and slavery-like practices, providing a statutory identification framework. It also establishes the role of the Australian Anti-Slavery Commissioner and the Modern Slavery Statements Register as a public repository.\n",
     "key_pinpoint": "Sections 4 (definitions of modern slavery), 11\u201316 (reporting requirements), Part 3 (Anti-Slavery Commissioner)",
-    "victim_id_tags": [
+    "tags": [
       "definition-scope",
       "labour-exploitation-indicators"
     ],
@@ -1903,7 +1978,7 @@
     "local_file": "docs/victim-identification/legislation/eu-directive-2011-36.html",
     "summary": "Core EU anti-trafficking directive establishing minimum rules on the definition of offences and sanctions related to trafficking in human beings. Articles 11\u201312 specifically address victim identification and assistance, requiring Member States to establish appropriate mechanisms for early identification and support, and to train officials likely to come into contact with victims.\n",
     "key_pinpoint": "Arts. 2\u20134 (offences and penalties), Art. 8 (non-prosecution/non-punishment), Arts. 11\u201312 (victim identification and assistance), Art. 13 (general provisions on assistance), Art. 14 (child victims), Art. 16 (child victims \u2014 unaccompanied), Art. 20 (reporting)",
-    "victim_id_tags": [
+    "tags": [
       "definition-scope",
       "indicators-screening",
       "first-responder-duties",
@@ -1913,6 +1988,26 @@
     "added_by": "Claude Code (initial build)",
     "date_added": "2026-03-09",
     "file": "victim-identification/legislation/eu-directive-2011-36.md"
+  },
+  {
+    "title": "Immoral Traffic (Prevention) Act 1956 (India)",
+    "jurisdiction": "IN",
+    "bucket": "legislation",
+    "document_type": "act-statute",
+    "issuing_body": "Parliament of India",
+    "date_issued": 1956,
+    "status": "current",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/1661",
+    "access": "public",
+    "summary": "India's principal anti-sex trafficking statute. Criminalises keeping a brothel, living on earnings of prostitution, procuring persons for prostitution, and detaining persons in premises for prostitution.\n",
+    "key_pinpoint": "\u00a73 (keeping a brothel); \u00a75 (procuring for prostitution); \u00a76 (detaining in premises for prostitution)",
+    "tags": [
+      "definition-scope",
+      "sex-trafficking-indicators"
+    ],
+    "added_by": "Claude (import from resources.json)",
+    "date_added": "2026-03-18",
+    "file": "victim-identification/legislation/in-immoral-traffic-prevention-act-1956.md"
   },
   {
     "title": "18 USC \u00a7\u00a7 1589\u20131592 (Forced Labour, Trafficking, Document Servitude)",
@@ -1927,7 +2022,7 @@
     "local_file": "docs/victim-identification/legislation/us-18-usc-1589-1592.html",
     "summary": "Core federal criminal provisions defining forced labour (\u00a7 1589), trafficking with respect to peonage, slavery, involuntary servitude, or forced labour (\u00a7 1590), sex trafficking of children or by force, fraud, or coercion (\u00a7 1591), and unlawful conduct with respect to identity documents in furtherance of trafficking (\u00a7 1592). These sections provide the definitional framework courts apply when identifying trafficking victims.\n",
     "key_pinpoint": "18 USC \u00a7\u00a7 1589 (forced labour), 1590 (trafficking for forced labour), 1591 (sex trafficking), 1592 (document servitude)",
-    "victim_id_tags": [
+    "tags": [
       "definition-scope",
       "labour-exploitation-indicators",
       "sex-trafficking-indicators"
@@ -1949,7 +2044,7 @@
     "local_file": "docs/victim-identification/legislation/uk-human-trafficking-exploitation-scotland-2015.html",
     "summary": "Scotland-specific trafficking and exploitation legislation establishing offences of human trafficking and slavery, servitude, and forced labour. Creates a duty to provide support to victims (including a minimum 90-day recovery and reflection period), introduces independent child trafficking guardians, and sets out victim identification duties for Scottish authorities.\n",
     "key_pinpoint": "ss. 1\u20134 (offences), s. 9 (support for victims), s. 11 (independent child trafficking guardians), s. 38 (duty to notify and identify)",
-    "victim_id_tags": [
+    "tags": [
       "definition-scope",
       "child-victim-identification",
       "reflection-period-temporary-stay",
@@ -1972,7 +2067,7 @@
     "local_file": "docs/victim-identification/legislation/uk-nationality-borders-act-2022-pt5.html",
     "summary": "Reforms the National Referral Mechanism process by introducing trafficking and slavery information notices, statutory time limits for conclusive grounds decisions, and a revised definition of victim status. Part 5 reshapes victim identification procedures, including the reasonable grounds threshold and disqualification criteria for certain individuals.\n",
     "key_pinpoint": "ss. 57\u201362 (trafficking information notices, identification of potential victims, recovery periods, disqualification from protection)",
-    "victim_id_tags": [
+    "tags": [
       "competent-authority-nrm",
       "definition-scope",
       "referral-pathway",
@@ -1981,6 +2076,47 @@
     "added_by": "Claude Code (initial build)",
     "date_added": "2026-03-09",
     "file": "victim-identification/legislation/uk-nationality-borders-act-2022-pt5.md"
+  },
+  {
+    "title": "Justice for Victims of Trafficking Act (JVTA) 2015",
+    "jurisdiction": "US",
+    "bucket": "legislation",
+    "document_type": "act-statute",
+    "issuing_body": "US Congress",
+    "date_issued": 2015,
+    "status": "current",
+    "source_url": "https://www.congress.gov/bill/114th-congress/senate-bill/178",
+    "access": "public",
+    "summary": "Adds 'patronizes' and 'solicits' to \u00a71591(a) to target buyers of sex trafficking victims. Creates the Domestic Trafficking Victims' Fund. Amends CAPTA to include trafficking as child abuse. Clarifies that no proof of knowledge of minority needed when reckless disregard shown.\n",
+    "key_pinpoint": "Pub. L. 114-22 \u2014 Sections on buyer accountability and victim fund creation",
+    "tags": [
+      "definition-scope",
+      "child-victim-identification",
+      "compensation-fund"
+    ],
+    "added_by": "Claude (import from resources.json)",
+    "date_added": "2026-03-18",
+    "file": "victim-identification/legislation/us-jvta-2015.md"
+  },
+  {
+    "title": "Modern Slavery Act 2018 (NSW)",
+    "jurisdiction": "AU",
+    "bucket": "legislation",
+    "document_type": "act-statute",
+    "issuing_body": "NSW Parliament",
+    "date_issued": 2018,
+    "status": "current",
+    "source_url": "https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-2018-030",
+    "access": "public",
+    "summary": "NSW state-level Act applying to government agencies, local councils and state-owned corporations. Establishes the NSW Anti-Slavery Commissioner (Dr James Cockayne appointed 2022). Creates the Modern Slavery Committee of Parliament.\n",
+    "key_pinpoint": "Part 2 (Anti-slavery Commissioner); Part 3 (government agency obligations); Part 4 (Modern Slavery Committee)",
+    "tags": [
+      "supply-chain-due-diligence",
+      "transparency-reporting"
+    ],
+    "added_by": "Claude (import from resources.json)",
+    "date_added": "2026-03-18",
+    "file": "victim-identification/legislation/au-modern-slavery-act-2018-nsw.md"
   },
   {
     "title": "Trafficking Victims Protection Reauthorization Act of 2005",
@@ -1995,7 +2131,7 @@
     "local_file": "docs/victim-identification/legislation/us-tvpra-2005.html",
     "summary": "Added grant programs for state and local law enforcement training on victim identification and expanded extraterritorial jurisdiction over trafficking offences committed abroad by federal employees or contractors. Established pilot programme for services to juvenile trafficking victims.\n",
     "key_pinpoint": "Pub. L. 109-164, \u00a7\u00a7 102\u2013204 (grant programs, extraterritorial jurisdiction, juvenile victims)",
-    "victim_id_tags": [
+    "tags": [
       "first-responder-duties",
       "indicators-screening",
       "child-victim-identification"
@@ -2016,7 +2152,7 @@
     "access": "public",
     "summary": "Leading High Court authority on the definition of slavery under Division 270 of the Criminal Code. The Court held, by a 6-1 majority, that slavery extends beyond chattel slavery to encompass de facto conditions where powers attaching to the right of ownership are exercised over a person. The prosecution need only establish the accused's intention to exercise such powers, not knowledge of the source of those powers. This decision is foundational for victim identification, as it confirms that indicators of control and exploitation \u2014 not formal legal ownership \u2014 define slavery in Australian law.\n",
     "key_pinpoint": "Gleeson CJ at [25]\u2013[33] (definition of slavery); Hayne J at [42]\u2013[50] (powers attaching to ownership)",
-    "victim_id_tags": [
+    "tags": [
       "definition-scope",
       "sex-trafficking-indicators",
       "indicators-screening"
@@ -2038,7 +2174,7 @@
     "local_file": "docs/victim-identification/case-law/echr-rantsev-v-cyprus-russia-2010.html",
     "summary": "Landmark ECHR judgment establishing that Article 4 (prohibition of slavery/forced labour) imposes positive obligations on states to identify potential trafficking victims. The Court held that states must have an adequate legal and administrative framework for victim identification and must take operational measures to protect individuals where authorities are aware or ought to be aware of credible trafficking indicators.\n",
     "key_pinpoint": "Paras. 282\u2013289 (positive obligation to identify and protect victims)",
-    "victim_id_tags": [
+    "tags": [
       "definition-scope",
       "indicators-screening",
       "first-responder-duties",
@@ -2061,7 +2197,7 @@
     "local_file": "docs/victim-identification/case-law/eu-cjeu-c-66-22-2024.html",
     "summary": "CJEU judgment interpreting Article 6 of Directive 2004/81/EC on the reflection period granted to third-country national trafficking victims. Clarified that the reflection period must be afforded to suspected trafficking victims to allow recovery and informed decision-making on cooperation, and that expulsion measures \u2014 including Dublin transfers \u2014 are prohibited during this period.\n",
     "key_pinpoint": "Art. 6 Directive 2004/81/EC (reflection period), interaction with Dublin III Regulation",
-    "victim_id_tags": [
+    "tags": [
       "reflection-period-temporary-stay",
       "detention-immigration-interface",
       "referral-pathway"
@@ -2082,7 +2218,7 @@
     "access": "public",
     "summary": "Queensland Court of Appeal decision involving the first successful trafficking prosecution outside the sex industry in Australia. The case concerned a Filipino woman brought to Australia through a sham marriage who was subjected to domestic servitude and repeated sexual assault. The decision expanded the application of slavery and trafficking offences to forms of exploitation beyond the commercial sex industry, establishing important precedent for identifying victims of domestic servitude and forced labour facilitated through immigration fraud.\n",
     "key_pinpoint": "De Jersey CJ, Muir and Fraser JJA; appeals allowed and retrials ordered on evidentiary grounds; reported at [2009] 2 Qd R 51",
-    "victim_id_tags": [
+    "tags": [
       "labour-exploitation-indicators",
       "sex-trafficking-indicators",
       "indicators-screening",
@@ -2091,52 +2227,6 @@
     "added_by": "Claude Code (initial build)",
     "date_added": "2026-03-09",
     "file": "victim-identification/case-law/au-r-v-kovacs-2008.md"
-  },
-  {
-    "title": "S.M. v. Croatia [2020] ECHR (Grand Chamber) 60561/14",
-    "jurisdiction": "ECHR",
-    "bucket": "case-law",
-    "document_type": "judgment-opinion",
-    "issuing_body": "European Court of Human Rights (Grand Chamber)",
-    "date_issued": "2020-06-25",
-    "status": "current",
-    "source_url": "https://hudoc.echr.coe.int/eng?i=001-203503",
-    "access": "public",
-    "local_file": "docs/victim-identification/case-law/echr-sm-v-croatia-2020.html",
-    "summary": "Grand Chamber judgment clarifying that forced prostitution and sexual exploitation fall within the scope of Article 4's prohibition on trafficking. The Court confirmed that Art. 4 encompasses trafficking in human beings and that states have procedural obligations to investigate credible allegations of trafficking for sexual exploitation, reinforcing the duty of authorities to identify potential victims at the investigative stage.\n",
-    "key_pinpoint": "Paras. 290\u2013313 (Art. 4 scope covers trafficking and forced prostitution; procedural obligation to investigate)",
-    "victim_id_tags": [
-      "definition-scope",
-      "sex-trafficking-indicators",
-      "first-responder-duties",
-      "indicators-screening"
-    ],
-    "added_by": "Claude Code (initial build)",
-    "date_added": "2026-03-09",
-    "file": "victim-identification/case-law/echr-sm-v-croatia-2020.md"
-  },
-  {
-    "title": "VCL and AN v. United Kingdom [2021] ECHR 77587/12",
-    "jurisdiction": "UK",
-    "bucket": "case-law",
-    "document_type": "judgment-opinion",
-    "issuing_body": "European Court of Human Rights",
-    "date_issued": "2021-02-16",
-    "status": "current",
-    "source_url": "https://hudoc.echr.coe.int/eng?i=001-208322",
-    "access": "public",
-    "local_file": "docs/victim-identification/case-law/uk-vcl-an-v-uk-2021.html",
-    "summary": "The ECtHR held that the UK violated Article 4 ECHR by failing to identify two Vietnamese children as victims of trafficking before prosecuting them for cannabis cultivation offences. Establishes that once authorities are aware of a credible suspicion of trafficking, the individual must be assessed by a qualified person before any prosecution decision is taken.\n",
-    "key_pinpoint": "Paras. 153\u2013162 (positive obligation to identify victims), paras. 192\u2013200 (Article 6 fair trial implications of non-identification)",
-    "victim_id_tags": [
-      "child-victim-identification",
-      "non-punishment-link",
-      "indicators-screening",
-      "competent-authority-nrm"
-    ],
-    "added_by": "Claude Code (initial build)",
-    "date_added": "2026-03-09",
-    "file": "victim-identification/case-law/uk-vcl-an-v-uk-2021.md"
   },
   {
     "title": "Chowdury and Others v. Greece [2017] ECHR 21884/15",
@@ -2151,7 +2241,7 @@
     "local_file": "docs/victim-identification/case-law/echr-chowdury-v-greece-2017.html",
     "summary": "The Court found Greece in violation of Article 4 for failing to prevent forced labour and human trafficking of Bangladeshi strawberry pickers in Manolada. The judgment confirmed that states bear a positive obligation to identify victims of trafficking and forced labour, including operational duties to protect persons in situations of known exploitation, even where the victims had not formally complained.\n",
     "key_pinpoint": "Paras. 86\u2013128 (positive obligation to identify and protect; indicators of forced labour and trafficking)",
-    "victim_id_tags": [
+    "tags": [
       "definition-scope",
       "indicators-screening",
       "first-responder-duties",
@@ -2176,7 +2266,7 @@
     "retrieval_notes": "628 F.3d 36 (2d Cir. 2010). Available on Westlaw and LexisNexis. Check CourtListener (Free Law Project) for possible free access. Earlier SCOTUS phase at 560 U.S. 258 (2010). Export full opinion from appellate rehearing.\n",
     "summary": "Sex trafficking conviction involving online exploitation. The Second Circuit analysed the force, fraud, and coercion indicators required under 18 USC \u00a7 1591 and addressed evidentiary sufficiency for victim identification in sex trafficking prosecutions, including the role of psychological coercion.\n",
     "key_pinpoint": "628 F.3d at 40\u201347 (force/fraud/coercion analysis under \u00a7 1591)",
-    "victim_id_tags": [
+    "tags": [
       "sex-trafficking-indicators",
       "definition-scope"
     ],
@@ -2197,7 +2287,7 @@
     "local_file": "docs/victim-identification/case-law/uk-ms-pakistan-v-sshd-2020.html",
     "summary": "Supreme Court clarified that immigration tribunals are not bound by NRM reasonable grounds or conclusive grounds decisions and may independently determine whether an individual is a victim of trafficking. Establishes that the NRM is an essentially factual determination, and tribunals are better placed to assess victim status on available evidence.\n",
     "key_pinpoint": "Paras. 17\u201332 (NRM decision-making standard and tribunal independence), paras. 33\u201342 (Article 4 ECHR and ECAT obligations)",
-    "victim_id_tags": [
+    "tags": [
       "competent-authority-nrm",
       "definition-scope",
       "detention-immigration-interface"
@@ -2219,7 +2309,7 @@
     "local_file": "docs/victim-identification/case-law/uk-r-v-n-r-v-l-2012.html",
     "summary": "Foundational Court of Appeal guidance on the treatment of potential trafficking victims in the criminal justice system. Held that courts must investigate trafficking indicators before convicting potential victims, and that the CPS should apply the Palermo Protocol and ECAT obligations when deciding whether to prosecute. Precursor to the s. 45 statutory defence introduced by the Modern Slavery Act 2015.\n",
     "key_pinpoint": "Paras. 7\u201313 (duty to investigate trafficking indicators), paras. 20\u201324 (CPS obligations and Article 26 ECAT)",
-    "victim_id_tags": [
+    "tags": [
       "non-punishment-link",
       "indicators-screening",
       "first-responder-duties"
@@ -2243,7 +2333,7 @@
     "retrieval_notes": "MN and Others v Secretary of State for the Home Department [2020] EWCA Civ 1746. Available on BAILII at https://www.bailii.org/ew/cases/EWCA/Civ/2020/1746.html. Verify whether full text is freely accessible or requires institutional login.\n",
     "summary": "Court of Appeal challenge to the NRM decision-making process and the Competent Authority's standard of proof for victim identification. Held that the Competent Authority must properly engage with expert evidence and give adequate reasons when rejecting claims of trafficking, reinforcing procedural fairness standards in conclusive grounds decisions.\n",
     "key_pinpoint": "Paras. on Competent Authority's duty to assess expert evidence, credibility assessment standards, and balance of probabilities threshold",
-    "victim_id_tags": [
+    "tags": [
       "competent-authority-nrm",
       "indicators-screening",
       "referral-pathway"
@@ -2265,7 +2355,7 @@
     "local_file": "docs/victim-identification/case-law/eu-cjeu-c-268-21-2023.html",
     "summary": "CJEU preliminary ruling addressing procedural aspects relevant to the identification and treatment of trafficking victims within judicial proceedings. Contributes to the developing body of CJEU case law interpreting EU anti-trafficking obligations under Directive 2011/36/EU.\n",
     "key_pinpoint": "",
-    "victim_id_tags": [
+    "tags": [
       "competent-authority-nrm",
       "data-protection-confidentiality"
     ],
@@ -2288,7 +2378,7 @@
     "retrieval_notes": "Citation DPP (Cth) v Bai [2017] VSCA 100. Search AustLII Victorian Court of Appeal database and Victorian Reports. The case may also appear on the Supreme Court of Victoria judgment summaries page. If not located under this citation, check alternative party name spellings and the County Court trial decision.\n",
     "summary": "Victorian Court of Appeal decision concerning forced labour and servitude offences under Division 270 of the Criminal Code. The case addresses the identification of victims in domestic servitude settings, where exploitation occurs within private households and may be less visible to authorities. Relevant to understanding how courts assess indicators of forced labour and coercion outside commercial or sex-industry contexts.\n",
     "key_pinpoint": "Court of Appeal reasoning on elements of servitude and forced labour",
-    "victim_id_tags": [
+    "tags": [
       "labour-exploitation-indicators",
       "indicators-screening",
       "definition-scope"
@@ -2310,7 +2400,7 @@
     "local_file": "docs/victim-identification/case-law/echr-cn-v-uk-2012.html",
     "summary": "The Court held that the United Kingdom violated Article 4 by lacking a specific legislative provision criminalising domestic servitude at the relevant time. The judgment underscored the procedural limb of Art. 4, requiring states to maintain an adequate legal framework enabling effective investigation of credible claims of servitude and to identify potential victims through that process.\n",
     "key_pinpoint": "Paras. 65\u201382 (procedural obligation under Art. 4; inadequacy of criminal law framework for domestic servitude)",
-    "victim_id_tags": [
+    "tags": [
       "definition-scope",
       "first-responder-duties",
       "labour-exploitation-indicators"
@@ -2334,7 +2424,7 @@
     "retrieval_notes": "662 F.3d 1091 (9th Cir. 2011). Available on Westlaw and LexisNexis. Check CourtListener for possible free access. Civil TVPA action with extraterritorial application analysis. Export full opinion.\n",
     "summary": "Civil action under the TVPA in which the Ninth Circuit addressed the extraterritorial application of the trafficking statute's civil remedy provision. The court's analysis of forced labour indicators in an international context informs how victim identification frameworks apply across borders and in civil enforcement settings.\n",
     "key_pinpoint": "662 F.3d at 1097\u20131102 (extraterritorial application, forced labour indicators in civil TVPA claims)",
-    "victim_id_tags": [
+    "tags": [
       "labour-exploitation-indicators",
       "cross-border-referral-return"
     ],
@@ -2355,7 +2445,7 @@
     "local_file": "docs/victim-identification/case-law/echr-le-v-greece-2016.html",
     "summary": "The Court found that Greece violated Article 4 due to an unjustified delay in formally identifying the applicant, a Nigerian woman, as a trafficking victim despite her repeated reports to police. The judgment established that states must act promptly upon receiving credible indicators of trafficking and that delays in formal identification can themselves constitute a breach of the positive obligation under Art. 4.\n",
     "key_pinpoint": "Paras. 66\u201386 (duty to identify promptly; consequences of delayed formal recognition)",
-    "victim_id_tags": [
+    "tags": [
       "competent-authority-nrm",
       "first-responder-duties",
       "referral-pathway",
@@ -2364,51 +2454,6 @@
     "added_by": "Claude Code (initial build)",
     "date_added": "2026-03-09",
     "file": "victim-identification/case-law/echr-le-v-greece-2016.md"
-  },
-  {
-    "title": "United States v. Kozminski, 487 U.S. 931 (1988)",
-    "jurisdiction": "US",
-    "bucket": "case-law",
-    "document_type": "judgment-opinion",
-    "issuing_body": "Supreme Court of the United States",
-    "date_issued": "1988-06-29",
-    "status": "current",
-    "source_url": "",
-    "access": "backend-needed",
-    "backend_source": "Westlaw",
-    "backend_confidence": "confirmed-paywalled",
-    "retrieval_notes": "487 U.S. 931 (1988). Available on Westlaw and LexisNexis. Also check CourtListener (Free Law Project) \u2014 older SCOTUS opinions are sometimes available. Export full opinion.\n",
-    "summary": "US Supreme Court case defining \"involuntary servitude\" under 18 USC \u00a7 1584, narrowing it to compulsion through physical or legal coercion. Key to understanding the threshold for identifying victims of forced labour under pre-TVPA federal law, and still cited in trafficking cases on the meaning of coercion for victim identification purposes.\n",
-    "key_pinpoint": "487 U.S. at 944\u2013952 (definition of involuntary servitude and coercion)",
-    "victim_id_tags": [
-      "definition-scope",
-      "labour-exploitation-indicators"
-    ],
-    "added_by": "Claude (initial build)",
-    "date_added": "2026-03-07",
-    "file": "victim-identification/case-law/us-kozminski-1988.md"
-  },
-  {
-    "title": "R v. DS [2020] EWCA Crim 285",
-    "jurisdiction": "UK",
-    "bucket": "case-law",
-    "document_type": "judgment-opinion",
-    "issuing_body": "Court of Appeal (Criminal Division)",
-    "date_issued": "2020-03-13",
-    "status": "current",
-    "source_url": "https://www.bailii.org/ew/cases/EWCA/Crim/2020/285.html",
-    "access": "public",
-    "local_file": "docs/victim-identification/case-law/uk-r-v-ds-2020.html",
-    "summary": "Court of Appeal examined the application of the s. 45 Modern Slavery Act defence and the relationship between victim identification and non-punishment. Held that early identification of trafficking status is of paramount importance, and that a credible suspicion of trafficking must trigger a qualified assessment before any prosecution decision. The jury, not the judge on abuse of process, determines trafficking facts.\n",
-    "key_pinpoint": "Paras. on s. 45 defence application, abuse of process arguments, and the nexus between victim identification and non-prosecution",
-    "victim_id_tags": [
-      "non-punishment-link",
-      "indicators-screening",
-      "competent-authority-nrm"
-    ],
-    "added_by": "Claude Code (initial build)",
-    "date_added": "2026-03-09",
-    "file": "victim-identification/case-law/uk-r-v-ds-2020.md"
   },
   {
     "title": "United States v. Dann, 652 F.3d 1160 (9th Cir. 2011)",
@@ -2425,7 +2470,7 @@
     "retrieval_notes": "652 F.3d 1160 (9th Cir. 2011). Available on Westlaw and LexisNexis. Check CourtListener for possible free access. Labour trafficking case involving agricultural workers. Export full opinion.\n",
     "summary": "Labour trafficking case in which the Ninth Circuit examined the coercion analysis under 18 USC \u00a7 1589 (forced labour). The court addressed what constitutes a \"scheme, plan, or pattern\" intended to cause belief of serious harm, providing guidance on identifying victims of labour trafficking through coercive control indicators.\n",
     "key_pinpoint": "652 F.3d at 1168\u20131174 (coercion and forced labour analysis under \u00a7 1589)",
-    "victim_id_tags": [
+    "tags": [
       "labour-exploitation-indicators",
       "definition-scope"
     ],
@@ -2448,7 +2493,7 @@
     "retrieval_notes": "Search AustLII Federal Court database for party name \"Kanaveilomani\" against the Commonwealth. Check alternative spellings (e.g., Kanaveilomani, Kanaveilo-mani). The case reportedly involves a challenge regarding trafficking victim support entitlements and may be unreported or indexed under a slightly different name. Also check Federal Circuit Court records and administrative appeals tribunal decisions.\n",
     "summary": "Reported challenge concerning the support entitlements available to identified trafficking victims in Australia, including access to the Support for Trafficked People Program and related government assistance. The case is significant for victim identification because it addresses the legal framework governing what support victims are entitled to upon identification and the obligations of the Commonwealth to provide such support.\n",
     "key_pinpoint": "Reasoning on trafficking victim support entitlements and Commonwealth obligations",
-    "victim_id_tags": [
+    "tags": [
       "assistance-entitlements",
       "referral-pathway"
     ],
@@ -2471,7 +2516,7 @@
     "retrieval_notes": "Recent civil TVPA case. Search Westlaw and LexisNexis for \"Ricchio v. Ahn\" with TVPA and forced labour filters. Verify citation, court, and date. If not found under this exact caption, broaden to recent civil TVPA forced-labour decisions (2023\u20132024). Confirm existence before relying on this entry.\n",
     "summary": "Recent civil TVPA case addressing forced labour identification indicators. If verified, this decision contributes to the evolving judicial framework for recognising coercive labour practices and identifying victims through civil enforcement mechanisms.\n",
     "key_pinpoint": "To be confirmed upon retrieval \u2014 forced labour indicators under 18 USC \u00a7 1589",
-    "victim_id_tags": [
+    "tags": [
       "labour-exploitation-indicators",
       "definition-scope"
     ],
@@ -2494,7 +2539,7 @@
     "retrieval_notes": "599 F.3d 215 (2d Cir. 2010). Available on Westlaw and LexisNexis. Check CourtListener for possible free access. High-profile domestic servitude prosecution. Export full opinion.\n",
     "summary": "Landmark domestic servitude case involving two Indonesian domestic workers. The Second Circuit upheld convictions for forced labour and involuntary servitude, analysing labour exploitation indicators including document confiscation, isolation, physical abuse, and debt bondage in a household setting \u2014 key screening markers for identifying victims of domestic servitude.\n",
     "key_pinpoint": "599 F.3d at 228\u2013243 (labour exploitation indicators, forced labour analysis)",
-    "victim_id_tags": [
+    "tags": [
       "labour-exploitation-indicators",
       "definition-scope",
       "indicators-screening"
@@ -2518,7 +2563,7 @@
     "retrieval_notes": "801 F.3d 606 (6th Cir. 2015). Available on Westlaw and LexisNexis. Check CourtListener for possible free access. Sex trafficking case with detailed coercion analysis. Export full opinion.\n",
     "summary": "Sex trafficking case in which the Sixth Circuit examined the meaning of \"force, fraud, or coercion\" under 18 USC \u00a7 1591. The court's analysis of what conduct satisfies each element provides practical guidance for first responders and investigators seeking to identify victims of sex trafficking.\n",
     "key_pinpoint": "801 F.3d at 616\u2013622 (definition of force, fraud, or coercion under \u00a7 1591)",
-    "victim_id_tags": [
+    "tags": [
       "sex-trafficking-indicators",
       "definition-scope",
       "indicators-screening"
@@ -2540,7 +2585,7 @@
     "local_file": "docs/victim-identification/case-law/echr-siliadin-v-france-2005.html",
     "summary": "First Article 4 case in which the ECtHR found a violation for domestic servitude, distinguishing servitude from slavery and forced labour. The Court held that France failed to afford the applicant \u2014 a Togolese minor compelled to work as an unpaid domestic servant \u2014 practical and effective protection under its criminal law framework, establishing that states must criminalise and effectively punish conduct contrary to Art. 4.\n",
     "key_pinpoint": "Paras. 112\u2013149 (definition of servitude; positive obligation to penalise and prosecute)",
-    "victim_id_tags": [
+    "tags": [
       "definition-scope",
       "indicators-screening",
       "child-victim-identification",
@@ -2549,5 +2594,567 @@
     "added_by": "Claude Code (initial build)",
     "date_added": "2026-03-09",
     "file": "victim-identification/case-law/echr-siliadin-v-france-2005.md"
+  },
+  {
+    "title": "Modern Slavery PEC \u2014 Research & Resources",
+    "jurisdiction": "UK",
+    "bucket": "policy-commentary",
+    "document_type": "resource-collection",
+    "issuing_body": "Modern Slavery PEC",
+    "date_issued": 2025,
+    "status": "current",
+    "source_url": "https://www.modernslaverypec.org/resources",
+    "access": "public",
+    "summary": "UK independent research centre. Key publications include prosecution barriers analysis (Jun 2025: 467 CPS prosecutions, 355 convictions Jul 2023\u2013Jun 2024), NRM data, ethical research guidance. Responds to House of Lords MSA Committee.\n",
+    "key_pinpoint": "2025 prosecution barriers report; NRM analysis; policy briefs for practitioners",
+    "tags": [
+      "offence-elements",
+      "victimless-prosecution",
+      "evidence-corroboration"
+    ],
+    "added_by": "Claude (import from resources.json)",
+    "date_added": "2026-03-18",
+    "file": "prosecution/policy-commentary/uk-modern-slavery-pec-resources.md"
+  },
+  {
+    "title": "Human Trafficking Institute \u2014 Federal Human Trafficking Report (Annual)",
+    "jurisdiction": "US",
+    "bucket": "policy-commentary",
+    "document_type": "report",
+    "issuing_body": "Human Trafficking Institute",
+    "date_issued": 2000,
+    "status": "current",
+    "source_url": "https://traffickinginstitute.org/federal-human-trafficking-report/",
+    "access": "public",
+    "summary": "Only exhaustive annual review of every federal criminal trafficking prosecution since 2000. Attorneys review every case via PACER, WestLaw, DOJ. Case-level data on demographics, methods, sentencing, by district. Interactive data at data.traffickinginstitute.org.\n",
+    "key_pinpoint": "Exhaustive case database; interactive visualizations; state-by-state summaries; trends since 2000",
+    "tags": [
+      "offence-elements",
+      "sentencing-penalty",
+      "evidence-corroboration"
+    ],
+    "added_by": "Claude (import from resources.json)",
+    "date_added": "2026-03-18",
+    "file": "prosecution/policy-commentary/us-hti-federal-trafficking-report.md"
+  },
+  {
+    "title": "Independent Anti-Slavery Commissioner (UK) \u2014 Section 45 Defence: Call for Evidence",
+    "jurisdiction": "UK",
+    "bucket": "policy-commentary",
+    "document_type": "report",
+    "issuing_body": "Independent Anti-Slavery Commissioner",
+    "date_issued": "unknown",
+    "status": "current",
+    "source_url": "https://www.antislaverycommissioner.co.uk/media/tlnpkzlt/the-modern-slavery-act-2015-statutory-defence-a-call-for-evidence.pdf",
+    "access": "public",
+    "summary": "Critical report on practical application of \u00a745 defence. Identifies widespread misunderstanding across law enforcement and CPS. Notes recording systems cannot track where \u00a745 is raised. Highlights risk that misunderstanding creates 'blanket immunity' perception making victims attractive as couriers.\n",
+    "key_pinpoint": "Three scenarios (pre-charge, discontinued, trial); operational failures in identification; recording recommendations",
+    "tags": [
+      "statutory-defence-s45",
+      "non-punishment-link",
+      "abuse-of-process"
+    ],
+    "added_by": "Claude (import from resources.json)",
+    "date_added": "2026-03-18",
+    "file": "prosecution/policy-commentary/uk-iasc-s45-defence-call-for-evidence.md"
+  },
+  {
+    "title": "ILO Forced Labour and Human Trafficking: Casebook of Court Decisions (2009)",
+    "jurisdiction": "ILO",
+    "bucket": "operational-guidance",
+    "document_type": "toolkit-manual",
+    "issuing_body": "ILO",
+    "date_issued": 2009,
+    "status": "current",
+    "source_url": "https://www.ilo.org/publications/forced-labour-and-human-trafficking-casebook-court-decisions",
+    "access": "public",
+    "summary": "120-page training manual for judges, prosecutors, legal practitioners. Examines forced labour and trafficking cases across international courts, regional courts, South Asia, Europe, Americas. Comparative law training resource.\n",
+    "key_pinpoint": "Cases by region; comparative offence elements; judicial reasoning on forced labour across jurisdictions",
+    "tags": [
+      "offence-elements",
+      "evidence-corroboration",
+      "labour-exploitation-indicators"
+    ],
+    "added_by": "Claude (import from resources.json)",
+    "date_added": "2026-03-18",
+    "file": "prosecution/operational-guidance/ilo-forced-labour-casebook-2009.md"
+  },
+  {
+    "title": "DOJ Human Trafficking Prosecution Unit (HTPU) Resources",
+    "jurisdiction": "US",
+    "bucket": "operational-guidance",
+    "document_type": "guideline-sop",
+    "issuing_body": "US Department of Justice",
+    "date_issued": "unknown",
+    "status": "current",
+    "source_url": "https://www.justice.gov/humantrafficking",
+    "access": "public",
+    "summary": "DOJ's HTPU within the Civil Rights Division provides federal prosecution guidance, coordinates multi-district investigations, and publishes best practices. Works with FBI, HSI, and US Attorneys' offices.\n",
+    "key_pinpoint": "Prosecution of 18 USC \u00a7\u00a71589\u20131592; coordination with FBI/HSI; restitution under \u00a71593",
+    "tags": [
+      "offence-elements",
+      "sentencing-penalty",
+      "evidence-corroboration"
+    ],
+    "added_by": "Claude (import from resources.json)",
+    "date_added": "2026-03-18",
+    "file": "prosecution/operational-guidance/us-doj-htpu-resources.md"
+  },
+  {
+    "title": "UNODC Case Digest: Evidential Issues in Trafficking Cases",
+    "jurisdiction": "UNODC",
+    "bucket": "operational-guidance",
+    "document_type": "toolkit-manual",
+    "issuing_body": "UNODC",
+    "date_issued": "unknown",
+    "status": "current",
+    "source_url": "https://www.unodc.org/unodc/en/human-trafficking/publications.html",
+    "access": "public",
+    "summary": "Analysis of evidential issues from 135 cases across 31 jurisdictions. Covers: proving means element, establishing exploitation purpose, consent irrelevance, corroborating testimony, financial evidence, expert evidence on trauma.\n",
+    "key_pinpoint": "Evidential patterns; corroboration approaches; financial evidence as exploitation proxy; expert witnesses on trauma",
+    "tags": [
+      "evidence-corroboration",
+      "offence-elements",
+      "victimless-prosecution"
+    ],
+    "added_by": "Claude (import from resources.json)",
+    "date_added": "2026-03-18",
+    "file": "prosecution/operational-guidance/unodc-case-digest-evidential-issues.md"
+  },
+  {
+    "title": "CPS Guidance on Modern Slavery, Human Trafficking and Smuggling",
+    "jurisdiction": "UK",
+    "bucket": "prosecution-procedure",
+    "document_type": "guideline-sop",
+    "issuing_body": "Crown Prosecution Service",
+    "date_issued": "2024-01-01",
+    "status": "current",
+    "source_url": "https://www.cps.gov.uk/legal-guidance/modern-slavery-and-human-trafficking-offences-and-defences-including-section-45",
+    "access": "public",
+    "local_file": "docs/victim-identification/prosecution-procedure/uk-cps-modern-slavery-guidance.html",
+    "summary": "Comprehensive CPS prosecution guidance covering modern slavery and trafficking offences, the s. 45 statutory defence for victims, and prosecutorial obligations to identify potential trafficking victims before charging. Requires early investigative advice in all modern slavery cases and sets out the framework for distinguishing smuggling from trafficking.\n",
+    "key_pinpoint": "Sections on s. 45 defence, duty to obtain early investigative advice, victim identification indicators, and NRM referral obligations",
+    "tags": [
+      "non-punishment-link",
+      "indicators-screening",
+      "first-responder-duties",
+      "referral-pathway",
+      "statutory-defence-s45"
+    ],
+    "added_by": "Claude Code (initial build)",
+    "date_added": "2026-03-09",
+    "file": "prosecution/prosecution-procedure/uk-cps-modern-slavery-guidance.md"
+  },
+  {
+    "title": "CPS Legal Guidance: Non-Prosecution of Victims of Trafficking",
+    "jurisdiction": "UK",
+    "bucket": "prosecution-procedure",
+    "document_type": "practice-direction",
+    "issuing_body": "Crown Prosecution Service",
+    "date_issued": "2024-01-01",
+    "status": "current",
+    "source_url": "https://www.cps.gov.uk/legal-guidance/modern-slavery-and-human-trafficking-offences-and-defences-including-section-45",
+    "access": "public",
+    "local_file": "docs/victim-identification/prosecution-procedure/uk-cps-non-prosecution-victims.html",
+    "summary": "CPS practice guidance implementing the non-punishment principle for trafficking victims. Directs prosecutors to identify potential trafficking victims before making prosecution decisions, applying public interest considerations and the s. 45 defence. Requires that where a credible defence of trafficking-compelled offending exists, the case should not be charged or should be discontinued.\n",
+    "key_pinpoint": "Sections on non-punishment principle, public interest test for trafficking victims, duress and s. 45 defence assessment, and CPS duty to investigate trafficking indicators pre-charge",
+    "tags": [
+      "non-punishment-link",
+      "indicators-screening",
+      "interviewing-trauma-informed",
+      "statutory-defence-s45",
+      "victimless-prosecution"
+    ],
+    "added_by": "Claude Code (initial build)",
+    "date_added": "2026-03-09",
+    "file": "prosecution/prosecution-procedure/uk-cps-non-prosecution-victims.md"
+  },
+  {
+    "title": "Trafficking Survivors Relief Act 2026",
+    "jurisdiction": "US",
+    "bucket": "legislation",
+    "document_type": "act-statute",
+    "issuing_body": "US Congress",
+    "date_issued": 2026,
+    "status": "current",
+    "source_url": "https://www.state.gov/international-and-domestic-law",
+    "access": "public",
+    "summary": "Most recent federal trafficking legislation signed into law. Provides post-conviction relief mechanisms for trafficking survivors convicted of offences committed as a result of their trafficking.\n",
+    "key_pinpoint": "Pub. L. 119-73",
+    "tags": [
+      "non-punishment-link"
+    ],
+    "added_by": "Claude (import from resources.json)",
+    "date_added": "2026-03-18",
+    "file": "prosecution/legislation/us-trafficking-survivors-relief-act-2026.md"
+  },
+  {
+    "title": "Bandhua Mukti Morcha v Union of India, AIR 1984 SC 802",
+    "jurisdiction": "IN",
+    "bucket": "case-law",
+    "document_type": "judgment-opinion",
+    "issuing_body": "Supreme Court of India",
+    "date_issued": 1984,
+    "status": "current",
+    "source_url": "https://indiankanoon.org/doc/595099/",
+    "access": "public",
+    "summary": "LANDMARK Indian SC PIL case. Held: bonded labour includes any forced labour from economic compulsion incl. debt bondage without formal agreements; onus on employer to disprove; State must proactively identify, release, rehabilitate. Expanded Art. 21 to include dignity, minimum wages, shelter.\n",
+    "key_pinpoint": "Art. 21 includes socioeconomic minima; Art. 23 directly enforceable; State's affirmative duty; PIL standing for NGOs established",
+    "tags": [
+      "definition-scope",
+      "labour-exploitation-indicators",
+      "offence-elements"
+    ],
+    "added_by": "Claude (import from resources.json)",
+    "date_added": "2026-03-18",
+    "file": "prosecution/case-law/in-bandhua-mukti-morcha-1984.md"
+  },
+  {
+    "title": "S.M. v. Croatia [2020] ECHR (Grand Chamber) 60561/14",
+    "jurisdiction": "ECHR",
+    "bucket": "case-law",
+    "document_type": "judgment-opinion",
+    "issuing_body": "European Court of Human Rights (Grand Chamber)",
+    "date_issued": "2020-06-25",
+    "status": "current",
+    "source_url": "https://hudoc.echr.coe.int/eng?i=001-203503",
+    "access": "public",
+    "local_file": "docs/victim-identification/case-law/echr-sm-v-croatia-2020.html",
+    "summary": "Grand Chamber judgment clarifying that forced prostitution and sexual exploitation fall within the scope of Article 4's prohibition on trafficking. The Court confirmed that Art. 4 encompasses trafficking in human beings and that states have procedural obligations to investigate credible allegations of trafficking for sexual exploitation, reinforcing the duty of authorities to identify potential victims at the investigative stage.\n",
+    "key_pinpoint": "Paras. 290\u2013313 (Art. 4 scope covers trafficking and forced prostitution; procedural obligation to investigate)",
+    "tags": [
+      "definition-scope",
+      "sex-trafficking-indicators",
+      "first-responder-duties",
+      "indicators-screening",
+      "offence-elements"
+    ],
+    "added_by": "Claude Code (initial build)",
+    "date_added": "2026-03-09",
+    "file": "prosecution/case-law/echr-sm-v-croatia-2020.md"
+  },
+  {
+    "title": "VCL and AN v. United Kingdom [2021] ECHR 77587/12",
+    "jurisdiction": "UK",
+    "bucket": "case-law",
+    "document_type": "judgment-opinion",
+    "issuing_body": "European Court of Human Rights",
+    "date_issued": "2021-02-16",
+    "status": "current",
+    "source_url": "https://hudoc.echr.coe.int/eng?i=001-208322",
+    "access": "public",
+    "local_file": "docs/victim-identification/case-law/uk-vcl-an-v-uk-2021.html",
+    "summary": "The ECtHR held that the UK violated Article 4 ECHR by failing to identify two Vietnamese children as victims of trafficking before prosecuting them for cannabis cultivation offences. Establishes that once authorities are aware of a credible suspicion of trafficking, the individual must be assessed by a qualified person before any prosecution decision is taken.\n",
+    "key_pinpoint": "Paras. 153\u2013162 (positive obligation to identify victims), paras. 192\u2013200 (Article 6 fair trial implications of non-identification)",
+    "tags": [
+      "child-victim-identification",
+      "non-punishment-link",
+      "indicators-screening",
+      "competent-authority-nrm",
+      "abuse-of-process"
+    ],
+    "added_by": "Claude Code (initial build)",
+    "date_added": "2026-03-09",
+    "file": "prosecution/case-law/uk-vcl-an-v-uk-2021.md"
+  },
+  {
+    "title": "R v Brecani [2021] EWCA Crim 731",
+    "jurisdiction": "UK",
+    "bucket": "case-law",
+    "document_type": "judgment-opinion",
+    "issuing_body": "Court of Appeal (Criminal Division)",
+    "date_issued": 2021,
+    "status": "current",
+    "source_url": "https://www.bailii.org/ew/cases/EWCA/Crim/2021/731.html",
+    "access": "public",
+    "summary": "Held SCA conclusive grounds decisions INADMISSIBLE before a jury. Question of victim status is for the jury under \u00a745. Criticised but upheld in AAD (limited to trial; admissible on appeal).\n",
+    "key_pinpoint": "Admissibility of SCA decisions; relationship NRM and criminal proceedings; confirmed in AAD at \u00b681\u201385",
+    "tags": [
+      "statutory-defence-s45",
+      "evidence-corroboration"
+    ],
+    "added_by": "Claude (import from resources.json)",
+    "date_added": "2026-03-18",
+    "file": "prosecution/case-law/uk-r-v-brecani-2021.md"
+  },
+  {
+    "title": "United States v. Kozminski, 487 U.S. 931 (1988)",
+    "jurisdiction": "US",
+    "bucket": "case-law",
+    "document_type": "judgment-opinion",
+    "issuing_body": "Supreme Court of the United States",
+    "date_issued": "1988-06-29",
+    "status": "current",
+    "source_url": "",
+    "access": "backend-needed",
+    "backend_source": "Westlaw",
+    "backend_confidence": "confirmed-paywalled",
+    "retrieval_notes": "487 U.S. 931 (1988). Available on Westlaw and LexisNexis. Also check CourtListener (Free Law Project) \u2014 older SCOTUS opinions are sometimes available. Export full opinion.\n",
+    "summary": "US Supreme Court case defining \"involuntary servitude\" under 18 USC \u00a7 1584, narrowing it to compulsion through physical or legal coercion. Key to understanding the threshold for identifying victims of forced labour under pre-TVPA federal law, and still cited in trafficking cases on the meaning of coercion for victim identification purposes.\n",
+    "key_pinpoint": "487 U.S. at 944\u2013952 (definition of involuntary servitude and coercion)",
+    "tags": [
+      "definition-scope",
+      "labour-exploitation-indicators",
+      "offence-elements"
+    ],
+    "added_by": "Claude (initial build)",
+    "date_added": "2026-03-07",
+    "file": "prosecution/case-law/us-kozminski-1988.md"
+  },
+  {
+    "title": "R v. DS [2020] EWCA Crim 285",
+    "jurisdiction": "UK",
+    "bucket": "case-law",
+    "document_type": "judgment-opinion",
+    "issuing_body": "Court of Appeal (Criminal Division)",
+    "date_issued": "2020-03-13",
+    "status": "current",
+    "source_url": "https://www.bailii.org/ew/cases/EWCA/Crim/2020/285.html",
+    "access": "public",
+    "local_file": "docs/victim-identification/case-law/uk-r-v-ds-2020.html",
+    "summary": "Court of Appeal examined the application of the s. 45 Modern Slavery Act defence and the relationship between victim identification and non-punishment. Held that early identification of trafficking status is of paramount importance, and that a credible suspicion of trafficking must trigger a qualified assessment before any prosecution decision. The jury, not the judge on abuse of process, determines trafficking facts.\n",
+    "key_pinpoint": "Paras. on s. 45 defence application, abuse of process arguments, and the nexus between victim identification and non-prosecution",
+    "tags": [
+      "non-punishment-link",
+      "indicators-screening",
+      "competent-authority-nrm",
+      "statutory-defence-s45",
+      "abuse-of-process"
+    ],
+    "added_by": "Claude Code (initial build)",
+    "date_added": "2026-03-09",
+    "file": "prosecution/case-law/uk-r-v-ds-2020.md"
+  },
+  {
+    "title": "R v AAD, AAH, AAI [2022] EWCA Crim 106",
+    "jurisdiction": "UK",
+    "bucket": "case-law",
+    "document_type": "judgment-opinion",
+    "issuing_body": "Court of Appeal (Criminal Division)",
+    "date_issued": 2022,
+    "status": "current",
+    "source_url": "https://www.bailii.org/ew/cases/EWCA/Crim/2022/106.html",
+    "access": "public",
+    "summary": "Essential CoA guidance. Restores abuse of process jurisdiction (overturning DS). SCA decisions inadmissible before jury (Brecani upheld) BUT admissible on appeal and in abuse of process. Principle of finality does not apply in guilty plea cases where defendant is trafficking victim. Found Art. 4 breaches where no proper investigation occurred.\n",
+    "key_pinpoint": "\u00b686\u201387 (abuse of process restored); \u00b6141 (DS was wrong); \u00b6108 (calling defendant as witness); interplay NRM/CPS/criminal proceedings",
+    "tags": [
+      "statutory-defence-s45",
+      "abuse-of-process",
+      "non-punishment-link"
+    ],
+    "added_by": "Claude (import from resources.json)",
+    "date_added": "2026-03-18",
+    "file": "prosecution/case-law/uk-r-v-aad-2022.md"
+  },
+  {
+    "title": "College of Policing: Modern Slavery Investigation Guidance",
+    "jurisdiction": "UK",
+    "bucket": "operational-guidance",
+    "document_type": "guideline-sop",
+    "issuing_body": "College of Policing",
+    "date_issued": "unknown",
+    "status": "current",
+    "source_url": "https://www.college.police.uk/guidance/modern-slavery",
+    "access": "public",
+    "summary": "Operational guidance for UK police. Covers initial response, victim engagement, evidence gathering, financial investigation, organised crime approaches, and international cooperation.\n",
+    "key_pinpoint": "Proactive intelligence-led operations; victim-less prosecution strategies; financial investigation",
+    "tags": [
+      "proactive-intelligence",
+      "financial-investigation",
+      "victim-engagement-interview",
+      "multi-agency-cooperation"
+    ],
+    "added_by": "Claude (import from resources.json)",
+    "date_added": "2026-03-18",
+    "file": "investigations/operational-guidance/uk-college-of-policing-modern-slavery.md"
+  },
+  {
+    "title": "ILO-IOE Combating Forced Labour: Handbook for Employers (3rd Ed, 2025)",
+    "jurisdiction": "ILO",
+    "bucket": "operational-guidance",
+    "document_type": "toolkit-manual",
+    "issuing_body": "ILO",
+    "date_issued": 2025,
+    "status": "current",
+    "source_url": "https://www.ilo.org/publications/combating-forced-labour-handbook-employers-and-business-1",
+    "access": "public",
+    "summary": "Third edition (Nov 2025). Uses ILO 11 indicators to help businesses identify forced labour risks. Covers due diligence, remediation, multi-stakeholder collaboration. For management, HR, procurement, legal, compliance.\n",
+    "key_pinpoint": "Risk assessment using 11 indicators; remediation framework; grievance mechanism design",
+    "tags": [
+      "supply-chain-due-diligence",
+      "labour-exploitation-indicators",
+      "indicators-screening"
+    ],
+    "added_by": "Claude (import from resources.json)",
+    "date_added": "2026-03-18",
+    "file": "investigations/operational-guidance/ilo-ioe-employers-handbook-3rd-ed-2025.md"
+  },
+  {
+    "title": "HTLC \u2014 Federal Civil Trafficking Litigation Report (2003\u20132023)",
+    "jurisdiction": "US",
+    "bucket": "policy-commentary",
+    "document_type": "report",
+    "issuing_body": "Human Trafficking Legal Center",
+    "date_issued": 2023,
+    "status": "current",
+    "source_url": "https://htlegalcenter.org/our-work/publications/",
+    "access": "public",
+    "summary": "All federal civil trafficking cases under 18 USC \u00a71595 from 2003\u20132023. 929 cases, >$900M damages. Tracks geographic reach (48 states), case types (77% include forced labor), outcomes, and damages awards.\n",
+    "key_pinpoint": "Case outcome statistics; damages quantum; geographic distribution; forced labour vs sex trafficking breakdown",
+    "tags": [
+      "civil-remedy",
+      "mandatory-restitution"
+    ],
+    "added_by": "Claude (import from resources.json)",
+    "date_added": "2026-03-18",
+    "file": "victim-compensation/policy-commentary/us-htlc-federal-civil-trafficking-report.md"
+  },
+  {
+    "title": "Human Trafficking Legal Center \u2014 Civil & Criminal Case Databases",
+    "jurisdiction": "US",
+    "bucket": "policy-commentary",
+    "document_type": "database-portal",
+    "issuing_body": "Human Trafficking Legal Center",
+    "date_issued": 2003,
+    "status": "current",
+    "source_url": "https://htlegalcenter.org/our-work/",
+    "access": "public",
+    "summary": "Comprehensive databases of civil and criminal federal trafficking cases. Civil database tracks all \u00a71595 litigation since 2003. Also publishes extraterritorial jurisdiction guides (France, Switzerland). Pro bono lawyer matching for survivors.\n",
+    "key_pinpoint": "Civil database (929 cases, >$900M); criminal database; extraterritorial guides; pro bono network",
+    "tags": [
+      "civil-remedy",
+      "mandatory-restitution"
+    ],
+    "added_by": "Claude (import from resources.json)",
+    "date_added": "2026-03-18",
+    "file": "victim-compensation/policy-commentary/us-htlc-civil-criminal-databases.md"
+  },
+  {
+    "title": "UK MSA 2015 \u2014 Slavery and Trafficking Reparation Orders (\u00a78\u2013\u00a710)",
+    "jurisdiction": "UK",
+    "bucket": "legislation",
+    "document_type": "act-statute",
+    "issuing_body": "UK Parliament",
+    "date_issued": 2015,
+    "status": "current",
+    "source_url": "https://www.legislation.gov.uk/ukpga/2015/30/part/1/crossheading/forfeiture-and-reparation",
+    "access": "public",
+    "summary": "\u00a78 empowers courts to make reparation orders requiring convicted offenders to pay compensation from confiscated assets under POCA 2002. Court must consider making an order in every conviction with a confiscation order.\n",
+    "key_pinpoint": "\u00a78 (power); \u00a79 (duty to consider where confiscation order made); \u00a710 (enforcement)",
+    "tags": [
+      "reparation-order",
+      "sentencing-penalty"
+    ],
+    "added_by": "Claude (import from resources.json)",
+    "date_added": "2026-03-18",
+    "file": "victim-compensation/legislation/uk-msa-2015-reparation-orders-ss8-10.md"
+  },
+  {
+    "title": "Mandatory Restitution (18 USC \u00a71593) & Crime Victims' Rights Act (\u00a73771)",
+    "jurisdiction": "US",
+    "bucket": "legislation",
+    "document_type": "act-statute",
+    "issuing_body": "US Congress",
+    "date_issued": "unknown",
+    "status": "current",
+    "source_url": "https://www.law.cornell.edu/uscode/text/18/1593",
+    "access": "public",
+    "summary": "\u00a71593 mandates full restitution in federal trafficking cases \u2014 court SHALL order for full amount of losses. \u00a73771 provides broad victims' rights including right to restitution, right to be heard at sentencing, and right to proceedings free from unreasonable delay.\n",
+    "key_pinpoint": "\u00a71593(b) (restitution = full value of labor + legal costs + other losses); \u00a73771(a)(6) (right to full and timely restitution)",
+    "tags": [
+      "mandatory-restitution",
+      "sentencing-penalty"
+    ],
+    "added_by": "Claude (import from resources.json)",
+    "date_added": "2026-03-18",
+    "file": "victim-compensation/legislation/us-mandatory-restitution-18-usc-1593.md"
+  },
+  {
+    "title": "Doe v. Apple Inc. (D.C. Cir. 2024)",
+    "jurisdiction": "US",
+    "bucket": "case-law",
+    "document_type": "judgment-opinion",
+    "issuing_body": "US Court of Appeals, D.C. Circuit",
+    "date_issued": 2024,
+    "status": "current",
+    "source_url": "https://law.justia.com/cases/federal/appellate-courts/cadc/",
+    "access": "public",
+    "summary": "DRC cobalt miners sued Apple, Alphabet, Microsoft, Dell, Tesla for benefiting from child/forced labor. D.C. Circuit affirmed dismissal \u2014 TVPRA civil remedy (18 USC \u00a71595) does not apply extraterritorially. Important limitation on supply chain litigation.\n",
+    "key_pinpoint": "\u00a71595 lacks extraterritorial reach; implications for supply chain accountability",
+    "tags": [
+      "civil-remedy",
+      "supply-chain-due-diligence"
+    ],
+    "added_by": "Claude (import from resources.json)",
+    "date_added": "2026-03-18",
+    "file": "victim-compensation/case-law/us-doe-v-apple-2024.md"
+  },
+  {
+    "title": "Eurojust Report on Trafficking in Human Beings",
+    "jurisdiction": "EU",
+    "bucket": "prosecution-procedure",
+    "document_type": "report",
+    "issuing_body": "Eurojust",
+    "date_issued": 2021,
+    "status": "current",
+    "source_url": "https://www.eurojust.europa.eu/publication/eurojust-report-trafficking-human-beings",
+    "access": "public",
+    "local_file": "docs/victim-identification/prosecution-procedure/eu-eurojust-thb-casework-report.html",
+    "summary": "Comprehensive analysis of Eurojust's casework on trafficking in human beings between 2017 and 2020, examining 91 THB cases and providing 18 targeted recommendations for prosecutors, judges, and law enforcement. Addresses judicial coordination challenges, victim identification across borders, and the importance of early identification in cross-border investigations.\n",
+    "key_pinpoint": "Recommendations 1\u201318; Part II on victims' rights",
+    "tags": [
+      "cross-border-referral-return",
+      "indicators-screening",
+      "referral-pathway",
+      "mutual-legal-assistance",
+      "joint-investigation-team"
+    ],
+    "added_by": "Claude Code (initial build)",
+    "date_added": "2026-03-09",
+    "file": "international-cooperation/operational-guidance/eu-eurojust-thb-casework-report.md"
+  },
+  {
+    "title": "Eurojust Report on Prosecuting THB for the Purpose of Labour Exploitation",
+    "jurisdiction": "EU",
+    "bucket": "prosecution-procedure",
+    "document_type": "guideline-sop",
+    "issuing_body": "Eurojust",
+    "date_issued": 2015,
+    "status": "current",
+    "source_url": "https://www.eurojust.europa.eu/publication/prosecuting-thb-purpose-labour-exploitation",
+    "access": "public",
+    "local_file": "docs/victim-identification/prosecution-procedure/eu-eurojust-prosecution-guidance.html",
+    "summary": "Practical guidance for prosecutors and judicial authorities on investigating and prosecuting trafficking for labour exploitation. Analyses judgments and Eurojust casework to identify challenges in proving the labour exploitation element, and provides recommendations on victim identification, evidence gathering, and cross-border cooperation through Joint Investigation Teams.\n",
+    "key_pinpoint": "",
+    "tags": [
+      "labour-exploitation-indicators",
+      "cross-border-referral-return",
+      "indicators-screening",
+      "mutual-legal-assistance",
+      "joint-investigation-team"
+    ],
+    "added_by": "Claude Code (initial build)",
+    "date_added": "2026-03-09",
+    "file": "international-cooperation/operational-guidance/eu-eurojust-prosecution-guidance.md"
+  },
+  {
+    "title": "Eurojust \u2014 Joint Investigation Teams in Trafficking Cases",
+    "jurisdiction": "EU",
+    "bucket": "operational-guidance",
+    "document_type": "guideline-sop",
+    "issuing_body": "Eurojust",
+    "date_issued": "unknown",
+    "status": "current",
+    "source_url": "https://www.eurojust.europa.eu/crime-types/trafficking-human-beings",
+    "access": "public",
+    "summary": "Eurojust facilitates judicial cooperation in cross-border trafficking: JIT formation, funding, European Arrest Warrants, European Investigation Orders. Practical model from UK-Slovakia cannabis/labour exploitation case.\n",
+    "key_pinpoint": "JIT formation; EAW and EIO execution; coordination centre model; evidence sharing",
+    "tags": [
+      "joint-investigation-team",
+      "mutual-legal-assistance"
+    ],
+    "added_by": "Claude (import from resources.json)",
+    "date_added": "2026-03-18",
+    "file": "international-cooperation/operational-guidance/eu-eurojust-jits-trafficking.md"
   }
 ]

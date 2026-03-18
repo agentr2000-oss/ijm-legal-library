@@ -18,7 +18,7 @@ Annual report from the Independent Anti-Slavery Commissioner assessing the UK's 
 
 Sections on NRM decision-making delays, victim identification improvements, and recommendations for first responder capacity
 
-## Victim Identification Tags
+## Tags
 
 `competent-authority-nrm` · `first-responder-duties` · `assistance-entitlements`
 
@@ -51,7 +51,7 @@ summary: >
 
 key_pinpoint: "Sections on NRM decision-making delays, victim identification improvements, and recommendations for first responder capacity"
 
-victim_id_tags:
+tags:
   - competent-authority-nrm
   - first-responder-duties
   - assistance-entitlements

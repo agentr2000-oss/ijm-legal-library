@@ -18,7 +18,7 @@ Reforms the National Referral Mechanism process by introducing trafficking and s
 
 ss. 57–62 (trafficking information notices, identification of potential victims, recovery periods, disqualification from protection)
 
-## Victim Identification Tags
+## Tags
 
 `competent-authority-nrm` · `definition-scope` · `referral-pathway` · `reflection-period-temporary-stay`
 
@@ -51,7 +51,7 @@ summary: >
 
 key_pinpoint: "ss. 57–62 (trafficking information notices, identification of potential victims, recovery periods, disqualification from protection)"
 
-victim_id_tags:
+tags:
   - competent-authority-nrm
   - definition-scope
   - referral-pathway

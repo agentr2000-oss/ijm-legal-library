@@ -13,7 +13,10 @@ Usage examples:
 import argparse, os, glob, re, json, yaml, sys
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-ENTRY_DIRS = ["victim-identification", "elements-defences", "international-cooperation"]
+ENTRY_DIRS = [
+    "victim-identification", "prosecution", "investigations",
+    "victim-compensation", "elements-defences", "international-cooperation",
+]
 
 
 def parse_frontmatter(filepath):
@@ -45,7 +48,7 @@ def matches(entry, args):
         return False
     if args.bucket and entry.get("bucket") != args.bucket:
         return False
-    if args.tag and args.tag not in entry.get("victim_id_tags", []):
+    if args.tag and args.tag not in entry.get("tags", []):
         return False
     if args.access and entry.get("access") != args.access:
         return False
@@ -79,7 +82,7 @@ def display_table(results):
         if e.get("source_url"):
             print(f"  Link: {e['source_url']}")
         print(f"  Summary: {e.get('summary','—')}")
-        tags = e.get("victim_id_tags", [])
+        tags = e.get("tags", [])
         if tags:
             print(f"  Tags: {', '.join(tags)}")
         print(f"  File: {e['_path']}")

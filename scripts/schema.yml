@@ -7,6 +7,7 @@ jurisdictions:
   - EU
   - UK
   - AU
+  - IN
   - ECHR
   - ASEAN
   - UN
@@ -17,6 +18,9 @@ jurisdictions:
 
 thematic_folders:
   - victim-identification
+  - prosecution
+  - investigations
+  - victim-compensation
   - elements-defences
   - international-cooperation
 
@@ -50,6 +54,8 @@ document_types:
   - toolkit-manual
   - factsheet
   - declaration
+  - database-portal
+  - resource-collection
 
 statuses:
   - current
@@ -78,7 +84,8 @@ backend_confidence:
   - likely-exists-needs-verification
   - known-docket-only
 
-victim_id_tags:
+tags:
+  # Victim identification
   - definition-scope
   - competent-authority-nrm
   - indicators-screening
@@ -94,3 +101,29 @@ victim_id_tags:
   - data-protection-confidentiality
   - non-punishment-link
   - cross-border-referral-return
+  # Prosecution
+  - offence-elements
+  - statutory-defence-s45
+  - evidence-corroboration
+  - sentencing-penalty
+  - abuse-of-process
+  - victimless-prosecution
+  # Investigation
+  - financial-investigation
+  - proactive-intelligence
+  - crime-scene-evidence
+  - victim-engagement-interview
+  - multi-agency-cooperation
+  # Compensation
+  - mandatory-restitution
+  - civil-remedy
+  - reparation-order
+  - compensation-fund
+  # International
+  - mutual-legal-assistance
+  - joint-investigation-team
+  - extradition-transfer
+  - country-assessment
+  # Supply chain
+  - supply-chain-due-diligence
+  - transparency-reporting

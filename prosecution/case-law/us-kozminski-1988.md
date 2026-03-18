@@ -18,9 +18,9 @@ US Supreme Court case defining "involuntary servitude" under 18 USC § 1584, nar
 
 487 U.S. at 944–952 (definition of involuntary servitude and coercion)
 
-## Victim Identification Tags
+## Tags
 
-`definition-scope` · `labour-exploitation-indicators`
+`definition-scope` · `labour-exploitation-indicators` · `offence-elements`
 
 ## Access
 
@@ -63,9 +63,10 @@ summary: >
 
 key_pinpoint: "487 U.S. at 944–952 (definition of involuntary servitude and coercion)"
 
-victim_id_tags:
+tags:
   - definition-scope
   - labour-exploitation-indicators
+  - offence-elements
 
 added_by: "Claude (initial build)"
 date_added: 2026-03-07

@@ -18,7 +18,7 @@ Joint ILO, Walk Free, and IOM report estimating 50 million people in modern slav
 
 Key findings (global prevalence); Regional estimates; Methodology (survey-based identification)
 
-## Victim Identification Tags
+## Tags
 
 `indicators-screening` · `labour-exploitation-indicators` · `sex-trafficking-indicators`
 
@@ -49,7 +49,7 @@ summary: >
 
 key_pinpoint: "Key findings (global prevalence); Regional estimates; Methodology (survey-based identification)"
 
-victim_id_tags:
+tags:
   - indicators-screening
   - labour-exploitation-indicators
   - sex-trafficking-indicators

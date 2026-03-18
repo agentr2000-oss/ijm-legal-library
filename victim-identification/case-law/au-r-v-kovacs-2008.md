@@ -18,7 +18,7 @@ Queensland Court of Appeal decision involving the first successful trafficking p
 
 De Jersey CJ, Muir and Fraser JJA; appeals allowed and retrials ordered on evidentiary grounds; reported at [2009] 2 Qd R 51
 
-## Victim Identification Tags
+## Tags
 
 `labour-exploitation-indicators` · `sex-trafficking-indicators` · `indicators-screening` · `detention-immigration-interface`
 
@@ -45,7 +45,7 @@ summary: >
 
 key_pinpoint: "De Jersey CJ, Muir and Fraser JJA; appeals allowed and retrials ordered on evidentiary grounds; reported at [2009] 2 Qd R 51"
 
-victim_id_tags:
+tags:
   - labour-exploitation-indicators
   - sex-trafficking-indicators
   - indicators-screening

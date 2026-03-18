@@ -18,7 +18,7 @@ Foundational research on identifying child trafficking victims in three English 
 
 Findings on child trafficking indicators, 60% missing-from-care rate, and recommendations for child protection agencies
 
-## Victim Identification Tags
+## Tags
 
 `child-victim-identification` · `indicators-screening` · `first-responder-duties`
 
@@ -66,7 +66,7 @@ summary: >
 
 key_pinpoint: "Findings on child trafficking indicators, 60% missing-from-care rate, and recommendations for child protection agencies"
 
-victim_id_tags:
+tags:
   - child-victim-identification
   - indicators-screening
   - first-responder-duties

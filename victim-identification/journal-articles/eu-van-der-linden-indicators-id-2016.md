@@ -14,7 +14,7 @@
 
 Proposes a revised framework for identifying trafficking victims within the EU, critiquing existing indicator-based approaches and advocating for improved screening methods that better account for the diverse forms of exploitation and the practical barriers victims face in self-identification.
 
-## Victim Identification Tags
+## Tags
 
 `indicators-screening` · `definition-scope` · `competent-authority-nrm`
 
@@ -60,7 +60,7 @@ summary: >
 
 key_pinpoint: ""
 
-victim_id_tags:
+tags:
   - indicators-screening
   - definition-scope
   - competent-authority-nrm

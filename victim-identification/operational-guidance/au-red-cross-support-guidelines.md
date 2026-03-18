@@ -18,7 +18,7 @@ Operational guidelines for the Australian Red Cross's delivery of the Support fo
 
 STPP casework guidelines; individual case management framework; contact: 1800 113 015 / national_stpp@redcross.org.au
 
-## Victim Identification Tags
+## Tags
 
 `assistance-entitlements` · `referral-pathway` · `child-victim-identification`
 
@@ -48,7 +48,7 @@ summary: >
 
 key_pinpoint: "STPP casework guidelines; individual case management framework; contact: 1800 113 015 / national_stpp@redcross.org.au"
 
-victim_id_tags:
+tags:
   - assistance-entitlements
   - referral-pathway
   - child-victim-identification

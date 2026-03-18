@@ -18,7 +18,7 @@ Reports and country-visit findings from the OSCE Special Representative identify
 
 Country visit reports 2022; Recommendations on proactive identification and NRM strengthening
 
-## Victim Identification Tags
+## Tags
 
 `competent-authority-nrm` · `indicators-screening` · `labour-exploitation-indicators`
 
@@ -46,7 +46,7 @@ summary: >
 
 key_pinpoint: "Country visit reports 2022; Recommendations on proactive identification and NRM strengthening"
 
-victim_id_tags:
+tags:
   - competent-authority-nrm
   - indicators-screening
   - labour-exploitation-indicators

@@ -14,9 +14,9 @@
 
 Practical guidance for prosecutors and judicial authorities on investigating and prosecuting trafficking for labour exploitation. Analyses judgments and Eurojust casework to identify challenges in proving the labour exploitation element, and provides recommendations on victim identification, evidence gathering, and cross-border cooperation through Joint Investigation Teams.
 
-## Victim Identification Tags
+## Tags
 
-`labour-exploitation-indicators` · `cross-border-referral-return` · `indicators-screening`
+`labour-exploitation-indicators` · `cross-border-referral-return` · `indicators-screening` · `mutual-legal-assistance` · `joint-investigation-team`
 
 ## Source
 
@@ -48,10 +48,12 @@ summary: >
 
 key_pinpoint: ""
 
-victim_id_tags:
+tags:
   - labour-exploitation-indicators
   - cross-border-referral-return
   - indicators-screening
+  - mutual-legal-assistance
+  - joint-investigation-team
 
 added_by: "Claude Code (initial build)"
 date_added: 2026-03-09

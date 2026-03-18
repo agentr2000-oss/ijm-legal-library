@@ -14,7 +14,10 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DOCS_DIR = REPO_ROOT / "docs"
-ENTRY_DIRS = ["victim-identification", "elements-defences", "international-cooperation"]
+ENTRY_DIRS = [
+    "victim-identification", "prosecution", "investigations",
+    "victim-compensation", "elements-defences", "international-cooperation",
+]
 
 
 def find_doc_file(entry_path):

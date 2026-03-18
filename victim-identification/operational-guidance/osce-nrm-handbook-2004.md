@@ -18,7 +18,7 @@ Foundational handbook on designing and implementing National Referral Mechanisms
 
 Chapter 1 (NRM concept and principles); Chapter 3 (identification and referral procedures); Chapter 4 (protection and assistance standards)
 
-## Victim Identification Tags
+## Tags
 
 `competent-authority-nrm` · `referral-pathway` · `first-responder-duties` · `assistance-entitlements`
 
@@ -46,7 +46,7 @@ summary: >
 
 key_pinpoint: "Chapter 1 (NRM concept and principles); Chapter 3 (identification and referral procedures); Chapter 4 (protection and assistance standards)"
 
-victim_id_tags:
+tags:
   - competent-authority-nrm
   - referral-pathway
   - first-responder-duties

@@ -18,7 +18,7 @@ Updated regional action plan continuing the victim identification priorities of 
 
 Protection pillar, victim identification and referral sections
 
-## Victim Identification Tags
+## Tags
 
 `indicators-screening` · `referral-pathway` · `competent-authority-nrm` · `cross-border-referral-return`
 
@@ -49,7 +49,7 @@ summary: >
 
 key_pinpoint: "Protection pillar, victim identification and referral sections"
 
-victim_id_tags:
+tags:
   - indicators-screening
   - referral-pathway
   - competent-authority-nrm

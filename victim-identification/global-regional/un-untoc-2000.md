@@ -18,7 +18,7 @@ Parent convention to the Palermo Protocol, providing the overarching framework f
 
 Arts. 18–21 (mutual legal assistance, joint investigations); Art. 24 (protection of witnesses); Art. 25 (assistance to and protection of victims)
 
-## Victim Identification Tags
+## Tags
 
 `cross-border-referral-return` · `assistance-entitlements`
 
@@ -49,7 +49,7 @@ summary: >
 
 key_pinpoint: "Arts. 18–21 (mutual legal assistance, joint investigations); Art. 24 (protection of witnesses); Art. 25 (assistance to and protection of victims)"
 
-victim_id_tags:
+tags:
   - cross-border-referral-return
   - assistance-entitlements
 

@@ -18,7 +18,7 @@ Establishes eleven operational indicators of forced labour derived from the ILO 
 
 11 indicators with operational examples
 
-## Victim Identification Tags
+## Tags
 
 `indicators-screening` · `labour-exploitation-indicators` · `first-responder-duties`
 
@@ -49,7 +49,7 @@ summary: >
 
 key_pinpoint: "11 indicators with operational examples"
 
-victim_id_tags:
+tags:
   - indicators-screening
   - labour-exploitation-indicators
   - first-responder-duties

@@ -18,7 +18,7 @@ Practitioner-level guide offering detailed, actionable guidance on the identific
 
 Chapters on proactive identification, reactive identification, barriers to identification, and child-specific considerations
 
-## Victim Identification Tags
+## Tags
 
 `indicators-screening` · `first-responder-duties` · `interviewing-trauma-informed` · `child-victim-identification` · `labour-exploitation-indicators`
 
@@ -53,7 +53,7 @@ summary: >
 
 key_pinpoint: "Chapters on proactive identification, reactive identification, barriers to identification, and child-specific considerations"
 
-victim_id_tags:
+tags:
   - indicators-screening
   - first-responder-duties
   - interviewing-trauma-informed

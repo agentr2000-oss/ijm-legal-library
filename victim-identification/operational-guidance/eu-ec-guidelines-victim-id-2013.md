@@ -14,7 +14,7 @@
 
 Reference document providing indicative guidelines, checklists, and indicators to help border guards and consular staff identify potential trafficking victims at points of entry. Designed to improve early identification and ensure appropriate referral, drawing on existing handbooks and indicator-based screening methods developed under the EU anti-trafficking strategy.
 
-## Victim Identification Tags
+## Tags
 
 `indicators-screening` · `first-responder-duties` · `referral-pathway`
 
@@ -45,7 +45,7 @@ summary: >
 
 key_pinpoint: ""
 
-victim_id_tags:
+tags:
   - indicators-screening
   - first-responder-duties
   - referral-pathway

@@ -18,9 +18,9 @@ Comprehensive analysis of Eurojust's casework on trafficking in human beings bet
 
 Recommendations 1–18; Part II on victims' rights
 
-## Victim Identification Tags
+## Tags
 
-`cross-border-referral-return` · `indicators-screening` · `referral-pathway`
+`cross-border-referral-return` · `indicators-screening` · `referral-pathway` · `mutual-legal-assistance` · `joint-investigation-team`
 
 ## Source
 
@@ -52,10 +52,12 @@ summary: >
 
 key_pinpoint: "Recommendations 1–18; Part II on victims' rights"
 
-victim_id_tags:
+tags:
   - cross-border-referral-return
   - indicators-screening
   - referral-pathway
+  - mutual-legal-assistance
+  - joint-investigation-team
 
 added_by: "Claude Code (initial build)"
 date_added: 2026-03-09

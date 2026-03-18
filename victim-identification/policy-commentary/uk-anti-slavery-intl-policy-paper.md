@@ -18,7 +18,7 @@ Policy paper from the Anti-Trafficking Monitoring Group (convened by Anti-Slaver
 
 Sections on NRM access barriers, immigration-enforcement conflation, recommendations for consistent identification standards across UK jurisdictions
 
-## Victim Identification Tags
+## Tags
 
 `competent-authority-nrm` · `detention-immigration-interface` · `definition-scope` · `referral-pathway`
 
@@ -52,7 +52,7 @@ summary: >
 
 key_pinpoint: "Sections on NRM access barriers, immigration-enforcement conflation, recommendations for consistent identification standards across UK jurisdictions"
 
-victim_id_tags:
+tags:
   - competent-authority-nrm
   - detention-immigration-interface
   - definition-scope

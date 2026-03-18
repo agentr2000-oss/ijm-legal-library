@@ -18,7 +18,7 @@ Landmark ECHR judgment establishing that Article 4 (prohibition of slavery/force
 
 Paras. 282–289 (positive obligation to identify and protect victims)
 
-## Victim Identification Tags
+## Tags
 
 `definition-scope` · `indicators-screening` · `first-responder-duties` · `competent-authority-nrm`
 
@@ -52,7 +52,7 @@ summary: >
 
 key_pinpoint: "Paras. 282–289 (positive obligation to identify and protect victims)"
 
-victim_id_tags:
+tags:
   - definition-scope
   - indicators-screening
   - first-responder-duties

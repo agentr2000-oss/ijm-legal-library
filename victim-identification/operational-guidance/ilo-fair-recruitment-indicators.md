@@ -18,7 +18,7 @@ Establishes principles and operational indicators for fair recruitment practices
 
 General Principles 1–13; Operational Guidelines; Definition of Recruitment Fees and Related Costs
 
-## Victim Identification Tags
+## Tags
 
 `indicators-screening` · `labour-exploitation-indicators`
 
@@ -49,7 +49,7 @@ summary: >
 
 key_pinpoint: "General Principles 1–13; Operational Guidelines; Definition of Recruitment Fees and Related Costs"
 
-victim_id_tags:
+tags:
   - indicators-screening
   - labour-exploitation-indicators
 

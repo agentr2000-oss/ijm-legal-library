@@ -18,7 +18,7 @@ Sex trafficking case in which the Sixth Circuit examined the meaning of "force, 
 
 801 F.3d at 616–622 (definition of force, fraud, or coercion under § 1591)
 
-## Victim Identification Tags
+## Tags
 
 `sex-trafficking-indicators` · `definition-scope` · `indicators-screening`
 
@@ -64,7 +64,7 @@ summary: >
 
 key_pinpoint: "801 F.3d at 616–622 (definition of force, fraud, or coercion under § 1591)"
 
-victim_id_tags:
+tags:
   - sex-trafficking-indicators
   - definition-scope
   - indicators-screening

@@ -18,7 +18,7 @@ The Migration Act 1958 and associated Migration Regulations 1994 establish the B
 
 Migration Act 1958, s 73; Migration Regulations 1994, Schedule 1 Item 1306 (Class WF), Schedule 2 Subclass 060
 
-## Victim Identification Tags
+## Tags
 
 `detention-immigration-interface` · `reflection-period-temporary-stay` · `assistance-entitlements` · `referral-pathway`
 
@@ -48,7 +48,7 @@ summary: >
 
 key_pinpoint: "Migration Act 1958, s 73; Migration Regulations 1994, Schedule 1 Item 1306 (Class WF), Schedule 2 Subclass 060"
 
-victim_id_tags:
+tags:
   - detention-immigration-interface
   - reflection-period-temporary-stay
   - assistance-entitlements

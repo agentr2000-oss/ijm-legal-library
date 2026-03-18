@@ -18,7 +18,7 @@ Landmark domestic servitude case involving two Indonesian domestic workers. The 
 
 599 F.3d at 228–243 (labour exploitation indicators, forced labour analysis)
 
-## Victim Identification Tags
+## Tags
 
 `labour-exploitation-indicators` · `definition-scope` · `indicators-screening`
 
@@ -64,7 +64,7 @@ summary: >
 
 key_pinpoint: "599 F.3d at 228–243 (labour exploitation indicators, forced labour analysis)"
 
-victim_id_tags:
+tags:
   - labour-exploitation-indicators
   - definition-scope
   - indicators-screening

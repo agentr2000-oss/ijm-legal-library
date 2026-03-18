@@ -18,7 +18,7 @@ Sub-regional guidelines adopted by the six Greater Mekong Sub-region governments
 
 Common indicators for victim identification, referral mechanism procedures, border-area guidance
 
-## Victim Identification Tags
+## Tags
 
 `indicators-screening` · `referral-pathway` · `competent-authority-nrm` · `cross-border-referral-return`
 
@@ -49,7 +49,7 @@ summary: >
 
 key_pinpoint: "Common indicators for victim identification, referral mechanism procedures, border-area guidance"
 
-victim_id_tags:
+tags:
   - indicators-screening
   - referral-pathway
   - competent-authority-nrm

@@ -11,10 +11,16 @@ from collections import defaultdict
 from datetime import date
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-ENTRY_DIRS = ["victim-identification", "elements-defences", "international-cooperation"]
+ENTRY_DIRS = [
+    "victim-identification", "prosecution", "investigations",
+    "victim-compensation", "elements-defences", "international-cooperation",
+]
 
 THEME_LABELS = {
     "victim-identification": "Victim Identification",
+    "prosecution": "Prosecution",
+    "investigations": "Investigations",
+    "victim-compensation": "Victim Compensation",
     "elements-defences": "Elements & Defences (Evidence & Proof)",
     "international-cooperation": "International Cooperation",
 }
@@ -109,7 +115,7 @@ def build_markdown(entries):
                     link = e.get("source_url", "")
                     title = e.get("title", "Untitled")
                     title_md = f"[{title}]({link})" if link else title
-                    tags = ", ".join(f"`{t}`" for t in e.get("victim_id_tags", []))
+                    tags = ", ".join(f"`{t}`" for t in e.get("tags", []))
                     lines.append(f"- {access_badge} **{title_md}** ({e.get('document_type', '?')}, {e.get('date_issued', '?')})")
                     lines.append(f"  - *{e.get('summary', 'No summary.')}*")
                     if tags:

@@ -18,7 +18,7 @@ The Court held that the United Kingdom violated Article 4 by lacking a specific 
 
 Paras. 65–82 (procedural obligation under Art. 4; inadequacy of criminal law framework for domestic servitude)
 
-## Victim Identification Tags
+## Tags
 
 `definition-scope` · `first-responder-duties` · `labour-exploitation-indicators`
 
@@ -52,7 +52,7 @@ summary: >
 
 key_pinpoint: "Paras. 65–82 (procedural obligation under Art. 4; inadequacy of criminal law framework for domestic servitude)"
 
-victim_id_tags:
+tags:
   - definition-scope
   - first-responder-duties
   - labour-exploitation-indicators

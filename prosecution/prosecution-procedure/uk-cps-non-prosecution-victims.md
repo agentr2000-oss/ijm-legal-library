@@ -18,9 +18,9 @@ CPS practice guidance implementing the non-punishment principle for trafficking 
 
 Sections on non-punishment principle, public interest test for trafficking victims, duress and s. 45 defence assessment, and CPS duty to investigate trafficking indicators pre-charge
 
-## Victim Identification Tags
+## Tags
 
-`non-punishment-link` · `indicators-screening` · `interviewing-trauma-informed`
+`non-punishment-link` · `indicators-screening` · `interviewing-trauma-informed` · `statutory-defence-s45` · `victimless-prosecution`
 
 ## Source
 
@@ -52,10 +52,12 @@ summary: >
 
 key_pinpoint: "Sections on non-punishment principle, public interest test for trafficking victims, duress and s. 45 defence assessment, and CPS duty to investigate trafficking indicators pre-charge"
 
-victim_id_tags:
+tags:
   - non-punishment-link
   - indicators-screening
   - interviewing-trauma-informed
+  - statutory-defence-s45
+  - victimless-prosecution
 
 added_by: "Claude Code (initial build)"
 date_added: 2026-03-09

@@ -18,7 +18,7 @@ Sex trafficking conviction involving online exploitation. The Second Circuit ana
 
 628 F.3d at 40–47 (force/fraud/coercion analysis under § 1591)
 
-## Victim Identification Tags
+## Tags
 
 `sex-trafficking-indicators` · `definition-scope`
 
@@ -64,7 +64,7 @@ summary: >
 
 key_pinpoint: "628 F.3d at 40–47 (force/fraud/coercion analysis under § 1591)"
 
-victim_id_tags:
+tags:
   - sex-trafficking-indicators
   - definition-scope
 

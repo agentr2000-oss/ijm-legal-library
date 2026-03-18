@@ -18,7 +18,7 @@ Guidance from the DOL Wage and Hour Division on identifying human trafficking du
 
 Labour trafficking indicators for workplace investigators; U visa certification process
 
-## Victim Identification Tags
+## Tags
 
 `labour-exploitation-indicators` · `indicators-screening` · `first-responder-duties` · `referral-pathway`
 
@@ -53,7 +53,7 @@ summary: >
 
 key_pinpoint: "Labour trafficking indicators for workplace investigators; U visa certification process"
 
-victim_id_tags:
+tags:
   - labour-exploitation-indicators
   - indicators-screening
   - first-responder-duties

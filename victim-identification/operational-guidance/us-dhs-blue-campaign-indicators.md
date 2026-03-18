@@ -18,7 +18,7 @@ DHS Blue Campaign indicator resource listing common signs of human trafficking f
 
 Indicator lists for sex trafficking and labour trafficking; reporting guidance
 
-## Victim Identification Tags
+## Tags
 
 `indicators-screening` · `first-responder-duties` · `sex-trafficking-indicators` · `labour-exploitation-indicators`
 
@@ -52,7 +52,7 @@ summary: >
 
 key_pinpoint: "Indicator lists for sex trafficking and labour trafficking; reporting guidance"
 
-victim_id_tags:
+tags:
   - indicators-screening
   - first-responder-duties
   - sex-trafficking-indicators

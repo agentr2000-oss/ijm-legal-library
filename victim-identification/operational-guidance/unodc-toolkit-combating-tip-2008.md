@@ -18,7 +18,7 @@ Comprehensive practitioner toolkit covering the full spectrum of anti-traffickin
 
 Tool 6.1 (Victim identification); Tool 8.1 (Indicators for front-line responders)
 
-## Victim Identification Tags
+## Tags
 
 `indicators-screening` · `first-responder-duties` · `referral-pathway`
 
@@ -49,7 +49,7 @@ summary: >
 
 key_pinpoint: "Tool 6.1 (Victim identification); Tool 8.1 (Indicators for front-line responders)"
 
-victim_id_tags:
+tags:
   - indicators-screening
   - first-responder-duties
   - referral-pathway

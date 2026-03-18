@@ -18,7 +18,7 @@ Primary UK anti-trafficking and modern slavery statute. Consolidates offences of
 
 ss. 1–4 (offences), s. 45 (defence for victims), ss. 49–51 (victim identification and guidance)
 
-## Victim Identification Tags
+## Tags
 
 `definition-scope` · `competent-authority-nrm` · `first-responder-duties` · `non-punishment-link`
 
@@ -51,7 +51,7 @@ summary: >
 
 key_pinpoint: "ss. 1–4 (offences), s. 45 (defence for victims), ss. 49–51 (victim identification and guidance)"
 
-victim_id_tags:
+tags:
   - definition-scope
   - competent-authority-nrm
   - first-responder-duties

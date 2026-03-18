@@ -18,7 +18,7 @@ Defines the worst forms of child labour, including trafficking, slavery, forced 
 
 Art. 3 (worst forms of child labour); Art. 7(2) (effective and time-bound measures for identification and outreach)
 
-## Victim Identification Tags
+## Tags
 
 `definition-scope` · `child-victim-identification` · `labour-exploitation-indicators`
 
@@ -46,7 +46,7 @@ summary: >
 
 key_pinpoint: "Art. 3 (worst forms of child labour); Art. 7(2) (effective and time-bound measures for identification and outreach)"
 
-victim_id_tags:
+tags:
   - definition-scope
   - child-victim-identification
   - labour-exploitation-indicators

@@ -18,7 +18,7 @@ The CDPP applies the Prosecution Policy of the Commonwealth to all slavery and t
 
 Prosecution Policy of the Commonwealth (updated 19 July 2021); CDPP Human Trafficking and Slavery prosecution guidance; Witness Assistance Service Referral Guidelines (National Legal Direction)
 
-## Victim Identification Tags
+## Tags
 
 `referral-pathway` · `competent-authority-nrm` · `interviewing-trauma-informed`
 
@@ -45,7 +45,7 @@ summary: >
 
 key_pinpoint: "Prosecution Policy of the Commonwealth (updated 19 July 2021); CDPP Human Trafficking and Slavery prosecution guidance; Witness Assistance Service Referral Guidelines (National Legal Direction)"
 
-victim_id_tags:
+tags:
   - referral-pathway
   - competent-authority-nrm
   - interviewing-trauma-informed

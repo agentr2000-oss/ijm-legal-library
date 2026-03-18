@@ -14,7 +14,7 @@
 
 Third progress report under Article 20 of Directive 2011/36/EU covering 2017–2018 data across the EU-27. Reports that 72% of identified victims are women and girls, nearly one in four victims is a child, and half are EU citizens. Notes that prosecutions and convictions remain low relative to reported victim numbers, underscoring gaps in identification and referral mechanisms.
 
-## Victim Identification Tags
+## Tags
 
 `indicators-screening` · `competent-authority-nrm` · `child-victim-identification` · `sex-trafficking-indicators`
 
@@ -48,7 +48,7 @@ summary: >
 
 key_pinpoint: ""
 
-victim_id_tags:
+tags:
   - indicators-screening
   - competent-authority-nrm
   - child-victim-identification

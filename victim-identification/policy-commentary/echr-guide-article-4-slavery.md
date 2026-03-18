@@ -18,7 +18,7 @@ The Court's own comprehensive guide synthesising its Art. 4 case law, covering t
 
 Sections on positive obligations; identification of victims; investigative duty
 
-## Victim Identification Tags
+## Tags
 
 `definition-scope` · `indicators-screening` · `first-responder-duties`
 
@@ -52,7 +52,7 @@ summary: >
 
 key_pinpoint: "Sections on positive obligations; identification of victims; investigative duty"
 
-victim_id_tags:
+tags:
   - definition-scope
   - indicators-screening
   - first-responder-duties

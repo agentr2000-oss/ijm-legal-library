@@ -18,7 +18,7 @@ Added grant programs for state and local law enforcement training on victim iden
 
 Pub. L. 109-164, §§ 102–204 (grant programs, extraterritorial jurisdiction, juvenile victims)
 
-## Victim Identification Tags
+## Tags
 
 `first-responder-duties` · `indicators-screening` · `child-victim-identification`
 
@@ -51,7 +51,7 @@ summary: >
 
 key_pinpoint: "Pub. L. 109-164, §§ 102–204 (grant programs, extraterritorial jurisdiction, juvenile victims)"
 
-victim_id_tags:
+tags:
   - first-responder-duties
   - indicators-screening
   - child-victim-identification

@@ -18,7 +18,7 @@ Modular training manual for criminal justice practitioners covering victim ident
 
 Module 1 (definitions); Module 4 (control methods); Modules 8–9 (interviewing victims and child victims)
 
-## Victim Identification Tags
+## Tags
 
 `indicators-screening` · `first-responder-duties` · `interviewing-trauma-informed` · `child-victim-identification`
 
@@ -49,7 +49,7 @@ summary: >
 
 key_pinpoint: "Module 1 (definitions); Module 4 (control methods); Modules 8–9 (interviewing victims and child victims)"
 
-victim_id_tags:
+tags:
   - indicators-screening
   - first-responder-duties
   - interviewing-trauma-informed

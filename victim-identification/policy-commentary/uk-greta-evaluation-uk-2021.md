@@ -18,7 +18,7 @@ Council of Europe monitoring body evaluation of the UK's implementation of the A
 
 Sections on NRM delays, child victim identification, legal aid access, and recommendations on recovery/reflection period implementation
 
-## Victim Identification Tags
+## Tags
 
 `competent-authority-nrm` · `child-victim-identification` · `reflection-period-temporary-stay` · `assistance-entitlements` · `cross-border-referral-return`
 
@@ -51,7 +51,7 @@ summary: >
 
 key_pinpoint: "Sections on NRM delays, child victim identification, legal aid access, and recommendations on recovery/reflection period implementation"
 
-victim_id_tags:
+tags:
   - competent-authority-nrm
   - child-victim-identification
   - reflection-period-temporary-stay

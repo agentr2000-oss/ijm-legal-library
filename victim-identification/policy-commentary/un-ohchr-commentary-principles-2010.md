@@ -18,7 +18,7 @@ Detailed commentary elaborating on each of the 2002 OHCHR Recommended Principles
 
 Commentary on Guideline 2 (identification measures); Commentary on Guideline 6 (non-punishment); Commentary on Guideline 8 (special measures for child victims)
 
-## Victim Identification Tags
+## Tags
 
 `first-responder-duties` · `indicators-screening` · `non-punishment-link` · `child-victim-identification`
 
@@ -46,7 +46,7 @@ summary: >
 
 key_pinpoint: "Commentary on Guideline 2 (identification measures); Commentary on Guideline 6 (non-punishment); Commentary on Guideline 8 (special measures for child victims)"
 
-victim_id_tags:
+tags:
   - first-responder-duties
   - indicators-screening
   - non-punishment-link

@@ -18,9 +18,9 @@ Comprehensive CPS prosecution guidance covering modern slavery and trafficking o
 
 Sections on s. 45 defence, duty to obtain early investigative advice, victim identification indicators, and NRM referral obligations
 
-## Victim Identification Tags
+## Tags
 
-`non-punishment-link` · `indicators-screening` · `first-responder-duties` · `referral-pathway`
+`non-punishment-link` · `indicators-screening` · `first-responder-duties` · `referral-pathway` · `statutory-defence-s45`
 
 ## Source
 
@@ -51,11 +51,12 @@ summary: >
 
 key_pinpoint: "Sections on s. 45 defence, duty to obtain early investigative advice, victim identification indicators, and NRM referral obligations"
 
-victim_id_tags:
+tags:
   - non-punishment-link
   - indicators-screening
   - first-responder-duties
   - referral-pathway
+  - statutory-defence-s45
 
 added_by: "Claude Code (initial build)"
 date_added: 2026-03-09

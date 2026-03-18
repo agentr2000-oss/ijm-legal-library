@@ -18,7 +18,7 @@ Major parliamentary inquiry report tabled 18 July 2017 containing 20 recommendat
 
 PJCLE Report, 20 recommendations; Australian Government response (October 2020)
 
-## Victim Identification Tags
+## Tags
 
 `competent-authority-nrm` · `referral-pathway` · `assistance-entitlements` · `definition-scope`
 
@@ -48,7 +48,7 @@ summary: >
 
 key_pinpoint: "PJCLE Report, 20 recommendations; Australian Government response (October 2020)"
 
-victim_id_tags:
+tags:
   - competent-authority-nrm
   - referral-pathway
   - assistance-entitlements

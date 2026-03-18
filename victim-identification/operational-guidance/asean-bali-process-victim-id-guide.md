@@ -18,7 +18,7 @@ Multi-country policy guide endorsed by the Bali Process providing an overview of
 
 Sections on indicators of trafficking, screening procedures, and referral to services
 
-## Victim Identification Tags
+## Tags
 
 `indicators-screening` · `referral-pathway` · `first-responder-duties` · `cross-border-referral-return`
 
@@ -53,7 +53,7 @@ summary: >
 
 key_pinpoint: "Sections on indicators of trafficking, screening procedures, and referral to services"
 
-victim_id_tags:
+tags:
   - indicators-screening
   - referral-pathway
   - first-responder-duties

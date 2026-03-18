@@ -18,7 +18,7 @@ Practical identification guide for front-line police officers, enhancing skills 
 
 Identification indicators by exploitation type; Initial response procedures; Community policing integration
 
-## Victim Identification Tags
+## Tags
 
 `first-responder-duties` · `indicators-screening` · `labour-exploitation-indicators` · `sex-trafficking-indicators`
 
@@ -46,7 +46,7 @@ summary: >
 
 key_pinpoint: "Identification indicators by exploitation type; Initial response procedures; Community policing integration"
 
-victim_id_tags:
+tags:
   - first-responder-duties
   - indicators-screening
   - labour-exploitation-indicators

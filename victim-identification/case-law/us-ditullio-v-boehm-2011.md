@@ -18,7 +18,7 @@ Civil action under the TVPA in which the Ninth Circuit addressed the extraterrit
 
 662 F.3d at 1097–1102 (extraterritorial application, forced labour indicators in civil TVPA claims)
 
-## Victim Identification Tags
+## Tags
 
 `labour-exploitation-indicators` · `cross-border-referral-return`
 
@@ -64,7 +64,7 @@ summary: >
 
 key_pinpoint: "662 F.3d at 1097–1102 (extraterritorial application, forced labour indicators in civil TVPA claims)"
 
-victim_id_tags:
+tags:
   - labour-exploitation-indicators
   - cross-border-referral-return
 

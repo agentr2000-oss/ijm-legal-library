@@ -18,7 +18,7 @@ Comprehensive statutory guidance under s. 49 Modern Slavery Act 2015, covering t
 
 Chapters 4–7 (identification, NRM referral, first responder duties, decision-making)
 
-## Victim Identification Tags
+## Tags
 
 `competent-authority-nrm` · `first-responder-duties` · `indicators-screening` · `referral-pathway` · `reflection-period-temporary-stay`
 
@@ -49,7 +49,7 @@ summary: >
 
 key_pinpoint: "Chapters 4–7 (identification, NRM referral, first responder duties, decision-making)"
 
-victim_id_tags:
+tags:
   - competent-authority-nrm
   - first-responder-duties
   - indicators-screening

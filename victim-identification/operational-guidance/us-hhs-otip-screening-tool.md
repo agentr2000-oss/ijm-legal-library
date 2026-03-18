@@ -18,7 +18,7 @@ Survivor-centred, trauma-informed screening tool developed by HHS OTIP for use b
 
 Screening questions and risk assessment framework; Look-Beneath-the-Surface outreach materials
 
-## Victim Identification Tags
+## Tags
 
 `indicators-screening` · `interviewing-trauma-informed` · `referral-pathway`
 
@@ -49,7 +49,7 @@ summary: >
 
 key_pinpoint: "Screening questions and risk assessment framework; Look-Beneath-the-Surface outreach materials"
 
-victim_id_tags:
+tags:
   - indicators-screening
   - interviewing-trauma-informed
   - referral-pathway

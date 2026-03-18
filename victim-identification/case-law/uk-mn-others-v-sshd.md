@@ -18,7 +18,7 @@ Court of Appeal challenge to the NRM decision-making process and the Competent A
 
 Paras. on Competent Authority's duty to assess expert evidence, credibility assessment standards, and balance of probabilities threshold
 
-## Victim Identification Tags
+## Tags
 
 `competent-authority-nrm` · `indicators-screening` · `referral-pathway`
 
@@ -64,7 +64,7 @@ summary: >
 
 key_pinpoint: "Paras. on Competent Authority's duty to assess expert evidence, credibility assessment standards, and balance of probabilities threshold"
 
-victim_id_tags:
+tags:
   - competent-authority-nrm
   - indicators-screening
   - referral-pathway

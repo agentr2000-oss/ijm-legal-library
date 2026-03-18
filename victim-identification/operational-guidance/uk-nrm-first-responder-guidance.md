@@ -18,7 +18,7 @@ Home Office guidance on the statutory duty to notify under s. 52 of the Modern S
 
 Sections on first responder designation, duty to notify procedures, indicators checklist, and NRM referral form completion
 
-## Victim Identification Tags
+## Tags
 
 `first-responder-duties` · `referral-pathway` · `indicators-screening` · `competent-authority-nrm`
 
@@ -51,7 +51,7 @@ summary: >
 
 key_pinpoint: "Sections on first responder designation, duty to notify procedures, indicators checklist, and NRM referral form completion"
 
-victim_id_tags:
+tags:
   - first-responder-duties
   - referral-pathway
   - indicators-screening

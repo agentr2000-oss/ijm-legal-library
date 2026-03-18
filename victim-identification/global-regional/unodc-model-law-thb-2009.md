@@ -18,7 +18,7 @@ Model legislative provisions designed to assist States in drafting or amending n
 
 Chapter IV (Assistance and protection for victims); Chapter V (Immigration status and repatriation)
 
-## Victim Identification Tags
+## Tags
 
 `definition-scope` · `competent-authority-nrm` · `referral-pathway` · `assistance-entitlements` · `non-punishment-link`
 
@@ -49,7 +49,7 @@ summary: >
 
 key_pinpoint: "Chapter IV (Assistance and protection for victims); Chapter V (Immigration status and repatriation)"
 
-victim_id_tags:
+tags:
   - definition-scope
   - competent-authority-nrm
   - referral-pathway

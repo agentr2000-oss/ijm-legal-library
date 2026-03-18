@@ -18,7 +18,7 @@ Establishes mandatory modern slavery reporting obligations for entities with ann
 
 Sections 4 (definitions of modern slavery), 11–16 (reporting requirements), Part 3 (Anti-Slavery Commissioner)
 
-## Victim Identification Tags
+## Tags
 
 `definition-scope` · `labour-exploitation-indicators`
 
@@ -48,7 +48,7 @@ summary: >
 
 key_pinpoint: "Sections 4 (definitions of modern slavery), 11–16 (reporting requirements), Part 3 (Anti-Slavery Commissioner)"
 
-victim_id_tags:
+tags:
   - definition-scope
   - labour-exploitation-indicators
 

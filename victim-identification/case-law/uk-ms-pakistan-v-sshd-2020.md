@@ -18,7 +18,7 @@ Supreme Court clarified that immigration tribunals are not bound by NRM reasonab
 
 Paras. 17–32 (NRM decision-making standard and tribunal independence), paras. 33–42 (Article 4 ECHR and ECAT obligations)
 
-## Victim Identification Tags
+## Tags
 
 `competent-authority-nrm` · `definition-scope` · `detention-immigration-interface`
 
@@ -51,7 +51,7 @@ summary: >
 
 key_pinpoint: "Paras. 17–32 (NRM decision-making standard and tribunal independence), paras. 33–42 (Article 4 ECHR and ECAT obligations)"
 
-victim_id_tags:
+tags:
   - competent-authority-nrm
   - definition-scope
   - detention-immigration-interface

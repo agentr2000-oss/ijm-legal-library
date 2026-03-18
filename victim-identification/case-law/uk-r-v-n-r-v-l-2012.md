@@ -18,7 +18,7 @@ Foundational Court of Appeal guidance on the treatment of potential trafficking 
 
 Paras. 7–13 (duty to investigate trafficking indicators), paras. 20–24 (CPS obligations and Article 26 ECAT)
 
-## Victim Identification Tags
+## Tags
 
 `non-punishment-link` · `indicators-screening` · `first-responder-duties`
 
@@ -52,7 +52,7 @@ summary: >
 
 key_pinpoint: "Paras. 7–13 (duty to investigate trafficking indicators), paras. 20–24 (CPS obligations and Article 26 ECAT)"
 
-victim_id_tags:
+tags:
   - non-punishment-link
   - indicators-screening
   - first-responder-duties

@@ -18,7 +18,7 @@ Strengthened protections for child trafficking victims, including mandatory scre
 
 Pub. L. 110-457, §§ 212–235 (child screening, unaccompanied minors, domestic worker protections)
 
-## Victim Identification Tags
+## Tags
 
 `child-victim-identification` · `indicators-screening` · `detention-immigration-interface` · `first-responder-duties`
 
@@ -51,7 +51,7 @@ summary: >
 
 key_pinpoint: "Pub. L. 110-457, §§ 212–235 (child screening, unaccompanied minors, domestic worker protections)"
 
-victim_id_tags:
+tags:
   - child-victim-identification
   - indicators-screening
   - detention-immigration-interface

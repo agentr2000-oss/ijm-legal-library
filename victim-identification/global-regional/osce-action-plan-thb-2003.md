@@ -18,7 +18,7 @@ Comprehensive OSCE framework (Permanent Council Decision No. 557) establishing r
 
 Chapter III (Protection and Assistance); Chapter V (NRM recommendations)
 
-## Victim Identification Tags
+## Tags
 
 `competent-authority-nrm` · `first-responder-duties` · `referral-pathway` · `indicators-screening`
 
@@ -46,7 +46,7 @@ summary: >
 
 key_pinpoint: "Chapter III (Protection and Assistance); Chapter V (NRM recommendations)"
 
-victim_id_tags:
+tags:
   - competent-authority-nrm
   - first-responder-duties
   - referral-pathway

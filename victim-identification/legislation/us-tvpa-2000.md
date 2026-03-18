@@ -18,7 +18,7 @@ Foundational US federal anti-trafficking statute. Defines "severe forms of traff
 
 22 USC §§ 7102 (definitions), 7105 (protection and assistance for victims)
 
-## Victim Identification Tags
+## Tags
 
 `definition-scope` · `indicators-screening` · `assistance-entitlements` · `referral-pathway`
 
@@ -48,7 +48,7 @@ summary: >
 
 key_pinpoint: "22 USC §§ 7102 (definitions), 7105 (protection and assistance for victims)"
 
-victim_id_tags:
+tags:
   - definition-scope
   - indicators-screening
   - assistance-entitlements

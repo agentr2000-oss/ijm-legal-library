@@ -18,7 +18,7 @@ Declaration by senior law enforcement leaders from over 25 countries, convened w
 
 Santa Marta Commitment declaration; Pledges on prevention, victim identification, pastoral care, and reintegration
 
-## Victim Identification Tags
+## Tags
 
 `first-responder-duties` · `referral-pathway`
 
@@ -49,7 +49,7 @@ summary: >
 
 key_pinpoint: "Santa Marta Commitment declaration; Pledges on prevention, victim identification, pastoral care, and reintegration"
 
-victim_id_tags:
+tags:
   - first-responder-duties
   - referral-pathway
 

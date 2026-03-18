@@ -12,7 +12,10 @@ Usage:
 import os, sys, re, glob, yaml
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-ENTRY_DIRS = ["victim-identification", "elements-defences", "international-cooperation"]
+ENTRY_DIRS = [
+    "victim-identification", "prosecution", "investigations",
+    "victim-compensation", "elements-defences", "international-cooperation",
+]
 
 BUCKET_LABELS = {
     "legislation": "Legislation",
@@ -45,6 +48,8 @@ DOC_TYPE_LABELS = {
     "toolkit-manual": "Toolkit / Manual",
     "factsheet": "Factsheet",
     "declaration": "Declaration",
+    "database-portal": "Database / Portal",
+    "resource-collection": "Resource Collection",
 }
 
 
@@ -105,11 +110,11 @@ def render_body(fm):
         lines.append(key_pinpoint)
         lines.append("")
 
-    # Victim Identification Tags
-    tags = fm.get("victim_id_tags", [])
+    # Tags
+    tags = fm.get("tags", [])
     if tags:
         tag_str = " · ".join(f"`{t}`" for t in tags)
-        lines.append("## Victim Identification Tags")
+        lines.append("## Tags")
         lines.append("")
         lines.append(tag_str)
         lines.append("")

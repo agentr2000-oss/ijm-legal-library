@@ -18,7 +18,7 @@ Independent review commissioned by the Home Office examining the effectiveness o
 
 Sections on NRM effectiveness, first responder training, regional inconsistencies in identification, and recommended reforms
 
-## Victim Identification Tags
+## Tags
 
 `competent-authority-nrm` · `first-responder-duties` · `indicators-screening`
 
@@ -51,7 +51,7 @@ summary: >
 
 key_pinpoint: "Sections on NRM effectiveness, first responder training, regional inconsistencies in identification, and recommended reforms"
 
-victim_id_tags:
+tags:
   - competent-authority-nrm
   - first-responder-duties
   - indicators-screening

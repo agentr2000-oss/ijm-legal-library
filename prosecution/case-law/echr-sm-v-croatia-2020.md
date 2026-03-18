@@ -18,9 +18,9 @@ Grand Chamber judgment clarifying that forced prostitution and sexual exploitati
 
 Paras. 290–313 (Art. 4 scope covers trafficking and forced prostitution; procedural obligation to investigate)
 
-## Victim Identification Tags
+## Tags
 
-`definition-scope` · `sex-trafficking-indicators` · `first-responder-duties` · `indicators-screening`
+`definition-scope` · `sex-trafficking-indicators` · `first-responder-duties` · `indicators-screening` · `offence-elements`
 
 ## Source
 
@@ -52,11 +52,12 @@ summary: >
 
 key_pinpoint: "Paras. 290–313 (Art. 4 scope covers trafficking and forced prostitution; procedural obligation to investigate)"
 
-victim_id_tags:
+tags:
   - definition-scope
   - sex-trafficking-indicators
   - first-responder-duties
   - indicators-screening
+  - offence-elements
 
 added_by: "Claude Code (initial build)"
 date_added: 2026-03-09

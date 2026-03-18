@@ -18,7 +18,7 @@ First reauthorization of the TVPA. Enhanced victim protections by expanding T vi
 
 Pub. L. 108-193, §§ 4–6 (civil action, T visa expansion, RICO predicate)
 
-## Victim Identification Tags
+## Tags
 
 `definition-scope` · `assistance-entitlements` · `referral-pathway`
 
@@ -51,7 +51,7 @@ summary: >
 
 key_pinpoint: "Pub. L. 108-193, §§ 4–6 (civil action, T visa expansion, RICO predicate)"
 
-victim_id_tags:
+tags:
   - definition-scope
   - assistance-entitlements
   - referral-pathway
