@@ -55,6 +55,71 @@ const THEMES = [
 ];
 const THEME_MAP = THEMES.reduce((a, t) => { a[t.key] = t; return a; }, {});
 
+const THEME_TAGS = {
+  "victim-identification": [
+    { tag: "definition-scope", label: "Definition & Scope" },
+    { tag: "indicators-screening", label: "Indicators & Screening" },
+    { tag: "first-responder-duties", label: "First Responder Duties" },
+    { tag: "competent-authority-nrm", label: "Competent Authority / NRM" },
+    { tag: "referral-pathway", label: "Referral Pathway" },
+    { tag: "child-victim-identification", label: "Child Victim Identification" },
+    { tag: "labour-exploitation-indicators", label: "Labour Exploitation Indicators" },
+    { tag: "sex-trafficking-indicators", label: "Sex Trafficking Indicators" },
+    { tag: "interviewing-trauma-informed", label: "Interviewing (Trauma-Informed)" },
+    { tag: "detention-immigration-interface", label: "Detention / Immigration" },
+    { tag: "reflection-period-temporary-stay", label: "Reflection Period / Temporary Stay" },
+    { tag: "assistance-entitlements", label: "Assistance & Entitlements" },
+    { tag: "data-protection-confidentiality", label: "Data Protection" },
+    { tag: "non-punishment-link", label: "Non-Punishment Principle" },
+    { tag: "cross-border-referral-return", label: "Cross-Border Referral & Return" },
+  ],
+  "prosecution": [
+    { tag: "element-act", label: "Element — Act" },
+    { tag: "element-means", label: "Element — Means" },
+    { tag: "element-purpose", label: "Element — Purpose" },
+    { tag: "consent-irrelevance", label: "Consent Irrelevance" },
+    { tag: "defences", label: "Defences" },
+    { tag: "statutory-defence-s45", label: "Statutory Defence (s.45)" },
+    { tag: "abuse-of-process", label: "Abuse of Process" },
+    { tag: "non-punishment-link", label: "Non-Punishment Principle" },
+    { tag: "evidence-corroboration", label: "Evidence & Corroboration" },
+    { tag: "victimless-prosecution", label: "Victimless Prosecution" },
+    { tag: "sentencing-penalty", label: "Sentencing & Penalty" },
+  ],
+  "investigations": [
+    { tag: "proactive-intelligence", label: "Proactive Intelligence" },
+    { tag: "financial-investigation", label: "Financial Investigation" },
+    { tag: "crime-scene-evidence", label: "Crime Scene & Evidence" },
+    { tag: "victim-engagement-interview", label: "Victim Engagement / Interview" },
+    { tag: "multi-agency-cooperation", label: "Multi-Agency Cooperation" },
+    { tag: "digital-forensics", label: "Digital Forensics" },
+    { tag: "threat-assessment", label: "Threat Assessment" },
+  ],
+  "sentencing": [
+    { tag: "sentencing-guidelines", label: "Sentencing Guidelines" },
+    { tag: "sentencing-principles", label: "Sentencing Principles" },
+    { tag: "confiscation-forfeiture", label: "Confiscation & Forfeiture" },
+  ],
+  "victim-compensation": [
+    { tag: "mandatory-restitution", label: "Mandatory Restitution" },
+    { tag: "civil-remedy", label: "Civil Remedy" },
+    { tag: "reparation-order", label: "Reparation Orders" },
+    { tag: "compensation-fund", label: "Compensation Funds" },
+  ],
+  "trauma-informed-courtroom-practice": [
+    { tag: "special-measures", label: "Special Measures" },
+    { tag: "witness-protection", label: "Witness Protection" },
+    { tag: "judicial-directions", label: "Judicial Directions" },
+    { tag: "trauma-informed-approach", label: "Trauma-Informed Approach" },
+  ],
+  "international-cooperation": [
+    { tag: "mutual-legal-assistance", label: "Mutual Legal Assistance" },
+    { tag: "joint-investigation-team", label: "Joint Investigation Teams" },
+    { tag: "extradition-transfer", label: "Extradition & Transfer" },
+    { tag: "country-assessment", label: "Country Assessments" },
+  ],
+};
+
 const BUCKET_LABELS = {
   "legislation": "Legislation & Regulations",
   "case-law": "Case Law",
@@ -162,21 +227,67 @@ function Card({ r, open, toggle }) {
   );
 }
 
+/* ── tag sub-section (within a theme) ── */
+
+function TagSubSection({ label, color, items, openIds, toggle, defaultOpen }) {
+  const [show, setShow] = useState(false);
+  const isOpen = defaultOpen || show;
+  return (
+    <div style={{ marginBottom: 1 }}>
+      <div onClick={() => setShow(!isOpen)} style={{ cursor: "pointer", display: "flex", alignItems: "center", gap: 8, padding: "8px 12px", backgroundColor: isOpen ? color + "0d" : "transparent", borderLeft: "3px solid " + color + "40", transition: "all 0.15s", borderRadius: "0 3px 3px 0", marginLeft: 0 }}>
+        <span style={{ fontFamily: "monospace", fontSize: 12, color: color + "99", width: 14, flexShrink: 0, userSelect: "none" }}>{isOpen ? "▾" : "▸"}</span>
+        <span style={{ fontSize: 13, fontWeight: 600, color: "#1a1a2e", flex: 1 }}>{label}</span>
+        <span style={{ fontSize: 10.5, color: "#999", fontWeight: 500 }}>{items.length}</span>
+      </div>
+      {isOpen && (
+        <div style={{ paddingLeft: 18 }}>
+          {items.map(r => <Card key={r.file} r={r} open={openIds.has(r.file)} toggle={() => toggle(r.file)} />)}
+        </div>
+      )}
+    </div>
+  );
+}
+
 /* ── collapsible section ── */
 
-function Section({ label, icon, color, items, openIds, toggle }) {
+function Section({ label, icon, color, items, openIds, toggle, themeKey, expandAll }) {
   const [show, setShow] = useState(false);
+  const isOpen = expandAll || show;
+
+  // Build tag sub-sections for theme view
+  const tagDefs = themeKey ? THEME_TAGS[themeKey] : null;
+  const tagSubSections = useMemo(() => {
+    if (!tagDefs) return null;
+    const tagSet = new Set(tagDefs.map(td => td.tag));
+    const sections = tagDefs
+      .map(td => ({
+        tag: td.tag,
+        label: td.label,
+        items: items.filter(r => (r.tags || []).includes(td.tag)),
+      }))
+      .filter(s => s.items.length > 0);
+    const otherItems = items.filter(r => !(r.tags || []).some(t => tagSet.has(t)));
+    if (otherItems.length > 0) {
+      sections.push({ tag: "_other", label: "Other", items: otherItems });
+    }
+    return sections;
+  }, [tagDefs, items]);
+
   return (
     <div style={{ marginBottom: 2 }}>
-      <div onClick={() => setShow(!show)} style={{ cursor: "pointer", display: "flex", alignItems: "center", gap: 10, padding: "12px 16px", backgroundColor: show ? color : "#fafaf8", borderLeft: "4px solid " + color, transition: "all 0.15s", borderRadius: "0 4px 4px 0", marginBottom: 1 }}>
-        <span style={{ fontSize: 18, opacity: 0.7, color: show ? "#fff" : color, width: 22, textAlign: "center" }}>{icon}</span>
-        <span style={{ fontSize: 14, fontWeight: 700, color: show ? "#fff" : "#1a1a2e", flex: 1 }}>{label}</span>
-        <span style={{ fontSize: 11, color: show ? "rgba(255,255,255,0.7)" : "#999", fontWeight: 500 }}>{items.length} item{items.length !== 1 ? "s" : ""}</span>
-        <span style={{ fontFamily: "monospace", fontSize: 13, color: show ? "#fff" : "#aaa", userSelect: "none" }}>{show ? "▾" : "▸"}</span>
+      <div onClick={() => setShow(!isOpen)} style={{ cursor: "pointer", display: "flex", alignItems: "center", gap: 10, padding: "12px 16px", backgroundColor: isOpen ? color : "#fafaf8", borderLeft: "4px solid " + color, transition: "all 0.15s", borderRadius: "0 4px 4px 0", marginBottom: 1 }}>
+        <span style={{ fontSize: 18, opacity: 0.7, color: isOpen ? "#fff" : color, width: 22, textAlign: "center" }}>{icon}</span>
+        <span style={{ fontSize: 14, fontWeight: 700, color: isOpen ? "#fff" : "#1a1a2e", flex: 1 }}>{label}</span>
+        <span style={{ fontSize: 11, color: isOpen ? "rgba(255,255,255,0.7)" : "#999", fontWeight: 500 }}>{items.length} item{items.length !== 1 ? "s" : ""}</span>
+        <span style={{ fontFamily: "monospace", fontSize: 13, color: isOpen ? "#fff" : "#aaa", userSelect: "none" }}>{isOpen ? "▾" : "▸"}</span>
       </div>
-      {show && (
+      {isOpen && (
         <div style={{ padding: "4px 16px 8px 42px", backgroundColor: "#fff", borderLeft: "4px solid " + color + "20", borderRadius: "0 0 4px 0" }}>
-          {items.map(r => <Card key={r.file} r={r} open={openIds.has(r.file)} toggle={() => toggle(r.file)} />)}
+          {tagSubSections ? (
+            tagSubSections.map(s => <TagSubSection key={s.tag} label={s.label} color={color} items={s.items} openIds={openIds} toggle={toggle} defaultOpen={expandAll} />)
+          ) : (
+            items.map(r => <Card key={r.file} r={r} open={openIds.has(r.file)} toggle={() => toggle(r.file)} />)
+          )}
         </div>
       )}
     </div>
@@ -240,13 +351,14 @@ function App() {
     if (view === "theme") {
       return themeKeys.map(t => {
         const info = THEME_MAP[t] || { label: t, icon: "•", color: "#555" };
-        return { label: info.label, icon: info.icon, color: info.color, items: filtered.filter(r => deriveTheme(r.file) === t) };
+        return { label: info.label, icon: info.icon, color: info.color, themeKey: t, items: filtered.filter(r => deriveTheme(r.file) === t) };
       }).filter(g => g.items.length);
     }
     return jurisdictions.map(j => ({
       label: JURIS_LABELS[j] || j,
       icon: "",
       color: JURIS_COLORS[j] || "#555",
+      themeKey: null,
       items: filtered.filter(r => r.jurisdiction === j)
     })).filter(g => g.items.length);
   }, [view, filtered, themeKeys, jurisdictions]);
@@ -311,7 +423,7 @@ function App() {
           {/* content */}
           {groups.length === 0 ? (
             <div style={{ textAlign: "center", padding: 40, color: "#999", fontFamily: sans, fontSize: 14 }}>No resources match your search and filters.</div>
-          ) : groups.map(g => <Section key={g.label} label={g.label} icon={g.icon} color={g.color} items={g.items} openIds={active} toggle={toggle} />)}
+          ) : groups.map(g => <Section key={g.label} label={g.label} icon={g.icon} color={g.color} items={g.items} openIds={active} toggle={toggle} themeKey={g.themeKey} expandAll={expandAll} />)}
         </>
       )}
 
