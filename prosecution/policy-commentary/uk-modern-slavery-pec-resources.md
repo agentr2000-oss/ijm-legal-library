@@ -20,7 +20,7 @@ UK independent research centre. Key publications include prosecution barriers an
 
 ## Tags
 
-`offence-elements` · `victimless-prosecution` · `evidence-corroboration`
+`element-act` · `victimless-prosecution` · `evidence-corroboration`
 
 ## Source
 
@@ -46,7 +46,7 @@ summary: >
 key_pinpoint: "2025 prosecution barriers report; NRM analysis; policy briefs for practitioners"
 
 tags:
-  - offence-elements
+  - element-act
   - victimless-prosecution
   - evidence-corroboration
 

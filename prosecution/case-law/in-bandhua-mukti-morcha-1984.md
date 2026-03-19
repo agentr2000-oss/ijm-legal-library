@@ -20,7 +20,7 @@ Art. 21 includes socioeconomic minima; Art. 23 directly enforceable; State's aff
 
 ## Tags
 
-`definition-scope` · `labour-exploitation-indicators` · `offence-elements`
+`definition-scope` · `labour-exploitation-indicators` · `element-means`
 
 ## Source
 
@@ -48,7 +48,7 @@ key_pinpoint: "Art. 21 includes socioeconomic minima; Art. 23 directly enforceab
 tags:
   - definition-scope
   - labour-exploitation-indicators
-  - offence-elements
+  - element-means
 
 added_by: "Claude (import from resources.json)"
 date_added: 2026-03-18

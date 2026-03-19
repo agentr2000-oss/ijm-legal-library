@@ -20,7 +20,7 @@ Prosecution of 18 USC §§1589–1592; coordination with FBI/HSI; restitution un
 
 ## Tags
 
-`offence-elements` · `sentencing-penalty` · `evidence-corroboration`
+`element-act` · `sentencing-penalty` · `evidence-corroboration`
 
 ## Source
 
@@ -46,7 +46,7 @@ summary: >
 key_pinpoint: "Prosecution of 18 USC §§1589–1592; coordination with FBI/HSI; restitution under §1593"
 
 tags:
-  - offence-elements
+  - element-act
   - sentencing-penalty
   - evidence-corroboration
 

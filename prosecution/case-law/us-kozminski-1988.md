@@ -20,7 +20,7 @@ US Supreme Court case defining "involuntary servitude" under 18 USC § 1584, nar
 
 ## Tags
 
-`definition-scope` · `labour-exploitation-indicators` · `offence-elements`
+`definition-scope` · `labour-exploitation-indicators` · `element-means`
 
 ## Access
 
@@ -66,7 +66,7 @@ key_pinpoint: "487 U.S. at 944–952 (definition of involuntary servitude and co
 tags:
   - definition-scope
   - labour-exploitation-indicators
-  - offence-elements
+  - element-means
 
 added_by: "Claude (initial build)"
 date_added: 2026-03-07

@@ -20,7 +20,7 @@ Evidential patterns; corroboration approaches; financial evidence as exploitatio
 
 ## Tags
 
-`evidence-corroboration` · `offence-elements` · `victimless-prosecution`
+`evidence-corroboration` · `element-means` · `element-purpose` · `consent-irrelevance` · `victimless-prosecution`
 
 ## Source
 
@@ -47,7 +47,9 @@ key_pinpoint: "Evidential patterns; corroboration approaches; financial evidence
 
 tags:
   - evidence-corroboration
-  - offence-elements
+  - element-means
+  - element-purpose
+  - consent-irrelevance
   - victimless-prosecution
 
 added_by: "Claude (import from resources.json)"

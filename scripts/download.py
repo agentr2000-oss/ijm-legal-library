@@ -19,6 +19,7 @@ DOCS_DIR = REPO_ROOT / "docs"
 ENTRY_DIRS = [
     "victim-identification", "prosecution", "investigations",
     "victim-compensation", "elements-defences", "international-cooperation",
+    "sentencing", "trauma-informed-courtroom-practice",
 ]
 USER_AGENT = "IJM-Legal-Library/1.0 (research; non-commercial)"
 

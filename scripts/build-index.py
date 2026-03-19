@@ -14,6 +14,7 @@ REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ENTRY_DIRS = [
     "victim-identification", "prosecution", "investigations",
     "victim-compensation", "elements-defences", "international-cooperation",
+    "sentencing", "trauma-informed-courtroom-practice",
 ]
 
 THEME_LABELS = {
@@ -23,6 +24,8 @@ THEME_LABELS = {
     "victim-compensation": "Victim Compensation",
     "elements-defences": "Elements & Defences (Evidence & Proof)",
     "international-cooperation": "International Cooperation",
+    "sentencing": "Sentencing",
+    "trauma-informed-courtroom-practice": "Trauma-Informed Courtroom Practice",
 }
 BUCKET_ORDER = [
     "legislation", "case-law", "prosecution-procedure",

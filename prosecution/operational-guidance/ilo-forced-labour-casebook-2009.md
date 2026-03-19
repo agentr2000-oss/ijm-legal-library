@@ -20,7 +20,7 @@ Cases by region; comparative offence elements; judicial reasoning on forced labo
 
 ## Tags
 
-`offence-elements` · `evidence-corroboration` · `labour-exploitation-indicators`
+`element-act` · `element-means` · `element-purpose` · `evidence-corroboration` · `labour-exploitation-indicators`
 
 ## Source
 
@@ -46,7 +46,9 @@ summary: >
 key_pinpoint: "Cases by region; comparative offence elements; judicial reasoning on forced labour across jurisdictions"
 
 tags:
-  - offence-elements
+  - element-act
+  - element-means
+  - element-purpose
   - evidence-corroboration
   - labour-exploitation-indicators
 

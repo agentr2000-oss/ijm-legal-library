@@ -47,7 +47,9 @@ const THEMES = [
   { key: "victim-identification", label: "Victim Identification", icon: "◉", color: "#5c3d2e" },
   { key: "prosecution", label: "Prosecution", icon: "⚖", color: "#4a1942" },
   { key: "investigations", label: "Investigations", icon: "⛨", color: "#2d4a3e" },
+  { key: "sentencing", label: "Sentencing", icon: "⚑", color: "#6b2d5b" },
   { key: "victim-compensation", label: "Victim Compensation", icon: "₿", color: "#614a19" },
+  { key: "trauma-informed-courtroom-practice", label: "Trauma-Informed Courtroom Practice", icon: "♡", color: "#8b4513" },
   { key: "elements-defences", label: "Elements & Defences", icon: "§", color: "#1e3a5f" },
   { key: "international-cooperation", label: "International Cooperation", icon: "⊕", color: "#1a3a4a" },
 ];
@@ -79,8 +81,10 @@ const JURIS_LABELS = {
   US: "United States", UK: "United Kingdom", AU: "Australia", IN: "India",
   EU: "European Union", ECHR: "ECHR", ASEAN: "ASEAN",
   UN: "United Nations", ILO: "ILO", UNODC: "UNODC", OSCE: "OSCE", Global: "Global",
+  CA: "Canada", FR: "France", NL: "Netherlands", BR: "Brazil",
+  PH: "Philippines", ZA: "South Africa", ICC: "ICC / Tribunals",
 };
-const JURISDICTION_ORDER = ["US", "UK", "AU", "IN", "EU", "ECHR", "UN", "ILO", "UNODC", "OSCE", "ASEAN", "Global"];
+const JURISDICTION_ORDER = ["US", "UK", "CA", "AU", "IN", "FR", "NL", "BR", "PH", "ZA", "EU", "ECHR", "ICC", "UN", "ILO", "UNODC", "OSCE", "ASEAN", "Global"];
 
 const TYPE_COLORS = {
   Legislation: { bg: "#e8eef6", fg: "#1e3a5f" }, Treaty: { bg: "#e8eef6", fg: "#1e3a5f" },
@@ -88,7 +92,7 @@ const TYPE_COLORS = {
   Toolkit: { bg: "#f5f0e1", fg: "#614a19" }, Report: { bg: "#f0e8e4", fg: "#5c3d2e" },
   Database: { bg: "#e4f0ed", fg: "#1a4a3a" }, Resource: { bg: "#f0ece4", fg: "#4a3a1a" },
 };
-const JURIS_COLORS = { US: "#1a3669", UK: "#69211a", AU: "#1a5c3d", IN: "#8b5c00", EU: "#003399", ECHR: "#003366", UN: "#4b92db", ILO: "#1a4a6e", UNODC: "#1a4a3a", OSCE: "#005b96", ASEAN: "#003f87", Global: "#444" };
+const JURIS_COLORS = { US: "#1a3669", UK: "#69211a", AU: "#1a5c3d", IN: "#8b5c00", EU: "#003399", ECHR: "#003366", UN: "#4b92db", ILO: "#1a4a6e", UNODC: "#1a4a3a", OSCE: "#005b96", ASEAN: "#003f87", Global: "#444", CA: "#c41e3a", FR: "#002395", NL: "#ff6600", BR: "#009c3b", PH: "#0038a8", ZA: "#007749", ICC: "#5b2c6f" };
 
 /* ── helpers ── */
 

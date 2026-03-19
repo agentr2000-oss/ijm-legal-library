@@ -20,7 +20,7 @@ Paras. 290–313 (Art. 4 scope covers trafficking and forced prostitution; proce
 
 ## Tags
 
-`definition-scope` · `sex-trafficking-indicators` · `first-responder-duties` · `indicators-screening` · `offence-elements`
+`definition-scope` · `sex-trafficking-indicators` · `first-responder-duties` · `indicators-screening` · `element-means`
 
 ## Source
 
@@ -57,7 +57,7 @@ tags:
   - sex-trafficking-indicators
   - first-responder-duties
   - indicators-screening
-  - offence-elements
+  - element-means
 
 added_by: "Claude Code (initial build)"
 date_added: 2026-03-09

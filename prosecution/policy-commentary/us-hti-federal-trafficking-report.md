@@ -20,7 +20,7 @@ Exhaustive case database; interactive visualizations; state-by-state summaries; 
 
 ## Tags
 
-`offence-elements` · `sentencing-penalty` · `evidence-corroboration`
+`element-act` · `sentencing-penalty` · `evidence-corroboration`
 
 ## Source
 
@@ -46,7 +46,7 @@ summary: >
 key_pinpoint: "Exhaustive case database; interactive visualizations; state-by-state summaries; trends since 2000"
 
 tags:
-  - offence-elements
+  - element-act
   - sentencing-penalty
   - evidence-corroboration
 

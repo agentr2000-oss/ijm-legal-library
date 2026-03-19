@@ -15,6 +15,13 @@ jurisdictions:
   - UNODC
   - OSCE
   - Global
+  - CA
+  - FR
+  - NL
+  - BR
+  - PH
+  - ZA
+  - ICC
 
 thematic_folders:
   - victim-identification
@@ -23,6 +30,8 @@ thematic_folders:
   - victim-compensation
   - elements-defences
   - international-cooperation
+  - sentencing
+  - trauma-informed-courtroom-practice
 
 buckets:
   - legislation
@@ -101,8 +110,12 @@ tags:
   - data-protection-confidentiality
   - non-punishment-link
   - cross-border-referral-return
-  # Prosecution
-  - offence-elements
+  # Prosecution — Elements
+  - element-act
+  - element-means
+  - element-purpose
+  - consent-irrelevance
+  - defences
   - statutory-defence-s45
   - evidence-corroboration
   - sentencing-penalty
@@ -114,6 +127,17 @@ tags:
   - crime-scene-evidence
   - victim-engagement-interview
   - multi-agency-cooperation
+  - digital-forensics
+  - threat-assessment
+  # Sentencing
+  - sentencing-guidelines
+  - sentencing-principles
+  - confiscation-forfeiture
+  # Courtroom Practice
+  - special-measures
+  - witness-protection
+  - judicial-directions
+  - trauma-informed-approach
   # Compensation
   - mandatory-restitution
   - civil-remedy

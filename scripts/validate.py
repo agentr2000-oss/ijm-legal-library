@@ -12,6 +12,8 @@ ENTRY_DIRS = [
     "victim-compensation",
     "elements-defences",
     "international-cooperation",
+    "sentencing",
+    "trauma-informed-courtroom-practice",
 ]
 
 REQUIRED_FIELDS = [

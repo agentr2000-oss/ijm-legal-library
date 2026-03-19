@@ -15,6 +15,7 @@ REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ENTRY_DIRS = [
     "victim-identification", "prosecution", "investigations",
     "victim-compensation", "elements-defences", "international-cooperation",
+    "sentencing", "trauma-informed-courtroom-practice",
 ]
 
 BUCKET_LABELS = {
