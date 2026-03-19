@@ -339,8 +339,8 @@ function App() {
     if (fJuris !== "All") a = a.filter(r => r.jurisdiction === fJuris);
     if (fTheme !== "All") a = a.filter(r => deriveTheme(r.file) === fTheme);
     if (q.trim()) {
-      const lc = q.toLowerCase();
-      a = a.filter(r => [r.title, r.summary, r.key_pinpoint || "", r.jurisdiction, r.issuing_body || "", ...(r.tags || [])].some(s => (s || "").toLowerCase().includes(lc)));
+      const lc = q.toLowerCase().replace(/-/g, " ");
+      a = a.filter(r => [r.title, r.summary, r.key_pinpoint || "", r.jurisdiction, r.issuing_body || "", ...(r.tags || [])].some(s => (s || "").toLowerCase().replace(/-/g, " ").includes(lc)));
     }
     return a;
   }, [data, fJuris, fTheme, q]);
