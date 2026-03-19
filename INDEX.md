@@ -20,11 +20,11 @@
 | OSCE | 5 |
 | Global | 4 |
 | ICC | 4 |
-| PH | 2 |
 | BR | 2 |
+| PH | 2 |
+| FR | 1 |
 | NL | 1 |
 | ZA | 1 |
-| FR | 1 |
 
 ## Victim Identification
 
@@ -147,18 +147,18 @@
 
 **US**
 
-- 🔓 **[Trafficking Victims Protection Act of 2000 (TVPA)](https://uscode.house.gov/view.xhtml?path=/prelim@title22/chapter78&edition=prelim)** (act-statute, 2000-10-28)
-  - *Foundational US federal anti-trafficking statute. Defines "severe forms of trafficking in persons" (sex trafficking by force/fraud/coercion and labour trafficking), establishing the definitional framework for victim identification. Mandates federal agency coordination on victim identification and creates T visa pathway for identified victims.
-*
-  - Tags: `definition-scope`, `indicators-screening`, `assistance-entitlements`, `referral-pathway`
-  - Entry: [`victim-identification/legislation/us-tvpa-2000.md`](victim-identification/legislation/us-tvpa-2000.md)
-
 - 🔓 **[18 USC §§ 1589–1592 (Forced Labour, Trafficking, Document Servitude)](https://www.law.cornell.edu/uscode/text/18/part-I/chapter-77)** (act-statute, 2000-10-28)
   - *Core federal criminal provisions defining forced labour (§ 1589), trafficking with respect to peonage, slavery, involuntary servitude, or forced labour (§ 1590), sex trafficking of children or by force, fraud, or coercion (§ 1591), and unlawful conduct with respect to identity documents in furtherance of trafficking (§ 1592). These sections provide the definitional framework courts apply when identifying trafficking victims.
 *
   - Tags: `definition-scope`, `labour-exploitation-indicators`, `sex-trafficking-indicators`
   - Entry: [`victim-identification/legislation/us-18-usc-1589-1592.md`](victim-identification/legislation/us-18-usc-1589-1592.md)
   - Source file: [`docs/victim-identification/legislation/us-18-usc-1589-1592.html`](docs/victim-identification/legislation/us-18-usc-1589-1592.html)
+
+- 🔓 **[Trafficking Victims Protection Act of 2000 (TVPA)](https://uscode.house.gov/view.xhtml?path=/prelim@title22/chapter78&edition=prelim)** (act-statute, 2000-10-28)
+  - *Foundational US federal anti-trafficking statute. Defines "severe forms of trafficking in persons" (sex trafficking by force/fraud/coercion and labour trafficking), establishing the definitional framework for victim identification. Mandates federal agency coordination on victim identification and creates T visa pathway for identified victims.
+*
+  - Tags: `definition-scope`, `indicators-screening`, `assistance-entitlements`, `referral-pathway`
+  - Entry: [`victim-identification/legislation/us-tvpa-2000.md`](victim-identification/legislation/us-tvpa-2000.md)
 
 - 🔓 **[8 CFR § 214.11 — T Visa Regulation (Nonimmigrant Victims of Severe Forms of Trafficking)](https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-214/subpart-A/section-214.11)** (regulation-rule, 2002-01-31)
   - *Regulation governing T nonimmigrant status for victims of severe forms of trafficking. Establishes evidentiary standards for victim identification in T visa adjudication, including what constitutes a "severe form of trafficking in persons" and how applicants demonstrate physical presence due to trafficking. Current T visa rules are in Subpart C of 8 CFR Part 214.
@@ -433,18 +433,18 @@
 
 **AU**
 
-- 🔓 **[DSS Support for Trafficked People Program (STPP) Guidelines](https://www.dss.gov.au/human-trafficking-and-slavery/support-trafficked-people-program)** (guideline-sop, 2020-01-01)
-  - *Program guidelines for the Support for Trafficked People Program (STPP), a key component of Australia's National Action Plan to Combat Modern Slavery 2020-25, administered by DSS and delivered by the Australian Red Cross. The STPP provides multiple support streams: the Intensive Support Stream (90 days, regardless of law enforcement cooperation), the Forced Marriage Support Stream (up to 200 days), and a Transition Stream (20 working days). Since July 2024, a pilot assessment and referral pathway allows victims to access support without engaging with law enforcement. These guidelines are essential for understanding post-identification victim support and entitlements.
-*
-  - Tags: `assistance-entitlements`, `referral-pathway`, `reflection-period-temporary-stay`
-  - Entry: [`victim-identification/operational-guidance/au-dss-support-trafficked-people.md`](victim-identification/operational-guidance/au-dss-support-trafficked-people.md)
-
 - 🔓 **[AFP Guide: Indicators of Human Trafficking and Slavery](https://www.afp.gov.au/crimes/human-trafficking-and-people-smuggling/human-trafficking-and-slavery)** (guideline-sop, 2020-01-01)
   - *The AFP's operational guidance on indicators of human trafficking and slavery, including the "Look a Little Deeper" awareness program designed to train law enforcement and front-line responders. The guide sets out general indicators (violence or threats, confiscation of identity documents, restricted movement, limited contact with family) and specific indicators for forced labour (no labour contract, no access to earnings, excessive work hours, unsuitable living conditions, inability to leave premises without escort). No single indicator is determinative; each case must be assessed holistically.
 *
   - Tags: `indicators-screening`, `first-responder-duties`, `labour-exploitation-indicators`, `sex-trafficking-indicators`
   - Entry: [`victim-identification/operational-guidance/au-afp-trafficking-indicators.md`](victim-identification/operational-guidance/au-afp-trafficking-indicators.md)
   - Source file: [`docs/victim-identification/operational-guidance/au-afp-trafficking-indicators.html`](docs/victim-identification/operational-guidance/au-afp-trafficking-indicators.html)
+
+- 🔓 **[DSS Support for Trafficked People Program (STPP) Guidelines](https://www.dss.gov.au/human-trafficking-and-slavery/support-trafficked-people-program)** (guideline-sop, 2020-01-01)
+  - *Program guidelines for the Support for Trafficked People Program (STPP), a key component of Australia's National Action Plan to Combat Modern Slavery 2020-25, administered by DSS and delivered by the Australian Red Cross. The STPP provides multiple support streams: the Intensive Support Stream (90 days, regardless of law enforcement cooperation), the Forced Marriage Support Stream (up to 200 days), and a Transition Stream (20 working days). Since July 2024, a pilot assessment and referral pathway allows victims to access support without engaging with law enforcement. These guidelines are essential for understanding post-identification victim support and entitlements.
+*
+  - Tags: `assistance-entitlements`, `referral-pathway`, `reflection-period-temporary-stay`
+  - Entry: [`victim-identification/operational-guidance/au-dss-support-trafficked-people.md`](victim-identification/operational-guidance/au-dss-support-trafficked-people.md)
 
 - 🔓 **[Australian Red Cross: Support for Trafficked People Program — Casework and Service Delivery Guidelines](https://www.redcross.org.au/migration/support-for-trafficked-people/)** (guideline-sop, 2020-01-01)
   - *Operational guidelines for the Australian Red Cross's delivery of the Support for Trafficked People Program (STPP), funded by the Department of Social Services. The Red Cross provides person-centred, individual case management through a dedicated caseworker, including assistance with accommodation, medical treatment, counselling, legal and migration advice referrals, skills development, and social support. Dependent children of trafficked persons may receive assistance with childcare, schooling, and medical support. The guidelines reflect a trauma-informed approach to post-identification victim support delivery.
@@ -475,19 +475,19 @@
 
 **ILO**
 
-- 🔓 **[ILO Indicators of Forced Labour (2012)](https://www.ilo.org/publications/ilo-indicators-forced-labour)** (guideline-sop, 2012)
-  - *Establishes eleven operational indicators of forced labour derived from the ILO Convention No. 29 definition, covering abuse of vulnerability, deception, restriction of movement, isolation, physical and sexual violence, intimidation and threats, retention of identity documents, withholding of wages, debt bondage, abusive working and living conditions, and excessive overtime. These indicators form the basis of most national and international forced-labour screening tools used for front-line victim identification.
-*
-  - Tags: `indicators-screening`, `labour-exploitation-indicators`, `first-responder-duties`
-  - Entry: [`victim-identification/operational-guidance/ilo-indicators-forced-labour-2012.md`](victim-identification/operational-guidance/ilo-indicators-forced-labour-2012.md)
-  - Source file: [`docs/victim-identification/operational-guidance/ilo-indicators-forced-labour-2012.html`](docs/victim-identification/operational-guidance/ilo-indicators-forced-labour-2012.html)
-
 - 🔓 **[ILO: Hard to See, Harder to Count — Survey Guidelines to Estimate Forced Labour of Adults and Children (2012)](https://www.ilo.org/publications/hard-see-harder-count-survey-guidelines-estimate-forced-labour-adults-and-0)** (toolkit-manual, 2012)
   - *Provides the first comprehensive operational methodology for forced-labour prevalence surveys, including sampling techniques, an operational definition of forced labour for survey purposes, and a minimum question set for assessing forced-labour situations. Directly relevant to victim identification as it establishes the survey-based methods that underpin global estimates and guide proactive identification of hidden forced-labour populations.
 *
   - Tags: `indicators-screening`, `labour-exploitation-indicators`
   - Entry: [`victim-identification/operational-guidance/ilo-hard-to-see-harder-to-count-2012.md`](victim-identification/operational-guidance/ilo-hard-to-see-harder-to-count-2012.md)
   - Source file: [`docs/victim-identification/operational-guidance/ilo-hard-to-see-harder-to-count-2012.html`](docs/victim-identification/operational-guidance/ilo-hard-to-see-harder-to-count-2012.html)
+
+- 🔓 **[ILO Indicators of Forced Labour (2012)](https://www.ilo.org/publications/ilo-indicators-forced-labour)** (guideline-sop, 2012)
+  - *Establishes eleven operational indicators of forced labour derived from the ILO Convention No. 29 definition, covering abuse of vulnerability, deception, restriction of movement, isolation, physical and sexual violence, intimidation and threats, retention of identity documents, withholding of wages, debt bondage, abusive working and living conditions, and excessive overtime. These indicators form the basis of most national and international forced-labour screening tools used for front-line victim identification.
+*
+  - Tags: `indicators-screening`, `labour-exploitation-indicators`, `first-responder-duties`
+  - Entry: [`victim-identification/operational-guidance/ilo-indicators-forced-labour-2012.md`](victim-identification/operational-guidance/ilo-indicators-forced-labour-2012.md)
+  - Source file: [`docs/victim-identification/operational-guidance/ilo-indicators-forced-labour-2012.html`](docs/victim-identification/operational-guidance/ilo-indicators-forced-labour-2012.html)
 
 - 🔓 **[ILO General Principles and Operational Guidelines for Fair Recruitment and Definition of Recruitment Fees and Related Costs](https://www.ilo.org/topics-and-sectors/fair-recruitment/fair-recruitment-initiative)** (guideline-sop, 2019)
   - *Establishes principles and operational indicators for fair recruitment practices, defining prohibited recruitment fees and related costs that serve as red flags for trafficking and forced labour. Provides a framework for identifying exploitation at the recruitment stage, enabling earlier victim identification before exploitation is fully entrenched.
@@ -808,18 +808,18 @@
 
 **ASEAN**
 
+- 🔓 **[ASEAN Convention Against Trafficking in Persons, Especially Women and Children (ACTIP)](https://asean.org/asean-convention-against-trafficking-in-persons-especially-women-and-children/)** (convention-treaty, 2015-11-21)
+  - *The first legally binding regional instrument on trafficking in the ASEAN region. Article 14 requires state parties to establish measures for the identification of victims, including through cooperation with NGOs. Articles 14–16 set out victim identification triggers, protection obligations, and assistance entitlements that apply once a person is identified as a victim or presumed victim of trafficking.
+*
+  - Tags: `definition-scope`, `indicators-screening`, `assistance-entitlements`, `cross-border-referral-return`
+  - Entry: [`victim-identification/global-regional/asean-actip-2015.md`](victim-identification/global-regional/asean-actip-2015.md)
+
 - 🔓 **[ASEAN Plan of Action Against Trafficking in Persons, Especially Women and Children (2015-2020)](https://asean.org/wp-content/uploads/2021/01/ASEAN-Convention-Against-Trafficking-in-Persons-Especially-Women-and-Children-Plan.pdf)** (declaration, 2015-11-21)
   - *Regional action plan adopted alongside the ACTIP, setting out concrete measures across four pillars: prevention, protection, law enforcement/prosecution, and regional cooperation. Victim identification is a priority area under the protection pillar, requiring member states to develop screening procedures, train front-line responders, and establish referral mechanisms for identified and presumed victims.
 *
   - Tags: `indicators-screening`, `referral-pathway`, `first-responder-duties`, `cross-border-referral-return`
   - Entry: [`victim-identification/global-regional/asean-plan-of-action-2015.md`](victim-identification/global-regional/asean-plan-of-action-2015.md)
   - Source file: [`docs/victim-identification/global-regional/asean-plan-of-action-2015.pdf`](docs/victim-identification/global-regional/asean-plan-of-action-2015.pdf)
-
-- 🔓 **[ASEAN Convention Against Trafficking in Persons, Especially Women and Children (ACTIP)](https://asean.org/asean-convention-against-trafficking-in-persons-especially-women-and-children/)** (convention-treaty, 2015-11-21)
-  - *The first legally binding regional instrument on trafficking in the ASEAN region. Article 14 requires state parties to establish measures for the identification of victims, including through cooperation with NGOs. Articles 14–16 set out victim identification triggers, protection obligations, and assistance entitlements that apply once a person is identified as a victim or presumed victim of trafficking.
-*
-  - Tags: `definition-scope`, `indicators-screening`, `assistance-entitlements`, `cross-border-referral-return`
-  - Entry: [`victim-identification/global-regional/asean-actip-2015.md`](victim-identification/global-regional/asean-actip-2015.md)
 
 - 🔓 **[COMMIT Guidelines on Victim Identification and Referral Mechanisms: Common Guidelines for the Greater Mekong Sub-Region](https://www.iom.int/coordinated-mekong-ministerial-initiative-against-trafficking-commit-process)** (guideline-sop, 2016-10-26)
   - *Sub-regional guidelines adopted by the six Greater Mekong Sub-region governments (Cambodia, China, Lao PDR, Myanmar, Thailand, and Vietnam) establishing common indicators and procedures for trafficking victim identification and referral. The guidelines operationalise COMMIT policies at the national level, with a focus on border-area identification and transnational referral mechanisms.
@@ -888,18 +888,18 @@
 
 **UN**
 
+- 🔓 **[Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children](https://www.ohchr.org/en/instruments-mechanisms/instruments/protocol-prevent-suppress-and-punish-trafficking-persons)** (protocol, 2000-11-15)
+  - *Foundational international instrument defining trafficking in persons (Art. 3) through the elements of act, means, and purpose. Article 6 establishes obligations for victim assistance and protection, while the broader framework shapes global victim-identification standards and referral mechanisms.
+*
+  - Tags: `definition-scope`, `assistance-entitlements`, `referral-pathway`, `cross-border-referral-return`
+  - Entry: [`victim-identification/global-regional/un-palermo-protocol-2000.md`](victim-identification/global-regional/un-palermo-protocol-2000.md)
+
 - 🔓 **[United Nations Convention against Transnational Organized Crime](https://www.unodc.org/unodc/en/organized-crime/intro/UNTOC.html)** (convention-treaty, 2000-11-15)
   - *Parent convention to the Palermo Protocol, providing the overarching framework for international cooperation against transnational organized crime, including trafficking in persons. Establishes mutual legal assistance, extradition, and joint investigation mechanisms that underpin cross-border victim identification and referral.
 *
   - Tags: `cross-border-referral-return`, `assistance-entitlements`
   - Entry: [`victim-identification/global-regional/un-untoc-2000.md`](victim-identification/global-regional/un-untoc-2000.md)
   - Source file: [`docs/victim-identification/global-regional/un-untoc-2000.html`](docs/victim-identification/global-regional/un-untoc-2000.html)
-
-- 🔓 **[Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children](https://www.ohchr.org/en/instruments-mechanisms/instruments/protocol-prevent-suppress-and-punish-trafficking-persons)** (protocol, 2000-11-15)
-  - *Foundational international instrument defining trafficking in persons (Art. 3) through the elements of act, means, and purpose. Article 6 establishes obligations for victim assistance and protection, while the broader framework shapes global victim-identification standards and referral mechanisms.
-*
-  - Tags: `definition-scope`, `assistance-entitlements`, `referral-pathway`, `cross-border-referral-return`
-  - Entry: [`victim-identification/global-regional/un-palermo-protocol-2000.md`](victim-identification/global-regional/un-palermo-protocol-2000.md)
 
 - 🔓 **[OHCHR Recommended Principles and Guidelines on Human Rights and Human Trafficking (2002)](https://www.ohchr.org/en/publications/reference-publications/recommended-principles-and-guidelines-human-rights-and-human)** (guideline-sop, 2002)
   - *Foundational UN human-rights principles for anti-trafficking responses, establishing that the human rights of trafficked persons must be at the centre of all prevention, protection, and prosecution efforts. Guideline 2 specifically addresses victim identification, requiring States to develop guidelines and procedures for relevant authorities to enable identification and providing that trafficked persons shall not be detained, charged, or prosecuted for trafficking-related offences.
@@ -1539,17 +1539,17 @@
 
 **UK**
 
-- 🔓 **[Criminal Practice Directions 2023, Division 18E — Pre-Recorded Cross-Examination (Section 28)](https://www.judiciary.uk/guidance-and-resources/criminal-practice-directions/)** (practice-direction, 2023)
-  - *Practice directions governing the operation of s.28 YJCEA 1999 pre-recorded cross-examination for vulnerable witnesses. Sets out eligibility, procedure for ground rules hearings, recording requirements, and restrictions on questioning. Now rolled out to all Crown Courts.
-*
-  - Tags: `special-measures`, `judicial-directions`
-  - Entry: [`trauma-informed-courtroom-practice/operational-guidance/uk-criminal-practice-directions-18e.md`](trauma-informed-courtroom-practice/operational-guidance/uk-criminal-practice-directions-18e.md)
-
 - 🔓 **[CPS Guidance on Special Measures](https://www.cps.gov.uk/legal-guidance/special-measures)** (guideline-sop, 2023)
   - *CPS guidance for prosecutors on identifying eligible witnesses and applying for special measures under the YJCEA 1999. Covers assessment of vulnerability and intimidation, available measures, application procedure, and specific considerations for trafficking victims.
 *
   - Tags: `special-measures`, `trauma-informed-approach`
   - Entry: [`trauma-informed-courtroom-practice/operational-guidance/uk-cps-special-measures.md`](trauma-informed-courtroom-practice/operational-guidance/uk-cps-special-measures.md)
+
+- 🔓 **[Criminal Practice Directions 2023, Division 18E — Pre-Recorded Cross-Examination (Section 28)](https://www.judiciary.uk/guidance-and-resources/criminal-practice-directions/)** (practice-direction, 2023)
+  - *Practice directions governing the operation of s.28 YJCEA 1999 pre-recorded cross-examination for vulnerable witnesses. Sets out eligibility, procedure for ground rules hearings, recording requirements, and restrictions on questioning. Now rolled out to all Crown Courts.
+*
+  - Tags: `special-measures`, `judicial-directions`
+  - Entry: [`trauma-informed-courtroom-practice/operational-guidance/uk-criminal-practice-directions-18e.md`](trauma-informed-courtroom-practice/operational-guidance/uk-criminal-practice-directions-18e.md)
 
 - 🔓 **[Equal Treatment Bench Book (Judicial College)](https://www.judiciary.uk/guidance-and-resources/equal-treatment-bench-book/)** (guideline-sop, 2023-04-01)
   - *Comprehensive guide for judges on ensuring fair treatment in court for persons with protected characteristics and vulnerabilities. Chapter on trafficking and modern slavery covers trauma responses, cultural factors, and practical adjustments. Chapter on vulnerable witnesses covers communication needs and intermediaries.

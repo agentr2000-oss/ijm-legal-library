@@ -56,7 +56,7 @@ def collect_entries():
     entries = []
     for d in ENTRY_DIRS:
         full = os.path.join(REPO_ROOT, d)
-        for fp in glob.glob(os.path.join(full, "**", "*.md"), recursive=True):
+        for fp in sorted(glob.glob(os.path.join(full, "**", "*.md"), recursive=True)):
             fm = parse_frontmatter(fp)
             if fm:
                 fm["_path"] = os.path.relpath(fp, REPO_ROOT)
