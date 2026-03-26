@@ -62,3 +62,29 @@ schema: [what changed in controlled vocabularies]
 
 ## Dependencies
 Python 3.8+ and `pyyaml` (`pip install pyyaml`)
+
+## Processing pending submissions
+
+Non-technical users submit entries via `submit.html` (a web form on the hosted site). Each submission creates a `.yml` file in `pending/` containing: title, url, notes, access level. These files await classification by Claude Code.
+
+When asked to "process pending submissions" or "process pending":
+
+1. List all `.yml` files in `pending/` (ignore `pending/errors/` and `.gitkeep`)
+2. For each pending file:
+   a. Read the YAML content (title, url, notes, access)
+   b. If a url is provided, fetch it to understand the document content
+   c. Classify: determine the correct thematic folder, jurisdiction, bucket, document_type, issuing_body, date_issued, status
+   d. Select 1-5 tags from `scripts/schema.yml` (only genuinely relevant ones)
+   e. Write a 1-3 sentence summary focused on thematic relevance
+   f. Determine key_pinpoint if identifiable from the document
+   g. Generate filename: `[jurisdiction-lowercase]-[short-slug].md`
+   h. Create the `.md` entry file in the correct `{theme}/{bucket}/` folder, matching the format in `scripts/TEMPLATE.md`
+   i. Set `added_by` to `"web-submit"` and `date_added` to today's date
+   j. If access is `backend-needed`, determine `backend_source` and `backend_confidence` from the notes/url, and preserve the user's `retrieval_notes`
+   k. If classification is impossible (too little info), move the file to `pending/errors/` and append an `error_reason` field explaining why
+3. After all files are processed:
+   a. Run: `python scripts/validate.py` — fix any errors
+   b. Run: `python scripts/render-body.py`
+   c. Run: `python scripts/build-index.py`
+   d. Delete all successfully processed `.yml` files from `pending/`
+   e. Commit with message: `add: process N pending submissions`

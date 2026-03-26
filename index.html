@@ -385,6 +385,7 @@ function App() {
           <div style={{ fontSize: 10, fontFamily: sans, color: "#aaa", marginTop: 6 }}>
             {status === "ok" ? "✓" : "⚠"} Loaded: {lastLoad} · {data.length} entries
             {" · "}<button onClick={load} style={{ background: "none", border: "none", color: "#1a5c8a", cursor: "pointer", fontSize: 10, textDecoration: "underline", padding: 0, fontFamily: sans }}>Refresh</button>
+            {" · "}<a href="submit.html" style={{ color: "#1a5c8a", fontSize: 10, fontFamily: sans }}>Submit Entry</a>
           </div>
         )}
       </div>

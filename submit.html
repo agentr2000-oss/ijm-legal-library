@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Submit Entry — IJM Legal Library</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: Georgia, 'Times New Roman', serif;
+      background: #fdfcf9;
+      color: #1a1a2e;
+      line-height: 1.6;
+      padding: 2rem 1rem;
+    }
+    .container { max-width: 600px; margin: 0 auto; }
+    h1 { font-size: 1.5rem; margin-bottom: 0.25rem; }
+    .subtitle {
+      font-size: 0.9rem; color: #666; margin-bottom: 1.5rem;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    }
+    .subtitle a { color: #4a6fa5; }
+    label {
+      display: block; font-weight: bold; margin-top: 1rem; margin-bottom: 0.25rem;
+      font-size: 0.95rem;
+    }
+    label .optional {
+      font-weight: normal; color: #888; font-size: 0.85rem;
+    }
+    input[type="text"], input[type="url"], input[type="password"], select, textarea {
+      width: 100%; padding: 0.5rem 0.6rem; border: 1px solid #ccc; border-radius: 4px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 0.95rem; background: #fff;
+    }
+    textarea { min-height: 80px; resize: vertical; }
+    select { appearance: auto; }
+    input:focus, select:focus, textarea:focus {
+      outline: none; border-color: #4a6fa5; box-shadow: 0 0 0 2px rgba(74,111,165,0.15);
+    }
+    .hint {
+      font-size: 0.8rem; color: #888; margin-top: 0.2rem;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    }
+    button {
+      margin-top: 1.5rem; padding: 0.6rem 1.5rem;
+      background: #4a6fa5; color: #fff; border: none; border-radius: 4px;
+      font-size: 1rem; cursor: pointer;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    }
+    button:hover { background: #3a5a8a; }
+    button:disabled { background: #aaa; cursor: not-allowed; }
+    .message {
+      margin-top: 1rem; padding: 0.75rem 1rem; border-radius: 4px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 0.95rem;
+    }
+    .message.success { background: #e8f5e9; color: #2e7d32; border: 1px solid #a5d6a7; }
+    .message.error { background: #ffebee; color: #c62828; border: 1px solid #ef9a9a; }
+    #retrieval-group { display: none; }
+    #retrieval-group.visible { display: block; }
+    .file-notice {
+      margin-top: 1.5rem; padding: 0.75rem 1rem; background: #fff3e0;
+      border: 1px solid #ffcc80; border-radius: 4px; display: none;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-size: 0.9rem; color: #e65100;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Submit Entry</h1>
+    <p class="subtitle">Add a resource to the <a href="index.html">IJM Legal Library</a>. Entries are queued for review and classification.</p>
+
+    <div class="file-notice" id="file-notice">
+      This form requires the hosted site to submit entries. It will not work from a local file.
+    </div>
+
+    <form id="submit-form">
+      <label for="title">Title</label>
+      <input type="text" id="title" name="title" required placeholder="e.g. Modern Slavery Act 2015">
+      <div class="hint">Full official title, case name, or document name</div>
+
+      <label for="url">Source URL <span class="optional">(optional)</span></label>
+      <input type="url" id="url" name="url" placeholder="https://...">
+      <div class="hint">Link to the original document if publicly accessible</div>
+
+      <label for="notes">Notes <span class="optional">(optional)</span></label>
+      <textarea id="notes" name="notes" placeholder="e.g. UK legislation, covers NRM referral and s.45 defence. Relevant to victim identification and prosecution themes."></textarea>
+      <div class="hint">Any context that helps classify the entry (jurisdiction, theme, what it covers)</div>
+
+      <label for="access">Access</label>
+      <select id="access" name="access">
+        <option value="public">Public (freely accessible online)</option>
+        <option value="backend-needed">Backend needed (paywalled / restricted)</option>
+      </select>
+
+      <div id="retrieval-group">
+        <label for="retrieval_notes">Retrieval Notes</label>
+        <textarea id="retrieval_notes" name="retrieval_notes" placeholder="e.g. Available on Westlaw UK. Search: 2015 c.30. Export as PDF."></textarea>
+        <div class="hint">How to find and retrieve this document (database, citation, docket number)</div>
+      </div>
+
+      <label for="passphrase">Passphrase</label>
+      <input type="password" id="passphrase" name="passphrase" required>
+
+      <button type="submit" id="submit-btn">Submit Entry</button>
+    </form>
+
+    <div id="message" class="message" style="display:none;"></div>
+  </div>
+
+  <script>
+    // Show file:// warning
+    if (location.protocol === 'file:') {
+      document.getElementById('file-notice').style.display = 'block';
+      document.getElementById('submit-btn').disabled = true;
+    }
+
+    // Toggle retrieval notes
+    document.getElementById('access').addEventListener('change', function() {
+      var group = document.getElementById('retrieval-group');
+      group.className = this.value === 'backend-needed' ? 'visible' : '';
+    });
+
+    // Submit
+    document.getElementById('submit-form').addEventListener('submit', async function(e) {
+      e.preventDefault();
+      var btn = document.getElementById('submit-btn');
+      var msg = document.getElementById('message');
+      msg.style.display = 'none';
+      btn.disabled = true;
+      btn.textContent = 'Submitting...';
+
+      var data = {
+        title: document.getElementById('title').value.trim(),
+        url: document.getElementById('url').value.trim(),
+        notes: document.getElementById('notes').value.trim(),
+        access: document.getElementById('access').value,
+        passphrase: document.getElementById('passphrase').value,
+      };
+      if (data.access === 'backend-needed') {
+        data.retrieval_notes = document.getElementById('retrieval_notes').value.trim();
+      }
+
+      try {
+        var res = await fetch('/api/submit', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(data)
+        });
+        var result = await res.json();
+
+        if (result.ok) {
+          msg.className = 'message success';
+          msg.textContent = result.message || 'Submitted! Entry queued for processing.';
+          msg.style.display = 'block';
+          document.getElementById('submit-form').reset();
+          document.getElementById('retrieval-group').className = '';
+        } else {
+          msg.className = 'message error';
+          msg.textContent = result.error || 'Submission failed. Please try again.';
+          msg.style.display = 'block';
+        }
+      } catch (err) {
+        msg.className = 'message error';
+        msg.textContent = 'Network error. Please check your connection and try again.';
+        msg.style.display = 'block';
+      }
+
+      btn.disabled = false;
+      btn.textContent = 'Submit Entry';
+    });
+  </script>
+</body>
+</html>
