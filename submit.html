@@ -84,6 +84,10 @@
       <input type="url" id="url" name="url" placeholder="https://...">
       <div class="hint">Link to the original document if publicly accessible</div>
 
+      <label for="supporting_doc_url">Supporting Document <span class="optional">(optional)</span></label>
+      <input type="url" id="supporting_doc_url" name="supporting_doc_url" placeholder="https://docs.google.com/... or Dropbox/OneDrive link">
+      <div class="hint">Link to your own analysis or notes (Google Docs, Dropbox, OneDrive, etc.)</div>
+
       <label for="notes">Notes <span class="optional">(optional)</span></label>
       <textarea id="notes" name="notes" placeholder="e.g. UK legislation, covers NRM referral and s.45 defence. Relevant to victim identification and prosecution themes."></textarea>
       <div class="hint">Any context that helps classify the entry (jurisdiction, theme, what it covers)</div>
@@ -134,6 +138,7 @@
       var data = {
         title: document.getElementById('title').value.trim(),
         url: document.getElementById('url').value.trim(),
+        supporting_doc_url: document.getElementById('supporting_doc_url').value.trim(),
         notes: document.getElementById('notes').value.trim(),
         access: document.getElementById('access').value,
         passphrase: document.getElementById('passphrase').value,

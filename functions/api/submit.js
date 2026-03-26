@@ -32,6 +32,9 @@ function buildYaml(data) {
   if (data.url) {
     lines.push(`url: "${data.url}"`);
   }
+  if (data.supporting_doc_url) {
+    lines.push(`supporting_doc_url: "${data.supporting_doc_url}"`);
+  }
   if (data.notes) {
     lines.push(`notes: >`, `  ${data.notes.replace(/\n/g, "\n  ")}`);
   }
@@ -56,7 +59,7 @@ export async function onRequestPost(context) {
     return jsonResponse(400, { ok: false, error: "Invalid JSON body" });
   }
 
-  const { title, url, notes, access, passphrase, retrieval_notes } = body;
+  const { title, url, supporting_doc_url, notes, access, passphrase, retrieval_notes } = body;
 
   // Auth
   if (!passphrase || !timingSafeEqual(passphrase, env.SUBMIT_PASSPHRASE)) {
@@ -87,6 +90,7 @@ export async function onRequestPost(context) {
     submitted_at: new Date().toISOString(),
     title: title.trim(),
     url: url ? url.trim() : "",
+    supporting_doc_url: supporting_doc_url ? supporting_doc_url.trim() : "",
     notes: notes ? notes.trim() : "",
     access,
     retrieval_notes: retrieval_notes ? retrieval_notes.trim() : "",
